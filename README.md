@@ -20,12 +20,12 @@ Bem vindo ao dev-tools, um site com ferramentas úteis para desenvolvimento de s
 - [ ] Calculadora de SHA512
 
 ### Conversores de temperaturas
-- [ ] Conversor de Celsius para Fahrenheit
-- [ ] Conversor de Fahrenheit para Celsius
-- [ ] Conversor de Celsius para Kelvin
-- [ ] Conversor de Kelvin para Celsius
-- [ ] Conversor de Fahrenheit para Kelvin
-- [ ] Conversor de Kelvin para Fahrenheit
+- [x] Conversor de Celsius para Fahrenheit
+- [x] Conversor de Fahrenheit para Celsius
+- [x] Conversor de Celsius para Kelvin
+- [x] Conversor de Kelvin para Celsius
+- [x] Conversor de Fahrenheit para Kelvin
+- [x] Conversor de Kelvin para Fahrenheit
 
 ### Conversores de bases numéricas
 - [ ] Conversor de binário para decimal
