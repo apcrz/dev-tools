@@ -5,6 +5,7 @@ import { AiFillTool } from 'react-icons/ai';
 import { FiChevronDown, FiChevronUp, FiMenu } from 'react-icons/fi';
 import { FaCode, FaWrench, FaLock, FaServer, FaFileCode } from 'react-icons/fa';
 import Link from 'next/link';
+import { PiThermometerDuotone } from "react-icons/pi";
 
 const tools = [
     {
@@ -52,6 +53,18 @@ const tools = [
         icon: <FaFileCode className="text-lg" />,
         tools: [
             { name: 'Embelezador de Código', href: '/code-beautifier' },
+        ],
+    },
+    {
+        group: 'Temperaturas',
+        icon: <PiThermometerDuotone className="text-lg" />,
+        tools: [
+            { name: 'Converter Celsius para Fahrenheit', href: '/temperaturas?from=celsius&to=fahrenheit' },
+            { name: 'Converter Fahrenheit para Celsius', href: '/temperaturas?from=fahrenheit&to=celsius' },
+            { name: 'Converter Celsius para Kelvin', href: '/temperaturas?from=celsius&to=kelvin' },
+            { name: 'Converter Kelvin para Celsius', href: '/temperaturas?from=kelvin&to=celsius' },
+            { name: 'Converter Fahrenheit para Kelvin', href: '/temperaturas?from=fahrenheit&to=kelvin' },
+            { name: 'Converter Kelvin para Fahrenheit', href: '/temperaturas?from=kelvin&to=fahrenheit' },
         ],
     },
 ];
@@ -102,7 +115,7 @@ export default function Sidebar() {
                         </Link>
                     </span>
                 </div>
-                <nav className="p-4 overflow-y-auto h-[calc(100vh-4rem)]"> {/* Ajuste a altura e adicione rolagem */}
+                <nav className="p-4 overflow-y-auto h-[calc(100vh-4rem)]">
                     <ul className="space-y-2">
                         {tools.map((group) => (
                             <li key={group.group}>

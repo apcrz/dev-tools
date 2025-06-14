@@ -84,7 +84,6 @@ Mais informações sobre a API fake podem ser encontradas na [documentação da 
 - **Sem anúncios**: o site não possui anúncios, então você pode usar as ferramentas sem interrupções.
 - **Sem rastreamento**: o site não rastreia seus dados, então você pode usar as ferramentas com privacidade.
 - **Sem cookies**: o site não utiliza cookies, então você pode usar as ferramentas sem preocupações.
-- **Acessibilidade**: o site é acessível e funciona em qualquer dispositivo, seja desktop, tablet ou smartphone.
 - **Precisão** ferramentas projetadas com precisão para garantir resultados corretos.
 
 ## Como funciona?
