@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "nome": "Monitor",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 601.62,
+    "categoria": "Móveis",
+    "estoque": 39
+  },
+  {
+    "id": 2,
+    "nome": "Fone de Ouvido",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 584.02,
+    "categoria": "Eletrônicos",
+    "estoque": 62
+  },
+  {
+    "id": 3,
+    "nome": "Ar-condicionado",
+    "descricao": "Ideal para uso diário.",
+    "preco": 680.5,
+    "categoria": "Móveis",
+    "estoque": 33
+  },
+  {
+    "id": 4,
+    "nome": "Fogão",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 805.38,
+    "categoria": "Informática",
+    "estoque": 45
+  },
+  {
+    "id": 5,
+    "nome": "Smartwatch",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 532.04,
+    "categoria": "Ferramentas",
+    "estoque": 86
+  },
+  {
+    "id": 6,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 569.97,
+    "categoria": "Eletrônicos",
+    "estoque": 86
+  },
+  {
+    "id": 7,
+    "nome": "Teclado",
+    "descricao": "Ideal para uso diário.",
+    "preco": 88.15,
+    "categoria": "Eletrodomésticos",
+    "estoque": 14
+  },
+  {
+    "id": 8,
+    "nome": "Fone de Ouvido",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 927.23,
+    "categoria": "Eletrônicos",
+    "estoque": 76
+  },
+  {
+    "id": 9,
+    "nome": "Geladeira",
+    "descricao": "Design moderno e funcional.",
+    "preco": 703.51,
+    "categoria": "Ferramentas",
+    "estoque": 98
+  },
+  {
+    "id": 10,
+    "nome": "Tablet",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 242.05,
+    "categoria": "Ferramentas",
+    "estoque": 47
+  },
+  {
+    "id": 11,
+    "nome": "Tablet",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 875.77,
+    "categoria": "Móveis",
+    "estoque": 1
+  },
+  {
+    "id": 12,
+    "nome": "Monitor",
+    "descricao": "Ótima durabilidade.",
+    "preco": 873.06,
+    "categoria": "Móveis",
+    "estoque": 34
+  },
+  {
+    "id": 13,
+    "nome": "Fogão",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 744.89,
+    "categoria": "Móveis",
+    "estoque": 43
+  },
+  {
+    "id": 14,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 839.09,
+    "categoria": "Informática",
+    "estoque": 15
+  },
+  {
+    "id": 15,
+    "nome": "Impressora",
+    "descricao": "Edição limitada.",
+    "preco": 273.8,
+    "categoria": "Móveis",
+    "estoque": 27
+  },
+  {
+    "id": 16,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 278.78,
+    "categoria": "Eletrônicos",
+    "estoque": 45
+  },
+  {
+    "id": 17,
+    "nome": "Ventilador",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 867.35,
+    "categoria": "Eletrônicos",
+    "estoque": 41
+  },
+  {
+    "id": 18,
+    "nome": "Micro-ondas",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 147.51,
+    "categoria": "Ferramentas",
+    "estoque": 92
+  },
+  {
+    "id": 19,
+    "nome": "Geladeira",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 731.04,
+    "categoria": "Informática",
+    "estoque": 14
+  },
+  {
+    "id": 20,
+    "nome": "Smartphone",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 174.47,
+    "categoria": "Eletrodomésticos",
+    "estoque": 44
+  },
+  {
+    "id": 21,
+    "nome": "Tablet",
+    "descricao": "Edição limitada.",
+    "preco": 174.56,
+    "categoria": "Eletrodomésticos",
+    "estoque": 98
+  },
+  {
+    "id": 22,
+    "nome": "Micro-ondas",
+    "descricao": "Edição limitada.",
+    "preco": 812.77,
+    "categoria": "Ferramentas",
+    "estoque": 17
+  },
+  {
+    "id": 23,
+    "nome": "Câmera",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 221.74,
+    "categoria": "Eletrodomésticos",
+    "estoque": 12
+  },
+  {
+    "id": 24,
+    "nome": "Smartwatch",
+    "descricao": "Ótima durabilidade.",
+    "preco": 563.58,
+    "categoria": "Informática",
+    "estoque": 95
+  },
+  {
+    "id": 25,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 118.69,
+    "categoria": "Eletrônicos",
+    "estoque": 85
+  },
+  {
+    "id": 26,
+    "nome": "Ventilador",
+    "descricao": "Edição limitada.",
+    "preco": 290.9,
+    "categoria": "Eletrodomésticos",
+    "estoque": 86
+  },
+  {
+    "id": 27,
+    "nome": "Impressora",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 775.68,
+    "categoria": "Informática",
+    "estoque": 41
+  },
+  {
+    "id": 28,
+    "nome": "Fogão",
+    "descricao": "Edição limitada.",
+    "preco": 394.6,
+    "categoria": "Ferramentas",
+    "estoque": 11
+  },
+  {
+    "id": 29,
+    "nome": "Impressora",
+    "descricao": "Design moderno e funcional.",
+    "preco": 168.04,
+    "categoria": "Eletrodomésticos",
+    "estoque": 31
+  },
+  {
+    "id": 30,
+    "nome": "Notebook",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 47.95,
+    "categoria": "Informática",
+    "estoque": 0
+  },
+  {
+    "id": 31,
+    "nome": "Monitor",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 74.89,
+    "categoria": "Informática",
+    "estoque": 99
+  },
+  {
+    "id": 32,
+    "nome": "Monitor",
+    "descricao": "Ótima durabilidade.",
+    "preco": 540.2,
+    "categoria": "Móveis",
+    "estoque": 64
+  },
+  {
+    "id": 33,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 742.81,
+    "categoria": "Ferramentas",
+    "estoque": 22
+  },
+  {
+    "id": 34,
+    "nome": "Geladeira",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 699.72,
+    "categoria": "Eletrônicos",
+    "estoque": 79
+  },
+  {
+    "id": 35,
+    "nome": "Ventilador",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 716.46,
+    "categoria": "Eletrônicos",
+    "estoque": 59
+  },
+  {
+    "id": 36,
+    "nome": "Mouse",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 56.84,
+    "categoria": "Eletrodomésticos",
+    "estoque": 2
+  },
+  {
+    "id": 37,
+    "nome": "Fone de Ouvido",
+    "descricao": "Ótima durabilidade.",
+    "preco": 343.91,
+    "categoria": "Eletrônicos",
+    "estoque": 62
+  },
+  {
+    "id": 38,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compacto e eficiente.",
+    "preco": 891.96,
+    "categoria": "Eletrônicos",
+    "estoque": 34
+  },
+  {
+    "id": 39,
+    "nome": "Smartphone",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 743.29,
+    "categoria": "Informática",
+    "estoque": 39
+  },
+  {
+    "id": 40,
+    "nome": "Smartwatch",
+    "descricao": "Ótima durabilidade.",
+    "preco": 197.5,
+    "categoria": "Eletrônicos",
+    "estoque": 65
+  },
+  {
+    "id": 41,
+    "nome": "Micro-ondas",
+    "descricao": "Compacto e eficiente.",
+    "preco": 59.43,
+    "categoria": "Eletrônicos",
+    "estoque": 58
+  },
+  {
+    "id": 42,
+    "nome": "Teclado",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 779.13,
+    "categoria": "Eletrodomésticos",
+    "estoque": 70
+  },
+  {
+    "id": 43,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 198.41,
+    "categoria": "Informática",
+    "estoque": 56
+  },
+  {
+    "id": 44,
+    "nome": "Notebook",
+    "descricao": "Design moderno e funcional.",
+    "preco": 854.74,
+    "categoria": "Ferramentas",
+    "estoque": 95
+  },
+  {
+    "id": 45,
+    "nome": "Geladeira",
+    "descricao": "Ótima durabilidade.",
+    "preco": 599.22,
+    "categoria": "Informática",
+    "estoque": 60
+  },
+  {
+    "id": 46,
+    "nome": "Smartphone",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 246.71,
+    "categoria": "Ferramentas",
+    "estoque": 0
+  },
+  {
+    "id": 47,
+    "nome": "Teclado",
+    "descricao": "Ótima durabilidade.",
+    "preco": 712.5,
+    "categoria": "Eletrônicos",
+    "estoque": 58
+  },
+  {
+    "id": 48,
+    "nome": "Smartwatch",
+    "descricao": "Design moderno e funcional.",
+    "preco": 956.84,
+    "categoria": "Eletrônicos",
+    "estoque": 39
+  },
+  {
+    "id": 49,
+    "nome": "Notebook",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 470.4,
+    "categoria": "Ferramentas",
+    "estoque": 2
+  },
+  {
+    "id": 50,
+    "nome": "Fogão",
+    "descricao": "Edição limitada.",
+    "preco": 576.92,
+    "categoria": "Móveis",
+    "estoque": 56
+  },
+  {
+    "id": 51,
+    "nome": "Câmera",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 572.36,
+    "categoria": "Informática",
+    "estoque": 53
+  },
+  {
+    "id": 52,
+    "nome": "Teclado",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 724.98,
+    "categoria": "Informática",
+    "estoque": 57
+  },
+  {
+    "id": 53,
+    "nome": "Ventilador",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 177.84,
+    "categoria": "Móveis",
+    "estoque": 46
+  },
+  {
+    "id": 54,
+    "nome": "Tablet",
+    "descricao": "Design moderno e funcional.",
+    "preco": 848.17,
+    "categoria": "Ferramentas",
+    "estoque": 2
+  },
+  {
+    "id": 55,
+    "nome": "Smartphone",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 197.94,
+    "categoria": "Eletrodomésticos",
+    "estoque": 53
+  },
+  {
+    "id": 56,
+    "nome": "Fone de Ouvido",
+    "descricao": "Design moderno e funcional.",
+    "preco": 32.46,
+    "categoria": "Informática",
+    "estoque": 60
+  },
+  {
+    "id": 57,
+    "nome": "Ar-condicionado",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 389.85,
+    "categoria": "Eletrônicos",
+    "estoque": 2
+  },
+  {
+    "id": 58,
+    "nome": "Teclado",
+    "descricao": "Edição limitada.",
+    "preco": 686.84,
+    "categoria": "Informática",
+    "estoque": 11
+  },
+  {
+    "id": 59,
+    "nome": "Teclado",
+    "descricao": "Edição limitada.",
+    "preco": 438.31,
+    "categoria": "Eletrônicos",
+    "estoque": 68
+  },
+  {
+    "id": 60,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 195.42,
+    "categoria": "Eletrodomésticos",
+    "estoque": 87
+  },
+  {
+    "id": 61,
+    "nome": "Impressora",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 597.23,
+    "categoria": "Ferramentas",
+    "estoque": 50
+  },
+  {
+    "id": 62,
+    "nome": "Fogão",
+    "descricao": "Ideal para uso diário.",
+    "preco": 708.52,
+    "categoria": "Móveis",
+    "estoque": 88
+  },
+  {
+    "id": 63,
+    "nome": "Monitor",
+    "descricao": "Edição limitada.",
+    "preco": 294.11,
+    "categoria": "Móveis",
+    "estoque": 62
+  },
+  {
+    "id": 64,
+    "nome": "Câmera",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 425.67,
+    "categoria": "Móveis",
+    "estoque": 55
+  },
+  {
+    "id": 65,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 718.65,
+    "categoria": "Eletrodomésticos",
+    "estoque": 5
+  },
+  {
+    "id": 66,
+    "nome": "Monitor",
+    "descricao": "Compacto e eficiente.",
+    "preco": 290.25,
+    "categoria": "Eletrodomésticos",
+    "estoque": 53
+  },
+  {
+    "id": 67,
+    "nome": "Micro-ondas",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 673.04,
+    "categoria": "Eletrodomésticos",
+    "estoque": 47
+  },
+  {
+    "id": 68,
+    "nome": "Monitor",
+    "descricao": "Edição limitada.",
+    "preco": 188.77,
+    "categoria": "Ferramentas",
+    "estoque": 74
+  },
+  {
+    "id": 69,
+    "nome": "Ventilador",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 852.54,
+    "categoria": "Informática",
+    "estoque": 53
+  },
+  {
+    "id": 70,
+    "nome": "Notebook",
+    "descricao": "Ideal para uso diário.",
+    "preco": 914.53,
+    "categoria": "Eletrônicos",
+    "estoque": 85
+  },
+  {
+    "id": 71,
+    "nome": "Câmera",
+    "descricao": "Ótima durabilidade.",
+    "preco": 175.48,
+    "categoria": "Eletrodomésticos",
+    "estoque": 45
+  },
+  {
+    "id": 72,
+    "nome": "Fogão",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 859.49,
+    "categoria": "Eletrodomésticos",
+    "estoque": 95
+  },
+  {
+    "id": 73,
+    "nome": "Ar-condicionado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 685.57,
+    "categoria": "Eletrodomésticos",
+    "estoque": 57
+  },
+  {
+    "id": 74,
+    "nome": "Fone de Ouvido",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 91.11,
+    "categoria": "Ferramentas",
+    "estoque": 63
+  },
+  {
+    "id": 75,
+    "nome": "Geladeira",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 695.22,
+    "categoria": "Informática",
+    "estoque": 58
+  },
+  {
+    "id": 76,
+    "nome": "Câmera",
+    "descricao": "Design moderno e funcional.",
+    "preco": 326.32,
+    "categoria": "Móveis",
+    "estoque": 55
+  },
+  {
+    "id": 77,
+    "nome": "Smartwatch",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 405.23,
+    "categoria": "Móveis",
+    "estoque": 98
+  },
+  {
+    "id": 78,
+    "nome": "Geladeira",
+    "descricao": "Design moderno e funcional.",
+    "preco": 255.84,
+    "categoria": "Informática",
+    "estoque": 63
+  },
+  {
+    "id": 79,
+    "nome": "Geladeira",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 775.7,
+    "categoria": "Móveis",
+    "estoque": 25
+  },
+  {
+    "id": 80,
+    "nome": "Tablet",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 193.68,
+    "categoria": "Móveis",
+    "estoque": 80
+  },
+  {
+    "id": 81,
+    "nome": "Fogão",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 230.5,
+    "categoria": "Informática",
+    "estoque": 99
+  },
+  {
+    "id": 82,
+    "nome": "Teclado",
+    "descricao": "Edição limitada.",
+    "preco": 174.56,
+    "categoria": "Ferramentas",
+    "estoque": 43
+  },
+  {
+    "id": 83,
+    "nome": "Smartphone",
+    "descricao": "Ideal para uso diário.",
+    "preco": 813.68,
+    "categoria": "Eletrodomésticos",
+    "estoque": 95
+  },
+  {
+    "id": 84,
+    "nome": "Smartwatch",
+    "descricao": "Compacto e eficiente.",
+    "preco": 465.31,
+    "categoria": "Eletrônicos",
+    "estoque": 57
+  },
+  {
+    "id": 85,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 236.67,
+    "categoria": "Eletrônicos",
+    "estoque": 23
+  },
+  {
+    "id": 86,
+    "nome": "Fogão",
+    "descricao": "Compacto e eficiente.",
+    "preco": 270.38,
+    "categoria": "Móveis",
+    "estoque": 5
+  },
+  {
+    "id": 87,
+    "nome": "Geladeira",
+    "descricao": "Edição limitada.",
+    "preco": 134.97,
+    "categoria": "Ferramentas",
+    "estoque": 53
+  },
+  {
+    "id": 88,
+    "nome": "Geladeira",
+    "descricao": "Compacto e eficiente.",
+    "preco": 872.99,
+    "categoria": "Móveis",
+    "estoque": 68
+  },
+  {
+    "id": 89,
+    "nome": "Tablet",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 885.5,
+    "categoria": "Informática",
+    "estoque": 37
+  },
+  {
+    "id": 90,
+    "nome": "Câmera",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 736.32,
+    "categoria": "Informática",
+    "estoque": 96
+  },
+  {
+    "id": 91,
+    "nome": "Smartphone",
+    "descricao": "Design moderno e funcional.",
+    "preco": 359.25,
+    "categoria": "Ferramentas",
+    "estoque": 96
+  },
+  {
+    "id": 92,
+    "nome": "Micro-ondas",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 397.69,
+    "categoria": "Informática",
+    "estoque": 2
+  },
+  {
+    "id": 93,
+    "nome": "Ventilador",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 61.59,
+    "categoria": "Informática",
+    "estoque": 79
+  },
+  {
+    "id": 94,
+    "nome": "Fogão",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 527.84,
+    "categoria": "Eletrodomésticos",
+    "estoque": 88
+  },
+  {
+    "id": 95,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 443.4,
+    "categoria": "Eletrônicos",
+    "estoque": 67
+  },
+  {
+    "id": 96,
+    "nome": "Câmera",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 766.96,
+    "categoria": "Informática",
+    "estoque": 10
+  },
+  {
+    "id": 97,
+    "nome": "Monitor",
+    "descricao": "Compacto e eficiente.",
+    "preco": 472.71,
+    "categoria": "Informática",
+    "estoque": 96
+  },
+  {
+    "id": 98,
+    "nome": "Smartwatch",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 163.32,
+    "categoria": "Eletrodomésticos",
+    "estoque": 41
+  },
+  {
+    "id": 99,
+    "nome": "Geladeira",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 464.66,
+    "categoria": "Móveis",
+    "estoque": 41
+  },
+  {
+    "id": 100,
+    "nome": "Tablet",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 865,
+    "categoria": "Móveis",
+    "estoque": 58
+  },
+  {
+    "id": 101,
+    "nome": "Fogão",
+    "descricao": "Compacto e eficiente.",
+    "preco": 278.12,
+    "categoria": "Móveis",
+    "estoque": 41
+  },
+  {
+    "id": 102,
+    "nome": "Teclado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 670.24,
+    "categoria": "Ferramentas",
+    "estoque": 0
+  },
+  {
+    "id": 103,
+    "nome": "Tablet",
+    "descricao": "Ideal para uso diário.",
+    "preco": 601.71,
+    "categoria": "Eletrônicos",
+    "estoque": 16
+  },
+  {
+    "id": 104,
+    "nome": "Tablet",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 286.47,
+    "categoria": "Eletrônicos",
+    "estoque": 15
+  },
+  {
+    "id": 105,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 258.9,
+    "categoria": "Informática",
+    "estoque": 29
+  },
+  {
+    "id": 106,
+    "nome": "Fogão",
+    "descricao": "Ideal para uso diário.",
+    "preco": 172.86,
+    "categoria": "Eletrodomésticos",
+    "estoque": 46
+  },
+  {
+    "id": 107,
+    "nome": "Impressora",
+    "descricao": "Edição limitada.",
+    "preco": 49.85,
+    "categoria": "Ferramentas",
+    "estoque": 94
+  },
+  {
+    "id": 108,
+    "nome": "Smartphone",
+    "descricao": "Design moderno e funcional.",
+    "preco": 214.24,
+    "categoria": "Móveis",
+    "estoque": 5
+  },
+  {
+    "id": 109,
+    "nome": "Impressora",
+    "descricao": "Design moderno e funcional.",
+    "preco": 619.79,
+    "categoria": "Ferramentas",
+    "estoque": 96
+  },
+  {
+    "id": 110,
+    "nome": "Fogão",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 525.88,
+    "categoria": "Ferramentas",
+    "estoque": 100
+  },
+  {
+    "id": 111,
+    "nome": "Ar-condicionado",
+    "descricao": "Edição limitada.",
+    "preco": 578.84,
+    "categoria": "Informática",
+    "estoque": 78
+  },
+  {
+    "id": 112,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 405.19,
+    "categoria": "Ferramentas",
+    "estoque": 35
+  },
+  {
+    "id": 113,
+    "nome": "Monitor",
+    "descricao": "Compacto e eficiente.",
+    "preco": 30.81,
+    "categoria": "Eletrodomésticos",
+    "estoque": 51
+  },
+  {
+    "id": 114,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 987.14,
+    "categoria": "Eletrodomésticos",
+    "estoque": 3
+  },
+  {
+    "id": 115,
+    "nome": "Mouse",
+    "descricao": "Edição limitada.",
+    "preco": 644.12,
+    "categoria": "Eletrônicos",
+    "estoque": 18
+  },
+  {
+    "id": 116,
+    "nome": "Impressora",
+    "descricao": "Design moderno e funcional.",
+    "preco": 648.66,
+    "categoria": "Eletrodomésticos",
+    "estoque": 84
+  },
+  {
+    "id": 117,
+    "nome": "Smartwatch",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 411.52,
+    "categoria": "Ferramentas",
+    "estoque": 52
+  },
+  {
+    "id": 118,
+    "nome": "Fogão",
+    "descricao": "Compacto e eficiente.",
+    "preco": 759.63,
+    "categoria": "Eletrodomésticos",
+    "estoque": 12
+  },
+  {
+    "id": 119,
+    "nome": "Smartphone",
+    "descricao": "Design moderno e funcional.",
+    "preco": 399.14,
+    "categoria": "Ferramentas",
+    "estoque": 41
+  },
+  {
+    "id": 120,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 519.96,
+    "categoria": "Eletrônicos",
+    "estoque": 71
+  },
+  {
+    "id": 121,
+    "nome": "Teclado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 815.87,
+    "categoria": "Eletrodomésticos",
+    "estoque": 58
+  },
+  {
+    "id": 122,
+    "nome": "Notebook",
+    "descricao": "Ótima durabilidade.",
+    "preco": 592.82,
+    "categoria": "Informática",
+    "estoque": 53
+  },
+  {
+    "id": 123,
+    "nome": "Ar-condicionado",
+    "descricao": "Ótima durabilidade.",
+    "preco": 896.55,
+    "categoria": "Informática",
+    "estoque": 97
+  },
+  {
+    "id": 124,
+    "nome": "Monitor",
+    "descricao": "Ótima durabilidade.",
+    "preco": 23.07,
+    "categoria": "Eletrodomésticos",
+    "estoque": 35
+  },
+  {
+    "id": 125,
+    "nome": "Tablet",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 27.12,
+    "categoria": "Informática",
+    "estoque": 41
+  },
+  {
+    "id": 126,
+    "nome": "Teclado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 111.28,
+    "categoria": "Móveis",
+    "estoque": 53
+  },
+  {
+    "id": 127,
+    "nome": "Teclado",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 147.03,
+    "categoria": "Eletrodomésticos",
+    "estoque": 72
+  },
+  {
+    "id": 128,
+    "nome": "Monitor",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 827.37,
+    "categoria": "Informática",
+    "estoque": 20
+  },
+  {
+    "id": 129,
+    "nome": "Smartwatch",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 871.96,
+    "categoria": "Eletrônicos",
+    "estoque": 44
+  },
+  {
+    "id": 130,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 72.27,
+    "categoria": "Eletrodomésticos",
+    "estoque": 26
+  },
+  {
+    "id": 131,
+    "nome": "Câmera",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 984.91,
+    "categoria": "Móveis",
+    "estoque": 72
+  },
+  {
+    "id": 132,
+    "nome": "Ventilador",
+    "descricao": "Ideal para uso diário.",
+    "preco": 241.63,
+    "categoria": "Eletrônicos",
+    "estoque": 79
+  },
+  {
+    "id": 133,
+    "nome": "Impressora",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 123.77,
+    "categoria": "Eletrodomésticos",
+    "estoque": 36
+  },
+  {
+    "id": 134,
+    "nome": "Câmera",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 301.45,
+    "categoria": "Eletrônicos",
+    "estoque": 67
+  },
+  {
+    "id": 135,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 89.17,
+    "categoria": "Informática",
+    "estoque": 81
+  },
+  {
+    "id": 136,
+    "nome": "Smartphone",
+    "descricao": "Ideal para uso diário.",
+    "preco": 378.47,
+    "categoria": "Móveis",
+    "estoque": 81
+  },
+  {
+    "id": 137,
+    "nome": "Teclado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 436.01,
+    "categoria": "Ferramentas",
+    "estoque": 30
+  },
+  {
+    "id": 138,
+    "nome": "Geladeira",
+    "descricao": "Ótima durabilidade.",
+    "preco": 282.56,
+    "categoria": "Informática",
+    "estoque": 11
+  },
+  {
+    "id": 139,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 709.64,
+    "categoria": "Móveis",
+    "estoque": 92
+  },
+  {
+    "id": 140,
+    "nome": "Mouse",
+    "descricao": "Design moderno e funcional.",
+    "preco": 541.61,
+    "categoria": "Ferramentas",
+    "estoque": 86
+  },
+  {
+    "id": 141,
+    "nome": "Monitor",
+    "descricao": "Design moderno e funcional.",
+    "preco": 332.47,
+    "categoria": "Ferramentas",
+    "estoque": 20
+  },
+  {
+    "id": 142,
+    "nome": "Micro-ondas",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 990.04,
+    "categoria": "Ferramentas",
+    "estoque": 95
+  },
+  {
+    "id": 143,
+    "nome": "Monitor",
+    "descricao": "Ideal para uso diário.",
+    "preco": 47.24,
+    "categoria": "Móveis",
+    "estoque": 55
+  },
+  {
+    "id": 144,
+    "nome": "Tablet",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 70.85,
+    "categoria": "Informática",
+    "estoque": 12
+  },
+  {
+    "id": 145,
+    "nome": "Fone de Ouvido",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 343.38,
+    "categoria": "Eletrônicos",
+    "estoque": 81
+  },
+  {
+    "id": 146,
+    "nome": "Monitor",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 848.59,
+    "categoria": "Eletrodomésticos",
+    "estoque": 45
+  },
+  {
+    "id": 147,
+    "nome": "Câmera",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 925.28,
+    "categoria": "Móveis",
+    "estoque": 25
+  },
+  {
+    "id": 148,
+    "nome": "Monitor",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 133.35,
+    "categoria": "Ferramentas",
+    "estoque": 27
+  },
+  {
+    "id": 149,
+    "nome": "Ventilador",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 922.68,
+    "categoria": "Eletrônicos",
+    "estoque": 84
+  },
+  {
+    "id": 150,
+    "nome": "Monitor",
+    "descricao": "Ideal para uso diário.",
+    "preco": 641.07,
+    "categoria": "Eletrodomésticos",
+    "estoque": 93
+  },
+  {
+    "id": 151,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 751.01,
+    "categoria": "Eletrônicos",
+    "estoque": 86
+  },
+  {
+    "id": 152,
+    "nome": "Câmera",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 199.54,
+    "categoria": "Eletrônicos",
+    "estoque": 28
+  },
+  {
+    "id": 153,
+    "nome": "Geladeira",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 300.53,
+    "categoria": "Informática",
+    "estoque": 70
+  },
+  {
+    "id": 154,
+    "nome": "Ar-condicionado",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 386.88,
+    "categoria": "Eletrônicos",
+    "estoque": 96
+  },
+  {
+    "id": 155,
+    "nome": "Monitor",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 378.16,
+    "categoria": "Eletrodomésticos",
+    "estoque": 73
+  },
+  {
+    "id": 156,
+    "nome": "Micro-ondas",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 974.16,
+    "categoria": "Ferramentas",
+    "estoque": 25
+  },
+  {
+    "id": 157,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 821.55,
+    "categoria": "Móveis",
+    "estoque": 54
+  },
+  {
+    "id": 158,
+    "nome": "Fogão",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 34.48,
+    "categoria": "Móveis",
+    "estoque": 47
+  },
+  {
+    "id": 159,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 712.76,
+    "categoria": "Eletrônicos",
+    "estoque": 90
+  },
+  {
+    "id": 160,
+    "nome": "Impressora",
+    "descricao": "Ideal para uso diário.",
+    "preco": 769.38,
+    "categoria": "Eletrônicos",
+    "estoque": 44
+  },
+  {
+    "id": 161,
+    "nome": "Ventilador",
+    "descricao": "Edição limitada.",
+    "preco": 209.63,
+    "categoria": "Informática",
+    "estoque": 45
+  },
+  {
+    "id": 162,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 442.31,
+    "categoria": "Móveis",
+    "estoque": 67
+  },
+  {
+    "id": 163,
+    "nome": "Ventilador",
+    "descricao": "Edição limitada.",
+    "preco": 778.27,
+    "categoria": "Informática",
+    "estoque": 49
+  },
+  {
+    "id": 164,
+    "nome": "Ventilador",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 270.29,
+    "categoria": "Eletrodomésticos",
+    "estoque": 80
+  },
+  {
+    "id": 165,
+    "nome": "Teclado",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 51.66,
+    "categoria": "Ferramentas",
+    "estoque": 20
+  },
+  {
+    "id": 166,
+    "nome": "Tablet",
+    "descricao": "Compacto e eficiente.",
+    "preco": 768.74,
+    "categoria": "Eletrodomésticos",
+    "estoque": 67
+  },
+  {
+    "id": 167,
+    "nome": "Mouse",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 396.7,
+    "categoria": "Informática",
+    "estoque": 46
+  },
+  {
+    "id": 168,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 57.2,
+    "categoria": "Eletrodomésticos",
+    "estoque": 50
+  },
+  {
+    "id": 169,
+    "nome": "Ventilador",
+    "descricao": "Compacto e eficiente.",
+    "preco": 211.57,
+    "categoria": "Eletrodomésticos",
+    "estoque": 63
+  },
+  {
+    "id": 170,
+    "nome": "Ventilador",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 558.91,
+    "categoria": "Ferramentas",
+    "estoque": 65
+  },
+  {
+    "id": 171,
+    "nome": "Câmera",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 978.11,
+    "categoria": "Eletrônicos",
+    "estoque": 28
+  },
+  {
+    "id": 172,
+    "nome": "Monitor",
+    "descricao": "Design moderno e funcional.",
+    "preco": 443.62,
+    "categoria": "Eletrônicos",
+    "estoque": 7
+  },
+  {
+    "id": 173,
+    "nome": "Smartwatch",
+    "descricao": "Edição limitada.",
+    "preco": 412.91,
+    "categoria": "Móveis",
+    "estoque": 3
+  },
+  {
+    "id": 174,
+    "nome": "Ventilador",
+    "descricao": "Compacto e eficiente.",
+    "preco": 90.77,
+    "categoria": "Ferramentas",
+    "estoque": 29
+  },
+  {
+    "id": 175,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 660.34,
+    "categoria": "Móveis",
+    "estoque": 73
+  },
+  {
+    "id": 176,
+    "nome": "Micro-ondas",
+    "descricao": "Ideal para uso diário.",
+    "preco": 239.18,
+    "categoria": "Eletrônicos",
+    "estoque": 33
+  },
+  {
+    "id": 177,
+    "nome": "Teclado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 964.4,
+    "categoria": "Informática",
+    "estoque": 77
+  },
+  {
+    "id": 178,
+    "nome": "Câmera",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 21.06,
+    "categoria": "Eletrônicos",
+    "estoque": 98
+  },
+  {
+    "id": 179,
+    "nome": "Tablet",
+    "descricao": "Ideal para uso diário.",
+    "preco": 346.28,
+    "categoria": "Eletrônicos",
+    "estoque": 61
+  },
+  {
+    "id": 180,
+    "nome": "Tablet",
+    "descricao": "Ideal para uso diário.",
+    "preco": 329.86,
+    "categoria": "Eletrônicos",
+    "estoque": 29
+  },
+  {
+    "id": 181,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 72.99,
+    "categoria": "Eletrônicos",
+    "estoque": 3
+  },
+  {
+    "id": 182,
+    "nome": "Fogão",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 323.61,
+    "categoria": "Móveis",
+    "estoque": 39
+  },
+  {
+    "id": 183,
+    "nome": "Smartwatch",
+    "descricao": "Design moderno e funcional.",
+    "preco": 382.27,
+    "categoria": "Móveis",
+    "estoque": 13
+  },
+  {
+    "id": 184,
+    "nome": "Smartphone",
+    "descricao": "Design moderno e funcional.",
+    "preco": 17.55,
+    "categoria": "Informática",
+    "estoque": 97
+  },
+  {
+    "id": 185,
+    "nome": "Ventilador",
+    "descricao": "Edição limitada.",
+    "preco": 37.06,
+    "categoria": "Informática",
+    "estoque": 95
+  },
+  {
+    "id": 186,
+    "nome": "Tablet",
+    "descricao": "Compacto e eficiente.",
+    "preco": 939.94,
+    "categoria": "Móveis",
+    "estoque": 79
+  },
+  {
+    "id": 187,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 102.04,
+    "categoria": "Eletrodomésticos",
+    "estoque": 41
+  },
+  {
+    "id": 188,
+    "nome": "Smartwatch",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 921.94,
+    "categoria": "Móveis",
+    "estoque": 68
+  },
+  {
+    "id": 189,
+    "nome": "Ventilador",
+    "descricao": "Ideal para uso diário.",
+    "preco": 436.19,
+    "categoria": "Eletrônicos",
+    "estoque": 67
+  },
+  {
+    "id": 190,
+    "nome": "Impressora",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 877.11,
+    "categoria": "Eletrônicos",
+    "estoque": 72
+  },
+  {
+    "id": 191,
+    "nome": "Geladeira",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 387.51,
+    "categoria": "Eletrônicos",
+    "estoque": 98
+  },
+  {
+    "id": 192,
+    "nome": "Fone de Ouvido",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 700.96,
+    "categoria": "Eletrônicos",
+    "estoque": 88
+  },
+  {
+    "id": 193,
+    "nome": "Mouse",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 285.43,
+    "categoria": "Móveis",
+    "estoque": 9
+  },
+  {
+    "id": 194,
+    "nome": "Fogão",
+    "descricao": "Ótima durabilidade.",
+    "preco": 620.08,
+    "categoria": "Informática",
+    "estoque": 79
+  },
+  {
+    "id": 195,
+    "nome": "Fone de Ouvido",
+    "descricao": "Ótima durabilidade.",
+    "preco": 253.63,
+    "categoria": "Eletrônicos",
+    "estoque": 78
+  },
+  {
+    "id": 196,
+    "nome": "Teclado",
+    "descricao": "Ideal para uso diário.",
+    "preco": 68.87,
+    "categoria": "Móveis",
+    "estoque": 22
+  },
+  {
+    "id": 197,
+    "nome": "Teclado",
+    "descricao": "Edição limitada.",
+    "preco": 97.37,
+    "categoria": "Eletrônicos",
+    "estoque": 44
+  },
+  {
+    "id": 198,
+    "nome": "Fone de Ouvido",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 697.32,
+    "categoria": "Ferramentas",
+    "estoque": 1
+  },
+  {
+    "id": 199,
+    "nome": "Fogão",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 64.59,
+    "categoria": "Móveis",
+    "estoque": 27
+  },
+  {
+    "id": 200,
+    "nome": "Micro-ondas",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 36.92,
+    "categoria": "Ferramentas",
+    "estoque": 72
+  },
+  {
+    "id": 201,
+    "nome": "Monitor",
+    "descricao": "Edição limitada.",
+    "preco": 835.04,
+    "categoria": "Eletrônicos",
+    "estoque": 67
+  },
+  {
+    "id": 202,
+    "nome": "Monitor",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 553.66,
+    "categoria": "Eletrodomésticos",
+    "estoque": 59
+  },
+  {
+    "id": 203,
+    "nome": "Fone de Ouvido",
+    "descricao": "Ideal para uso diário.",
+    "preco": 66.35,
+    "categoria": "Eletrodomésticos",
+    "estoque": 84
+  },
+  {
+    "id": 204,
+    "nome": "Notebook",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 206.05,
+    "categoria": "Ferramentas",
+    "estoque": 43
+  },
+  {
+    "id": 205,
+    "nome": "Monitor",
+    "descricao": "Edição limitada.",
+    "preco": 596.6,
+    "categoria": "Ferramentas",
+    "estoque": 63
+  },
+  {
+    "id": 206,
+    "nome": "Ar-condicionado",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 137.2,
+    "categoria": "Ferramentas",
+    "estoque": 20
+  },
+  {
+    "id": 207,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 494.87,
+    "categoria": "Móveis",
+    "estoque": 81
+  },
+  {
+    "id": 208,
+    "nome": "Smartphone",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 11.35,
+    "categoria": "Eletrodomésticos",
+    "estoque": 99
+  },
+  {
+    "id": 209,
+    "nome": "Fone de Ouvido",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 917.26,
+    "categoria": "Ferramentas",
+    "estoque": 12
+  },
+  {
+    "id": 210,
+    "nome": "Câmera",
+    "descricao": "Design moderno e funcional.",
+    "preco": 517.58,
+    "categoria": "Móveis",
+    "estoque": 6
+  },
+  {
+    "id": 211,
+    "nome": "Tablet",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 755.97,
+    "categoria": "Eletrônicos",
+    "estoque": 13
+  },
+  {
+    "id": 212,
+    "nome": "Notebook",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 274.63,
+    "categoria": "Móveis",
+    "estoque": 78
+  },
+  {
+    "id": 213,
+    "nome": "Micro-ondas",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 540.65,
+    "categoria": "Ferramentas",
+    "estoque": 73
+  },
+  {
+    "id": 214,
+    "nome": "Câmera",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 442.52,
+    "categoria": "Informática",
+    "estoque": 83
+  },
+  {
+    "id": 215,
+    "nome": "Ar-condicionado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 317.06,
+    "categoria": "Ferramentas",
+    "estoque": 70
+  },
+  {
+    "id": 216,
+    "nome": "Monitor",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 756.22,
+    "categoria": "Móveis",
+    "estoque": 78
+  },
+  {
+    "id": 217,
+    "nome": "Ar-condicionado",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 180.71,
+    "categoria": "Ferramentas",
+    "estoque": 85
+  },
+  {
+    "id": 218,
+    "nome": "Ar-condicionado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 804.67,
+    "categoria": "Eletrodomésticos",
+    "estoque": 59
+  },
+  {
+    "id": 219,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 673.11,
+    "categoria": "Móveis",
+    "estoque": 34
+  },
+  {
+    "id": 220,
+    "nome": "Ar-condicionado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 37.71,
+    "categoria": "Eletrônicos",
+    "estoque": 46
+  },
+  {
+    "id": 221,
+    "nome": "Teclado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 316.83,
+    "categoria": "Móveis",
+    "estoque": 44
+  },
+  {
+    "id": 222,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 439.24,
+    "categoria": "Ferramentas",
+    "estoque": 2
+  },
+  {
+    "id": 223,
+    "nome": "Fone de Ouvido",
+    "descricao": "Design moderno e funcional.",
+    "preco": 333.61,
+    "categoria": "Eletrodomésticos",
+    "estoque": 79
+  },
+  {
+    "id": 224,
+    "nome": "Smartwatch",
+    "descricao": "Edição limitada.",
+    "preco": 410.22,
+    "categoria": "Móveis",
+    "estoque": 55
+  },
+  {
+    "id": 225,
+    "nome": "Ventilador",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 312.29,
+    "categoria": "Móveis",
+    "estoque": 96
+  },
+  {
+    "id": 226,
+    "nome": "Micro-ondas",
+    "descricao": "Edição limitada.",
+    "preco": 672.05,
+    "categoria": "Móveis",
+    "estoque": 73
+  },
+  {
+    "id": 227,
+    "nome": "Câmera",
+    "descricao": "Design moderno e funcional.",
+    "preco": 796.09,
+    "categoria": "Eletrodomésticos",
+    "estoque": 97
+  },
+  {
+    "id": 228,
+    "nome": "Monitor",
+    "descricao": "Compacto e eficiente.",
+    "preco": 556.26,
+    "categoria": "Móveis",
+    "estoque": 20
+  },
+  {
+    "id": 229,
+    "nome": "Fogão",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 143.84,
+    "categoria": "Ferramentas",
+    "estoque": 4
+  },
+  {
+    "id": 230,
+    "nome": "Mouse",
+    "descricao": "Ótima durabilidade.",
+    "preco": 642.55,
+    "categoria": "Ferramentas",
+    "estoque": 55
+  },
+  {
+    "id": 231,
+    "nome": "Impressora",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 709.57,
+    "categoria": "Eletrônicos",
+    "estoque": 99
+  },
+  {
+    "id": 232,
+    "nome": "Impressora",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 372.05,
+    "categoria": "Ferramentas",
+    "estoque": 67
+  },
+  {
+    "id": 233,
+    "nome": "Smartphone",
+    "descricao": "Ótima durabilidade.",
+    "preco": 749.06,
+    "categoria": "Eletrônicos",
+    "estoque": 1
+  },
+  {
+    "id": 234,
+    "nome": "Fogão",
+    "descricao": "Compacto e eficiente.",
+    "preco": 825.85,
+    "categoria": "Móveis",
+    "estoque": 73
+  },
+  {
+    "id": 235,
+    "nome": "Ar-condicionado",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 20.96,
+    "categoria": "Eletrônicos",
+    "estoque": 97
+  },
+  {
+    "id": 236,
+    "nome": "Notebook",
+    "descricao": "Ótima durabilidade.",
+    "preco": 471.22,
+    "categoria": "Eletrodomésticos",
+    "estoque": 12
+  },
+  {
+    "id": 237,
+    "nome": "Geladeira",
+    "descricao": "Edição limitada.",
+    "preco": 850.61,
+    "categoria": "Ferramentas",
+    "estoque": 7
+  },
+  {
+    "id": 238,
+    "nome": "Micro-ondas",
+    "descricao": "Edição limitada.",
+    "preco": 719.61,
+    "categoria": "Ferramentas",
+    "estoque": 86
+  },
+  {
+    "id": 239,
+    "nome": "Smartphone",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 516.85,
+    "categoria": "Eletrodomésticos",
+    "estoque": 68
+  },
+  {
+    "id": 240,
+    "nome": "Impressora",
+    "descricao": "Compacto e eficiente.",
+    "preco": 977.47,
+    "categoria": "Ferramentas",
+    "estoque": 60
+  },
+  {
+    "id": 241,
+    "nome": "Fogão",
+    "descricao": "Compacto e eficiente.",
+    "preco": 895.51,
+    "categoria": "Informática",
+    "estoque": 23
+  },
+  {
+    "id": 242,
+    "nome": "Smartwatch",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 436.4,
+    "categoria": "Ferramentas",
+    "estoque": 89
+  },
+  {
+    "id": 243,
+    "nome": "Micro-ondas",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 478.42,
+    "categoria": "Móveis",
+    "estoque": 82
+  },
+  {
+    "id": 244,
+    "nome": "Tablet",
+    "descricao": "Edição limitada.",
+    "preco": 900.29,
+    "categoria": "Eletrônicos",
+    "estoque": 62
+  },
+  {
+    "id": 245,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 768.28,
+    "categoria": "Eletrodomésticos",
+    "estoque": 2
+  },
+  {
+    "id": 246,
+    "nome": "Fogão",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 900.49,
+    "categoria": "Informática",
+    "estoque": 86
+  },
+  {
+    "id": 247,
+    "nome": "Teclado",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 123.57,
+    "categoria": "Eletrodomésticos",
+    "estoque": 23
+  },
+  {
+    "id": 248,
+    "nome": "Mouse",
+    "descricao": "Compacto e eficiente.",
+    "preco": 114.92,
+    "categoria": "Ferramentas",
+    "estoque": 63
+  },
+  {
+    "id": 249,
+    "nome": "Tablet",
+    "descricao": "Compacto e eficiente.",
+    "preco": 129.84,
+    "categoria": "Móveis",
+    "estoque": 50
+  },
+  {
+    "id": 250,
+    "nome": "Mouse",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 884.55,
+    "categoria": "Eletrônicos",
+    "estoque": 8
+  },
+  {
+    "id": 251,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 164.46,
+    "categoria": "Eletrônicos",
+    "estoque": 4
+  },
+  {
+    "id": 252,
+    "nome": "Notebook",
+    "descricao": "Ideal para uso diário.",
+    "preco": 849.36,
+    "categoria": "Informática",
+    "estoque": 38
+  },
+  {
+    "id": 253,
+    "nome": "Monitor",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 617.49,
+    "categoria": "Eletrodomésticos",
+    "estoque": 10
+  },
+  {
+    "id": 254,
+    "nome": "Smartphone",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 988.58,
+    "categoria": "Eletrodomésticos",
+    "estoque": 81
+  },
+  {
+    "id": 255,
+    "nome": "Fone de Ouvido",
+    "descricao": "Edição limitada.",
+    "preco": 820.25,
+    "categoria": "Informática",
+    "estoque": 17
+  },
+  {
+    "id": 256,
+    "nome": "Tablet",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 275.17,
+    "categoria": "Eletrônicos",
+    "estoque": 57
+  },
+  {
+    "id": 257,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 552.69,
+    "categoria": "Eletrônicos",
+    "estoque": 39
+  },
+  {
+    "id": 258,
+    "nome": "Notebook",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 261.2,
+    "categoria": "Informática",
+    "estoque": 6
+  },
+  {
+    "id": 259,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 388.83,
+    "categoria": "Eletrônicos",
+    "estoque": 53
+  },
+  {
+    "id": 260,
+    "nome": "Micro-ondas",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 211.73,
+    "categoria": "Eletrodomésticos",
+    "estoque": 2
+  },
+  {
+    "id": 261,
+    "nome": "Smartphone",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 772.4,
+    "categoria": "Ferramentas",
+    "estoque": 64
+  },
+  {
+    "id": 262,
+    "nome": "Ventilador",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 421.57,
+    "categoria": "Ferramentas",
+    "estoque": 75
+  },
+  {
+    "id": 263,
+    "nome": "Geladeira",
+    "descricao": "Edição limitada.",
+    "preco": 331,
+    "categoria": "Eletrodomésticos",
+    "estoque": 72
+  },
+  {
+    "id": 264,
+    "nome": "Smartwatch",
+    "descricao": "Compacto e eficiente.",
+    "preco": 943.59,
+    "categoria": "Informática",
+    "estoque": 34
+  },
+  {
+    "id": 265,
+    "nome": "Notebook",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 310.6,
+    "categoria": "Eletrônicos",
+    "estoque": 56
+  },
+  {
+    "id": 266,
+    "nome": "Smartphone",
+    "descricao": "Ideal para uso diário.",
+    "preco": 408.95,
+    "categoria": "Eletrodomésticos",
+    "estoque": 62
+  },
+  {
+    "id": 267,
+    "nome": "Smartwatch",
+    "descricao": "Ideal para uso diário.",
+    "preco": 754.97,
+    "categoria": "Móveis",
+    "estoque": 35
+  },
+  {
+    "id": 268,
+    "nome": "Impressora",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 86.21,
+    "categoria": "Ferramentas",
+    "estoque": 96
+  },
+  {
+    "id": 269,
+    "nome": "Fogão",
+    "descricao": "Design moderno e funcional.",
+    "preco": 337.66,
+    "categoria": "Informática",
+    "estoque": 51
+  },
+  {
+    "id": 270,
+    "nome": "Micro-ondas",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 342.47,
+    "categoria": "Informática",
+    "estoque": 11
+  },
+  {
+    "id": 271,
+    "nome": "Notebook",
+    "descricao": "Design moderno e funcional.",
+    "preco": 610.37,
+    "categoria": "Ferramentas",
+    "estoque": 82
+  },
+  {
+    "id": 272,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 100.54,
+    "categoria": "Móveis",
+    "estoque": 30
+  },
+  {
+    "id": 273,
+    "nome": "Mouse",
+    "descricao": "Compacto e eficiente.",
+    "preco": 473.9,
+    "categoria": "Informática",
+    "estoque": 71
+  },
+  {
+    "id": 274,
+    "nome": "Micro-ondas",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 396.84,
+    "categoria": "Eletrodomésticos",
+    "estoque": 26
+  },
+  {
+    "id": 275,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 438.45,
+    "categoria": "Informática",
+    "estoque": 20
+  },
+  {
+    "id": 276,
+    "nome": "Micro-ondas",
+    "descricao": "Design moderno e funcional.",
+    "preco": 595.47,
+    "categoria": "Eletrodomésticos",
+    "estoque": 90
+  },
+  {
+    "id": 277,
+    "nome": "Teclado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 220.8,
+    "categoria": "Informática",
+    "estoque": 26
+  },
+  {
+    "id": 278,
+    "nome": "Tablet",
+    "descricao": "Ótima durabilidade.",
+    "preco": 857.21,
+    "categoria": "Móveis",
+    "estoque": 86
+  },
+  {
+    "id": 279,
+    "nome": "Smartphone",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 91.31,
+    "categoria": "Móveis",
+    "estoque": 37
+  },
+  {
+    "id": 280,
+    "nome": "Ar-condicionado",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 60.95,
+    "categoria": "Eletrodomésticos",
+    "estoque": 93
+  },
+  {
+    "id": 281,
+    "nome": "Smartwatch",
+    "descricao": "Design moderno e funcional.",
+    "preco": 934.59,
+    "categoria": "Eletrônicos",
+    "estoque": 6
+  },
+  {
+    "id": 282,
+    "nome": "Monitor",
+    "descricao": "Ideal para uso diário.",
+    "preco": 187.38,
+    "categoria": "Eletrodomésticos",
+    "estoque": 8
+  },
+  {
+    "id": 283,
+    "nome": "Geladeira",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 576.67,
+    "categoria": "Móveis",
+    "estoque": 1
+  },
+  {
+    "id": 284,
+    "nome": "Notebook",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 305.56,
+    "categoria": "Ferramentas",
+    "estoque": 36
+  },
+  {
+    "id": 285,
+    "nome": "Smartphone",
+    "descricao": "Design moderno e funcional.",
+    "preco": 329.6,
+    "categoria": "Eletrodomésticos",
+    "estoque": 85
+  },
+  {
+    "id": 286,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 54.87,
+    "categoria": "Ferramentas",
+    "estoque": 90
+  },
+  {
+    "id": 287,
+    "nome": "Geladeira",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 455.09,
+    "categoria": "Móveis",
+    "estoque": 76
+  },
+  {
+    "id": 288,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 390.88,
+    "categoria": "Móveis",
+    "estoque": 57
+  },
+  {
+    "id": 289,
+    "nome": "Ventilador",
+    "descricao": "Ideal para uso diário.",
+    "preco": 62.66,
+    "categoria": "Informática",
+    "estoque": 71
+  },
+  {
+    "id": 290,
+    "nome": "Smartwatch",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 747.68,
+    "categoria": "Eletrodomésticos",
+    "estoque": 69
+  },
+  {
+    "id": 291,
+    "nome": "Mouse",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 969.66,
+    "categoria": "Móveis",
+    "estoque": 55
+  },
+  {
+    "id": 292,
+    "nome": "Impressora",
+    "descricao": "Ideal para uso diário.",
+    "preco": 700.5,
+    "categoria": "Móveis",
+    "estoque": 93
+  },
+  {
+    "id": 293,
+    "nome": "Monitor",
+    "descricao": "Compacto e eficiente.",
+    "preco": 276,
+    "categoria": "Ferramentas",
+    "estoque": 93
+  },
+  {
+    "id": 294,
+    "nome": "Impressora",
+    "descricao": "Ideal para uso diário.",
+    "preco": 58.1,
+    "categoria": "Móveis",
+    "estoque": 66
+  },
+  {
+    "id": 295,
+    "nome": "Ventilador",
+    "descricao": "Ideal para uso diário.",
+    "preco": 825.03,
+    "categoria": "Ferramentas",
+    "estoque": 54
+  },
+  {
+    "id": 296,
+    "nome": "Câmera",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 543.09,
+    "categoria": "Móveis",
+    "estoque": 61
+  },
+  {
+    "id": 297,
+    "nome": "Fone de Ouvido",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 59.68,
+    "categoria": "Eletrodomésticos",
+    "estoque": 4
+  },
+  {
+    "id": 298,
+    "nome": "Notebook",
+    "descricao": "Ótima durabilidade.",
+    "preco": 629.27,
+    "categoria": "Móveis",
+    "estoque": 19
+  },
+  {
+    "id": 299,
+    "nome": "Smartwatch",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 126.1,
+    "categoria": "Ferramentas",
+    "estoque": 76
+  },
+  {
+    "id": 300,
+    "nome": "Impressora",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 831.11,
+    "categoria": "Ferramentas",
+    "estoque": 9
+  },
+  {
+    "id": 301,
+    "nome": "Ar-condicionado",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 674.52,
+    "categoria": "Móveis",
+    "estoque": 0
+  },
+  {
+    "id": 302,
+    "nome": "Mouse",
+    "descricao": "Compacto e eficiente.",
+    "preco": 995.83,
+    "categoria": "Móveis",
+    "estoque": 8
+  },
+  {
+    "id": 303,
+    "nome": "Notebook",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 828.3,
+    "categoria": "Eletrônicos",
+    "estoque": 61
+  },
+  {
+    "id": 304,
+    "nome": "Fogão",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 252.59,
+    "categoria": "Eletrônicos",
+    "estoque": 9
+  },
+  {
+    "id": 305,
+    "nome": "Ventilador",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 150.05,
+    "categoria": "Móveis",
+    "estoque": 43
+  },
+  {
+    "id": 306,
+    "nome": "Smartphone",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 856.86,
+    "categoria": "Informática",
+    "estoque": 23
+  },
+  {
+    "id": 307,
+    "nome": "Impressora",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 177.74,
+    "categoria": "Eletrônicos",
+    "estoque": 26
+  },
+  {
+    "id": 308,
+    "nome": "Câmera",
+    "descricao": "Ótima durabilidade.",
+    "preco": 367.84,
+    "categoria": "Eletrodomésticos",
+    "estoque": 28
+  },
+  {
+    "id": 309,
+    "nome": "Fone de Ouvido",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 652.49,
+    "categoria": "Móveis",
+    "estoque": 67
+  },
+  {
+    "id": 310,
+    "nome": "Impressora",
+    "descricao": "Ótima durabilidade.",
+    "preco": 761.83,
+    "categoria": "Eletrodomésticos",
+    "estoque": 5
+  },
+  {
+    "id": 311,
+    "nome": "Câmera",
+    "descricao": "Ideal para uso diário.",
+    "preco": 298.29,
+    "categoria": "Eletrodomésticos",
+    "estoque": 54
+  },
+  {
+    "id": 312,
+    "nome": "Câmera",
+    "descricao": "Ideal para uso diário.",
+    "preco": 491.35,
+    "categoria": "Eletrônicos",
+    "estoque": 73
+  },
+  {
+    "id": 313,
+    "nome": "Notebook",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 664.23,
+    "categoria": "Informática",
+    "estoque": 97
+  },
+  {
+    "id": 314,
+    "nome": "Smartwatch",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 479.25,
+    "categoria": "Eletrônicos",
+    "estoque": 33
+  },
+  {
+    "id": 315,
+    "nome": "Teclado",
+    "descricao": "Ideal para uso diário.",
+    "preco": 852.54,
+    "categoria": "Móveis",
+    "estoque": 74
+  },
+  {
+    "id": 316,
+    "nome": "Ventilador",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 944.3,
+    "categoria": "Eletrodomésticos",
+    "estoque": 92
+  },
+  {
+    "id": 317,
+    "nome": "Ventilador",
+    "descricao": "Compacto e eficiente.",
+    "preco": 256.1,
+    "categoria": "Informática",
+    "estoque": 66
+  },
+  {
+    "id": 318,
+    "nome": "Smartwatch",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 559.05,
+    "categoria": "Eletrônicos",
+    "estoque": 56
+  },
+  {
+    "id": 319,
+    "nome": "Tablet",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 325.11,
+    "categoria": "Ferramentas",
+    "estoque": 40
+  },
+  {
+    "id": 320,
+    "nome": "Smartwatch",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 236.08,
+    "categoria": "Eletrônicos",
+    "estoque": 33
+  },
+  {
+    "id": 321,
+    "nome": "Câmera",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 445.3,
+    "categoria": "Eletrônicos",
+    "estoque": 69
+  },
+  {
+    "id": 322,
+    "nome": "Fone de Ouvido",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 559.72,
+    "categoria": "Eletrodomésticos",
+    "estoque": 39
+  },
+  {
+    "id": 323,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 663.9,
+    "categoria": "Ferramentas",
+    "estoque": 58
+  },
+  {
+    "id": 324,
+    "nome": "Ar-condicionado",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 494.07,
+    "categoria": "Móveis",
+    "estoque": 22
+  },
+  {
+    "id": 325,
+    "nome": "Teclado",
+    "descricao": "Edição limitada.",
+    "preco": 649.31,
+    "categoria": "Móveis",
+    "estoque": 22
+  },
+  {
+    "id": 326,
+    "nome": "Mouse",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 275.51,
+    "categoria": "Móveis",
+    "estoque": 97
+  },
+  {
+    "id": 327,
+    "nome": "Micro-ondas",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 666.48,
+    "categoria": "Informática",
+    "estoque": 90
+  },
+  {
+    "id": 328,
+    "nome": "Fogão",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 643.46,
+    "categoria": "Ferramentas",
+    "estoque": 3
+  },
+  {
+    "id": 329,
+    "nome": "Geladeira",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 722.08,
+    "categoria": "Móveis",
+    "estoque": 58
+  },
+  {
+    "id": 330,
+    "nome": "Smartphone",
+    "descricao": "Compacto e eficiente.",
+    "preco": 87.75,
+    "categoria": "Eletrodomésticos",
+    "estoque": 88
+  },
+  {
+    "id": 331,
+    "nome": "Geladeira",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 588.77,
+    "categoria": "Eletrônicos",
+    "estoque": 14
+  },
+  {
+    "id": 332,
+    "nome": "Notebook",
+    "descricao": "Design moderno e funcional.",
+    "preco": 55.31,
+    "categoria": "Ferramentas",
+    "estoque": 51
+  },
+  {
+    "id": 333,
+    "nome": "Fone de Ouvido",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 118.05,
+    "categoria": "Eletrônicos",
+    "estoque": 78
+  },
+  {
+    "id": 334,
+    "nome": "Micro-ondas",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 159.67,
+    "categoria": "Móveis",
+    "estoque": 67
+  },
+  {
+    "id": 335,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 220.02,
+    "categoria": "Eletrônicos",
+    "estoque": 20
+  },
+  {
+    "id": 336,
+    "nome": "Tablet",
+    "descricao": "Ideal para uso diário.",
+    "preco": 316.5,
+    "categoria": "Ferramentas",
+    "estoque": 38
+  },
+  {
+    "id": 337,
+    "nome": "Ventilador",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 812.39,
+    "categoria": "Eletrodomésticos",
+    "estoque": 29
+  },
+  {
+    "id": 338,
+    "nome": "Ventilador",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 857.61,
+    "categoria": "Informática",
+    "estoque": 62
+  },
+  {
+    "id": 339,
+    "nome": "Teclado",
+    "descricao": "Edição limitada.",
+    "preco": 192.72,
+    "categoria": "Informática",
+    "estoque": 98
+  },
+  {
+    "id": 340,
+    "nome": "Fogão",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 751.31,
+    "categoria": "Móveis",
+    "estoque": 35
+  },
+  {
+    "id": 341,
+    "nome": "Geladeira",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 654.24,
+    "categoria": "Móveis",
+    "estoque": 89
+  },
+  {
+    "id": 342,
+    "nome": "Monitor",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 587.95,
+    "categoria": "Eletrônicos",
+    "estoque": 32
+  },
+  {
+    "id": 343,
+    "nome": "Ar-condicionado",
+    "descricao": "Edição limitada.",
+    "preco": 333.42,
+    "categoria": "Informática",
+    "estoque": 24
+  },
+  {
+    "id": 344,
+    "nome": "Fogão",
+    "descricao": "Compacto e eficiente.",
+    "preco": 689.66,
+    "categoria": "Móveis",
+    "estoque": 40
+  },
+  {
+    "id": 345,
+    "nome": "Monitor",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 991.41,
+    "categoria": "Ferramentas",
+    "estoque": 46
+  },
+  {
+    "id": 346,
+    "nome": "Geladeira",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 917.03,
+    "categoria": "Eletrônicos",
+    "estoque": 75
+  },
+  {
+    "id": 347,
+    "nome": "Ar-condicionado",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 320.2,
+    "categoria": "Móveis",
+    "estoque": 75
+  },
+  {
+    "id": 348,
+    "nome": "Ventilador",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 838.61,
+    "categoria": "Informática",
+    "estoque": 52
+  },
+  {
+    "id": 349,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 62.79,
+    "categoria": "Eletrodomésticos",
+    "estoque": 62
+  },
+  {
+    "id": 350,
+    "nome": "Fogão",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 77.81,
+    "categoria": "Informática",
+    "estoque": 75
+  },
+  {
+    "id": 351,
+    "nome": "Monitor",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 867.81,
+    "categoria": "Eletrônicos",
+    "estoque": 73
+  },
+  {
+    "id": 352,
+    "nome": "Câmera",
+    "descricao": "Ótima durabilidade.",
+    "preco": 368.26,
+    "categoria": "Eletrodomésticos",
+    "estoque": 98
+  },
+  {
+    "id": 353,
+    "nome": "Notebook",
+    "descricao": "Ótima durabilidade.",
+    "preco": 680.46,
+    "categoria": "Móveis",
+    "estoque": 63
+  },
+  {
+    "id": 354,
+    "nome": "Notebook",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 440.89,
+    "categoria": "Móveis",
+    "estoque": 24
+  },
+  {
+    "id": 355,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 147.68,
+    "categoria": "Eletrodomésticos",
+    "estoque": 72
+  },
+  {
+    "id": 356,
+    "nome": "Ar-condicionado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 258.41,
+    "categoria": "Móveis",
+    "estoque": 18
+  },
+  {
+    "id": 357,
+    "nome": "Tablet",
+    "descricao": "Ótima durabilidade.",
+    "preco": 277.41,
+    "categoria": "Móveis",
+    "estoque": 8
+  },
+  {
+    "id": 358,
+    "nome": "Mouse",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 961.96,
+    "categoria": "Eletrônicos",
+    "estoque": 1
+  },
+  {
+    "id": 359,
+    "nome": "Fogão",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 988.17,
+    "categoria": "Informática",
+    "estoque": 5
+  },
+  {
+    "id": 360,
+    "nome": "Ventilador",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 513.2,
+    "categoria": "Eletrodomésticos",
+    "estoque": 90
+  },
+  {
+    "id": 361,
+    "nome": "Fogão",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 746.32,
+    "categoria": "Eletrônicos",
+    "estoque": 12
+  },
+  {
+    "id": 362,
+    "nome": "Mouse",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 913.97,
+    "categoria": "Eletrodomésticos",
+    "estoque": 64
+  },
+  {
+    "id": 363,
+    "nome": "Monitor",
+    "descricao": "Design moderno e funcional.",
+    "preco": 101.79,
+    "categoria": "Móveis",
+    "estoque": 34
+  },
+  {
+    "id": 364,
+    "nome": "Impressora",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 28.14,
+    "categoria": "Eletrônicos",
+    "estoque": 65
+  },
+  {
+    "id": 365,
+    "nome": "Smartphone",
+    "descricao": "Ideal para uso diário.",
+    "preco": 383.44,
+    "categoria": "Informática",
+    "estoque": 39
+  },
+  {
+    "id": 366,
+    "nome": "Monitor",
+    "descricao": "Ideal para uso diário.",
+    "preco": 53.35,
+    "categoria": "Ferramentas",
+    "estoque": 41
+  },
+  {
+    "id": 367,
+    "nome": "Fogão",
+    "descricao": "Design moderno e funcional.",
+    "preco": 790.43,
+    "categoria": "Ferramentas",
+    "estoque": 15
+  },
+  {
+    "id": 368,
+    "nome": "Ventilador",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 910.33,
+    "categoria": "Informática",
+    "estoque": 12
+  },
+  {
+    "id": 369,
+    "nome": "Micro-ondas",
+    "descricao": "Design moderno e funcional.",
+    "preco": 55.06,
+    "categoria": "Eletrodomésticos",
+    "estoque": 52
+  },
+  {
+    "id": 370,
+    "nome": "Geladeira",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 569.91,
+    "categoria": "Móveis",
+    "estoque": 57
+  },
+  {
+    "id": 371,
+    "nome": "Geladeira",
+    "descricao": "Compacto e eficiente.",
+    "preco": 753.67,
+    "categoria": "Móveis",
+    "estoque": 31
+  },
+  {
+    "id": 372,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 521.56,
+    "categoria": "Móveis",
+    "estoque": 70
+  },
+  {
+    "id": 373,
+    "nome": "Fogão",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 970.62,
+    "categoria": "Informática",
+    "estoque": 35
+  },
+  {
+    "id": 374,
+    "nome": "Monitor",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 930.21,
+    "categoria": "Ferramentas",
+    "estoque": 96
+  },
+  {
+    "id": 375,
+    "nome": "Ventilador",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 110.58,
+    "categoria": "Eletrodomésticos",
+    "estoque": 91
+  },
+  {
+    "id": 376,
+    "nome": "Fogão",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 305.22,
+    "categoria": "Móveis",
+    "estoque": 36
+  },
+  {
+    "id": 377,
+    "nome": "Fone de Ouvido",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 485.69,
+    "categoria": "Ferramentas",
+    "estoque": 82
+  },
+  {
+    "id": 378,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compacto e eficiente.",
+    "preco": 107.7,
+    "categoria": "Ferramentas",
+    "estoque": 14
+  },
+  {
+    "id": 379,
+    "nome": "Smartwatch",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 386.81,
+    "categoria": "Eletrodomésticos",
+    "estoque": 24
+  },
+  {
+    "id": 380,
+    "nome": "Monitor",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 604.28,
+    "categoria": "Móveis",
+    "estoque": 29
+  },
+  {
+    "id": 381,
+    "nome": "Mouse",
+    "descricao": "Compacto e eficiente.",
+    "preco": 374.68,
+    "categoria": "Eletrodomésticos",
+    "estoque": 43
+  },
+  {
+    "id": 382,
+    "nome": "Mouse",
+    "descricao": "Compacto e eficiente.",
+    "preco": 409.46,
+    "categoria": "Eletrodomésticos",
+    "estoque": 19
+  },
+  {
+    "id": 383,
+    "nome": "Fogão",
+    "descricao": "Ideal para uso diário.",
+    "preco": 860.75,
+    "categoria": "Eletrodomésticos",
+    "estoque": 37
+  },
+  {
+    "id": 384,
+    "nome": "Impressora",
+    "descricao": "Design moderno e funcional.",
+    "preco": 777.55,
+    "categoria": "Eletrodomésticos",
+    "estoque": 48
+  },
+  {
+    "id": 385,
+    "nome": "Notebook",
+    "descricao": "Ideal para uso diário.",
+    "preco": 608.73,
+    "categoria": "Informática",
+    "estoque": 14
+  },
+  {
+    "id": 386,
+    "nome": "Notebook",
+    "descricao": "Design moderno e funcional.",
+    "preco": 274.8,
+    "categoria": "Ferramentas",
+    "estoque": 10
+  },
+  {
+    "id": 387,
+    "nome": "Monitor",
+    "descricao": "Compacto e eficiente.",
+    "preco": 341.33,
+    "categoria": "Eletrônicos",
+    "estoque": 3
+  },
+  {
+    "id": 388,
+    "nome": "Monitor",
+    "descricao": "Ótima durabilidade.",
+    "preco": 63.82,
+    "categoria": "Móveis",
+    "estoque": 79
+  },
+  {
+    "id": 389,
+    "nome": "Mouse",
+    "descricao": "Edição limitada.",
+    "preco": 542.62,
+    "categoria": "Eletrodomésticos",
+    "estoque": 60
+  },
+  {
+    "id": 390,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 580.67,
+    "categoria": "Informática",
+    "estoque": 39
+  },
+  {
+    "id": 391,
+    "nome": "Ar-condicionado",
+    "descricao": "Ideal para uso diário.",
+    "preco": 50.69,
+    "categoria": "Eletrodomésticos",
+    "estoque": 59
+  },
+  {
+    "id": 392,
+    "nome": "Ventilador",
+    "descricao": "Design moderno e funcional.",
+    "preco": 746.22,
+    "categoria": "Informática",
+    "estoque": 11
+  },
+  {
+    "id": 393,
+    "nome": "Tablet",
+    "descricao": "Ótima durabilidade.",
+    "preco": 826.19,
+    "categoria": "Móveis",
+    "estoque": 67
+  },
+  {
+    "id": 394,
+    "nome": "Fone de Ouvido",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 471.31,
+    "categoria": "Informática",
+    "estoque": 48
+  },
+  {
+    "id": 395,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 388.48,
+    "categoria": "Ferramentas",
+    "estoque": 77
+  },
+  {
+    "id": 396,
+    "nome": "Mouse",
+    "descricao": "Edição limitada.",
+    "preco": 199.28,
+    "categoria": "Ferramentas",
+    "estoque": 24
+  },
+  {
+    "id": 397,
+    "nome": "Mouse",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 194.38,
+    "categoria": "Eletrônicos",
+    "estoque": 45
+  },
+  {
+    "id": 398,
+    "nome": "Impressora",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 671.61,
+    "categoria": "Móveis",
+    "estoque": 82
+  },
+  {
+    "id": 399,
+    "nome": "Smartphone",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 633.61,
+    "categoria": "Eletrônicos",
+    "estoque": 50
+  },
+  {
+    "id": 400,
+    "nome": "Impressora",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 998.91,
+    "categoria": "Eletrônicos",
+    "estoque": 32
+  },
+  {
+    "id": 401,
+    "nome": "Teclado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 356.69,
+    "categoria": "Eletrônicos",
+    "estoque": 91
+  },
+  {
+    "id": 402,
+    "nome": "Notebook",
+    "descricao": "Design moderno e funcional.",
+    "preco": 855.91,
+    "categoria": "Eletrônicos",
+    "estoque": 73
+  },
+  {
+    "id": 403,
+    "nome": "Tablet",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 841.08,
+    "categoria": "Eletrodomésticos",
+    "estoque": 74
+  },
+  {
+    "id": 404,
+    "nome": "Notebook",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 229.45,
+    "categoria": "Informática",
+    "estoque": 39
+  },
+  {
+    "id": 405,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 329.84,
+    "categoria": "Eletrodomésticos",
+    "estoque": 58
+  },
+  {
+    "id": 406,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 770.82,
+    "categoria": "Eletrodomésticos",
+    "estoque": 6
+  },
+  {
+    "id": 407,
+    "nome": "Impressora",
+    "descricao": "Ótima durabilidade.",
+    "preco": 232.56,
+    "categoria": "Informática",
+    "estoque": 63
+  },
+  {
+    "id": 408,
+    "nome": "Geladeira",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 43.97,
+    "categoria": "Informática",
+    "estoque": 57
+  },
+  {
+    "id": 409,
+    "nome": "Ar-condicionado",
+    "descricao": "Ótima durabilidade.",
+    "preco": 374.44,
+    "categoria": "Eletrônicos",
+    "estoque": 29
+  },
+  {
+    "id": 410,
+    "nome": "Smartwatch",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 660.75,
+    "categoria": "Ferramentas",
+    "estoque": 38
+  },
+  {
+    "id": 411,
+    "nome": "Impressora",
+    "descricao": "Ótima durabilidade.",
+    "preco": 32.3,
+    "categoria": "Ferramentas",
+    "estoque": 35
+  },
+  {
+    "id": 412,
+    "nome": "Tablet",
+    "descricao": "Ótima durabilidade.",
+    "preco": 153.11,
+    "categoria": "Móveis",
+    "estoque": 0
+  },
+  {
+    "id": 413,
+    "nome": "Fone de Ouvido",
+    "descricao": "Edição limitada.",
+    "preco": 72.6,
+    "categoria": "Eletrodomésticos",
+    "estoque": 92
+  },
+  {
+    "id": 414,
+    "nome": "Câmera",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 218.59,
+    "categoria": "Eletrônicos",
+    "estoque": 15
+  },
+  {
+    "id": 415,
+    "nome": "Ar-condicionado",
+    "descricao": "Edição limitada.",
+    "preco": 750.51,
+    "categoria": "Ferramentas",
+    "estoque": 43
+  },
+  {
+    "id": 416,
+    "nome": "Geladeira",
+    "descricao": "Ideal para uso diário.",
+    "preco": 527.62,
+    "categoria": "Eletrônicos",
+    "estoque": 13
+  },
+  {
+    "id": 417,
+    "nome": "Ventilador",
+    "descricao": "Design moderno e funcional.",
+    "preco": 768.09,
+    "categoria": "Eletrodomésticos",
+    "estoque": 78
+  },
+  {
+    "id": 418,
+    "nome": "Micro-ondas",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 520.18,
+    "categoria": "Eletrodomésticos",
+    "estoque": 11
+  },
+  {
+    "id": 419,
+    "nome": "Fone de Ouvido",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 24.06,
+    "categoria": "Ferramentas",
+    "estoque": 26
+  },
+  {
+    "id": 420,
+    "nome": "Teclado",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 972.66,
+    "categoria": "Ferramentas",
+    "estoque": 94
+  },
+  {
+    "id": 421,
+    "nome": "Mouse",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 835.21,
+    "categoria": "Eletrônicos",
+    "estoque": 48
+  },
+  {
+    "id": 422,
+    "nome": "Fogão",
+    "descricao": "Ótima durabilidade.",
+    "preco": 101.19,
+    "categoria": "Eletrônicos",
+    "estoque": 65
+  },
+  {
+    "id": 423,
+    "nome": "Fogão",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 329.13,
+    "categoria": "Eletrodomésticos",
+    "estoque": 18
+  },
+  {
+    "id": 424,
+    "nome": "Câmera",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 749.92,
+    "categoria": "Eletrônicos",
+    "estoque": 13
+  },
+  {
+    "id": 425,
+    "nome": "Impressora",
+    "descricao": "Ótima durabilidade.",
+    "preco": 634.98,
+    "categoria": "Eletrodomésticos",
+    "estoque": 36
+  },
+  {
+    "id": 426,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 117.88,
+    "categoria": "Eletrodomésticos",
+    "estoque": 48
+  },
+  {
+    "id": 427,
+    "nome": "Câmera",
+    "descricao": "Ideal para uso diário.",
+    "preco": 796.97,
+    "categoria": "Eletrodomésticos",
+    "estoque": 52
+  },
+  {
+    "id": 428,
+    "nome": "Ventilador",
+    "descricao": "Ótima durabilidade.",
+    "preco": 121.88,
+    "categoria": "Eletrônicos",
+    "estoque": 17
+  },
+  {
+    "id": 429,
+    "nome": "Smartwatch",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 810.54,
+    "categoria": "Informática",
+    "estoque": 33
+  },
+  {
+    "id": 430,
+    "nome": "Ventilador",
+    "descricao": "Compacto e eficiente.",
+    "preco": 34.02,
+    "categoria": "Ferramentas",
+    "estoque": 96
+  },
+  {
+    "id": 431,
+    "nome": "Monitor",
+    "descricao": "Compacto e eficiente.",
+    "preco": 769.19,
+    "categoria": "Eletrônicos",
+    "estoque": 30
+  },
+  {
+    "id": 432,
+    "nome": "Monitor",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 234.96,
+    "categoria": "Ferramentas",
+    "estoque": 2
+  },
+  {
+    "id": 433,
+    "nome": "Tablet",
+    "descricao": "Design moderno e funcional.",
+    "preco": 370.4,
+    "categoria": "Ferramentas",
+    "estoque": 76
+  },
+  {
+    "id": 434,
+    "nome": "Teclado",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 159.83,
+    "categoria": "Eletrônicos",
+    "estoque": 85
+  },
+  {
+    "id": 435,
+    "nome": "Geladeira",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 411.66,
+    "categoria": "Ferramentas",
+    "estoque": 49
+  },
+  {
+    "id": 436,
+    "nome": "Smartwatch",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 791.75,
+    "categoria": "Informática",
+    "estoque": 77
+  },
+  {
+    "id": 437,
+    "nome": "Smartwatch",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 268.33,
+    "categoria": "Informática",
+    "estoque": 77
+  },
+  {
+    "id": 438,
+    "nome": "Tablet",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 459.46,
+    "categoria": "Ferramentas",
+    "estoque": 85
+  },
+  {
+    "id": 439,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 585.35,
+    "categoria": "Eletrônicos",
+    "estoque": 73
+  },
+  {
+    "id": 440,
+    "nome": "Câmera",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 142.7,
+    "categoria": "Ferramentas",
+    "estoque": 98
+  },
+  {
+    "id": 441,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 965.34,
+    "categoria": "Móveis",
+    "estoque": 31
+  },
+  {
+    "id": 442,
+    "nome": "Fone de Ouvido",
+    "descricao": "Edição limitada.",
+    "preco": 370.57,
+    "categoria": "Móveis",
+    "estoque": 19
+  },
+  {
+    "id": 443,
+    "nome": "Impressora",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 983.29,
+    "categoria": "Ferramentas",
+    "estoque": 40
+  },
+  {
+    "id": 444,
+    "nome": "Fone de Ouvido",
+    "descricao": "Design moderno e funcional.",
+    "preco": 970.76,
+    "categoria": "Eletrodomésticos",
+    "estoque": 56
+  },
+  {
+    "id": 445,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 496.75,
+    "categoria": "Eletrodomésticos",
+    "estoque": 45
+  },
+  {
+    "id": 446,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 721.28,
+    "categoria": "Móveis",
+    "estoque": 61
+  },
+  {
+    "id": 447,
+    "nome": "Notebook",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 285.43,
+    "categoria": "Ferramentas",
+    "estoque": 59
+  },
+  {
+    "id": 448,
+    "nome": "Fogão",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 663.56,
+    "categoria": "Móveis",
+    "estoque": 5
+  },
+  {
+    "id": 449,
+    "nome": "Tablet",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 342.83,
+    "categoria": "Informática",
+    "estoque": 15
+  },
+  {
+    "id": 450,
+    "nome": "Câmera",
+    "descricao": "Ótima durabilidade.",
+    "preco": 650.54,
+    "categoria": "Ferramentas",
+    "estoque": 49
+  },
+  {
+    "id": 451,
+    "nome": "Smartphone",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 499.28,
+    "categoria": "Móveis",
+    "estoque": 0
+  },
+  {
+    "id": 452,
+    "nome": "Tablet",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 744.51,
+    "categoria": "Móveis",
+    "estoque": 36
+  },
+  {
+    "id": 453,
+    "nome": "Ar-condicionado",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 394.04,
+    "categoria": "Ferramentas",
+    "estoque": 3
+  },
+  {
+    "id": 454,
+    "nome": "Ar-condicionado",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 229.37,
+    "categoria": "Eletrodomésticos",
+    "estoque": 81
+  },
+  {
+    "id": 455,
+    "nome": "Mouse",
+    "descricao": "Edição limitada.",
+    "preco": 24.93,
+    "categoria": "Eletrônicos",
+    "estoque": 54
+  },
+  {
+    "id": 456,
+    "nome": "Teclado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 645.32,
+    "categoria": "Eletrônicos",
+    "estoque": 79
+  },
+  {
+    "id": 457,
+    "nome": "Ar-condicionado",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 973.42,
+    "categoria": "Informática",
+    "estoque": 28
+  },
+  {
+    "id": 458,
+    "nome": "Smartwatch",
+    "descricao": "Edição limitada.",
+    "preco": 880.04,
+    "categoria": "Informática",
+    "estoque": 43
+  },
+  {
+    "id": 459,
+    "nome": "Geladeira",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 167.57,
+    "categoria": "Informática",
+    "estoque": 29
+  },
+  {
+    "id": 460,
+    "nome": "Câmera",
+    "descricao": "Ideal para uso diário.",
+    "preco": 959.73,
+    "categoria": "Ferramentas",
+    "estoque": 46
+  },
+  {
+    "id": 461,
+    "nome": "Fogão",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 882,
+    "categoria": "Eletrônicos",
+    "estoque": 54
+  },
+  {
+    "id": 462,
+    "nome": "Monitor",
+    "descricao": "Ideal para uso diário.",
+    "preco": 152.34,
+    "categoria": "Ferramentas",
+    "estoque": 16
+  },
+  {
+    "id": 463,
+    "nome": "Fone de Ouvido",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 20.22,
+    "categoria": "Eletrônicos",
+    "estoque": 73
+  },
+  {
+    "id": 464,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 520.42,
+    "categoria": "Informática",
+    "estoque": 18
+  },
+  {
+    "id": 465,
+    "nome": "Tablet",
+    "descricao": "Compacto e eficiente.",
+    "preco": 61.75,
+    "categoria": "Eletrônicos",
+    "estoque": 78
+  },
+  {
+    "id": 466,
+    "nome": "Smartphone",
+    "descricao": "Ideal para uso diário.",
+    "preco": 417.75,
+    "categoria": "Ferramentas",
+    "estoque": 18
+  },
+  {
+    "id": 467,
+    "nome": "Fone de Ouvido",
+    "descricao": "Ótima durabilidade.",
+    "preco": 348.02,
+    "categoria": "Eletrodomésticos",
+    "estoque": 45
+  },
+  {
+    "id": 468,
+    "nome": "Ar-condicionado",
+    "descricao": "Ideal para uso diário.",
+    "preco": 367.12,
+    "categoria": "Eletrônicos",
+    "estoque": 30
+  },
+  {
+    "id": 469,
+    "nome": "Smartwatch",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 318.75,
+    "categoria": "Eletrodomésticos",
+    "estoque": 2
+  },
+  {
+    "id": 470,
+    "nome": "Tablet",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 749.1,
+    "categoria": "Ferramentas",
+    "estoque": 6
+  },
+  {
+    "id": 471,
+    "nome": "Ar-condicionado",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 179.18,
+    "categoria": "Informática",
+    "estoque": 14
+  },
+  {
+    "id": 472,
+    "nome": "Tablet",
+    "descricao": "Design moderno e funcional.",
+    "preco": 228.39,
+    "categoria": "Informática",
+    "estoque": 53
+  },
+  {
+    "id": 473,
+    "nome": "Smartwatch",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 472.37,
+    "categoria": "Informática",
+    "estoque": 49
+  },
+  {
+    "id": 474,
+    "nome": "Smartphone",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 573.94,
+    "categoria": "Eletrônicos",
+    "estoque": 91
+  },
+  {
+    "id": 475,
+    "nome": "Impressora",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 16.2,
+    "categoria": "Ferramentas",
+    "estoque": 70
+  },
+  {
+    "id": 476,
+    "nome": "Smartphone",
+    "descricao": "Ótima durabilidade.",
+    "preco": 470,
+    "categoria": "Ferramentas",
+    "estoque": 94
+  },
+  {
+    "id": 477,
+    "nome": "Smartwatch",
+    "descricao": "Edição limitada.",
+    "preco": 151.97,
+    "categoria": "Eletrodomésticos",
+    "estoque": 54
+  },
+  {
+    "id": 478,
+    "nome": "Teclado",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 53.25,
+    "categoria": "Informática",
+    "estoque": 89
+  },
+  {
+    "id": 479,
+    "nome": "Ventilador",
+    "descricao": "Compacto e eficiente.",
+    "preco": 370.4,
+    "categoria": "Eletrodomésticos",
+    "estoque": 2
+  },
+  {
+    "id": 480,
+    "nome": "Smartphone",
+    "descricao": "Design moderno e funcional.",
+    "preco": 674.37,
+    "categoria": "Eletrônicos",
+    "estoque": 69
+  },
+  {
+    "id": 481,
+    "nome": "Monitor",
+    "descricao": "Compacto e eficiente.",
+    "preco": 554.59,
+    "categoria": "Móveis",
+    "estoque": 31
+  },
+  {
+    "id": 482,
+    "nome": "Micro-ondas",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 64.44,
+    "categoria": "Eletrônicos",
+    "estoque": 96
+  },
+  {
+    "id": 483,
+    "nome": "Fogão",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 961.24,
+    "categoria": "Eletrodomésticos",
+    "estoque": 56
+  },
+  {
+    "id": 484,
+    "nome": "Smartphone",
+    "descricao": "Edição limitada.",
+    "preco": 870.08,
+    "categoria": "Ferramentas",
+    "estoque": 98
+  },
+  {
+    "id": 485,
+    "nome": "Mouse",
+    "descricao": "Design moderno e funcional.",
+    "preco": 563.28,
+    "categoria": "Eletrônicos",
+    "estoque": 91
+  },
+  {
+    "id": 486,
+    "nome": "Impressora",
+    "descricao": "Ideal para uso diário.",
+    "preco": 615.5,
+    "categoria": "Informática",
+    "estoque": 1
+  },
+  {
+    "id": 487,
+    "nome": "Smartwatch",
+    "descricao": "Edição limitada.",
+    "preco": 780.92,
+    "categoria": "Ferramentas",
+    "estoque": 11
+  },
+  {
+    "id": 488,
+    "nome": "Micro-ondas",
+    "descricao": "Edição limitada.",
+    "preco": 681.95,
+    "categoria": "Móveis",
+    "estoque": 56
+  },
+  {
+    "id": 489,
+    "nome": "Teclado",
+    "descricao": "Ótima durabilidade.",
+    "preco": 40.49,
+    "categoria": "Móveis",
+    "estoque": 23
+  },
+  {
+    "id": 490,
+    "nome": "Tablet",
+    "descricao": "Ideal para uso diário.",
+    "preco": 398.84,
+    "categoria": "Informática",
+    "estoque": 20
+  },
+  {
+    "id": 491,
+    "nome": "Monitor",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 651.74,
+    "categoria": "Ferramentas",
+    "estoque": 19
+  },
+  {
+    "id": 492,
+    "nome": "Micro-ondas",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 67.1,
+    "categoria": "Móveis",
+    "estoque": 81
+  },
+  {
+    "id": 493,
+    "nome": "Tablet",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 110.06,
+    "categoria": "Ferramentas",
+    "estoque": 88
+  },
+  {
+    "id": 494,
+    "nome": "Câmera",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 248.15,
+    "categoria": "Móveis",
+    "estoque": 30
+  },
+  {
+    "id": 495,
+    "nome": "Mouse",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 40.15,
+    "categoria": "Eletrodomésticos",
+    "estoque": 74
+  },
+  {
+    "id": 496,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 890.6,
+    "categoria": "Eletrônicos",
+    "estoque": 59
+  },
+  {
+    "id": 497,
+    "nome": "Geladeira",
+    "descricao": "Edição limitada.",
+    "preco": 28.83,
+    "categoria": "Móveis",
+    "estoque": 88
+  },
+  {
+    "id": 498,
+    "nome": "Tablet",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 511.13,
+    "categoria": "Ferramentas",
+    "estoque": 28
+  },
+  {
+    "id": 499,
+    "nome": "Monitor",
+    "descricao": "Design moderno e funcional.",
+    "preco": 938.31,
+    "categoria": "Eletrodomésticos",
+    "estoque": 6
+  },
+  {
+    "id": 500,
+    "nome": "Impressora",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 335.24,
+    "categoria": "Eletrodomésticos",
+    "estoque": 57
+  },
+  {
+    "id": 501,
+    "nome": "Notebook",
+    "descricao": "Design moderno e funcional.",
+    "preco": 254.21,
+    "categoria": "Eletrônicos",
+    "estoque": 42
+  },
+  {
+    "id": 502,
+    "nome": "Geladeira",
+    "descricao": "Ótima durabilidade.",
+    "preco": 103.87,
+    "categoria": "Informática",
+    "estoque": 17
+  },
+  {
+    "id": 503,
+    "nome": "Impressora",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 210.1,
+    "categoria": "Eletrônicos",
+    "estoque": 39
+  },
+  {
+    "id": 504,
+    "nome": "Micro-ondas",
+    "descricao": "Ótima durabilidade.",
+    "preco": 165.39,
+    "categoria": "Móveis",
+    "estoque": 2
+  },
+  {
+    "id": 505,
+    "nome": "Micro-ondas",
+    "descricao": "Ótima durabilidade.",
+    "preco": 701.21,
+    "categoria": "Ferramentas",
+    "estoque": 68
+  },
+  {
+    "id": 506,
+    "nome": "Notebook",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 121.5,
+    "categoria": "Móveis",
+    "estoque": 63
+  },
+  {
+    "id": 507,
+    "nome": "Geladeira",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 809.81,
+    "categoria": "Ferramentas",
+    "estoque": 84
+  },
+  {
+    "id": 508,
+    "nome": "Ventilador",
+    "descricao": "Ideal para uso diário.",
+    "preco": 157.47,
+    "categoria": "Informática",
+    "estoque": 76
+  },
+  {
+    "id": 509,
+    "nome": "Smartphone",
+    "descricao": "Design moderno e funcional.",
+    "preco": 614.05,
+    "categoria": "Móveis",
+    "estoque": 39
+  },
+  {
+    "id": 510,
+    "nome": "Notebook",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 132.91,
+    "categoria": "Móveis",
+    "estoque": 27
+  },
+  {
+    "id": 511,
+    "nome": "Teclado",
+    "descricao": "Ótima durabilidade.",
+    "preco": 839.84,
+    "categoria": "Eletrodomésticos",
+    "estoque": 45
+  },
+  {
+    "id": 512,
+    "nome": "Smartphone",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 253.83,
+    "categoria": "Eletrônicos",
+    "estoque": 14
+  },
+  {
+    "id": 513,
+    "nome": "Tablet",
+    "descricao": "Ideal para uso diário.",
+    "preco": 495.79,
+    "categoria": "Informática",
+    "estoque": 62
+  },
+  {
+    "id": 514,
+    "nome": "Ventilador",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 600.8,
+    "categoria": "Móveis",
+    "estoque": 5
+  },
+  {
+    "id": 515,
+    "nome": "Ventilador",
+    "descricao": "Ideal para uso diário.",
+    "preco": 857.65,
+    "categoria": "Informática",
+    "estoque": 81
+  },
+  {
+    "id": 516,
+    "nome": "Tablet",
+    "descricao": "Edição limitada.",
+    "preco": 527.55,
+    "categoria": "Ferramentas",
+    "estoque": 84
+  },
+  {
+    "id": 517,
+    "nome": "Fone de Ouvido",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 811.59,
+    "categoria": "Móveis",
+    "estoque": 80
+  },
+  {
+    "id": 518,
+    "nome": "Micro-ondas",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 990.63,
+    "categoria": "Eletrodomésticos",
+    "estoque": 6
+  },
+  {
+    "id": 519,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compacto e eficiente.",
+    "preco": 320.36,
+    "categoria": "Ferramentas",
+    "estoque": 19
+  },
+  {
+    "id": 520,
+    "nome": "Geladeira",
+    "descricao": "Ideal para uso diário.",
+    "preco": 218.38,
+    "categoria": "Ferramentas",
+    "estoque": 90
+  },
+  {
+    "id": 521,
+    "nome": "Câmera",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 279.59,
+    "categoria": "Informática",
+    "estoque": 1
+  },
+  {
+    "id": 522,
+    "nome": "Notebook",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 435.66,
+    "categoria": "Eletrônicos",
+    "estoque": 39
+  },
+  {
+    "id": 523,
+    "nome": "Smartwatch",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 125.65,
+    "categoria": "Móveis",
+    "estoque": 31
+  },
+  {
+    "id": 524,
+    "nome": "Fone de Ouvido",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 666.45,
+    "categoria": "Móveis",
+    "estoque": 62
+  },
+  {
+    "id": 525,
+    "nome": "Mouse",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 206.72,
+    "categoria": "Ferramentas",
+    "estoque": 8
+  },
+  {
+    "id": 526,
+    "nome": "Tablet",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 412.29,
+    "categoria": "Eletrônicos",
+    "estoque": 81
+  },
+  {
+    "id": 527,
+    "nome": "Fone de Ouvido",
+    "descricao": "Ótima durabilidade.",
+    "preco": 152.31,
+    "categoria": "Móveis",
+    "estoque": 1
+  },
+  {
+    "id": 528,
+    "nome": "Ventilador",
+    "descricao": "Ideal para uso diário.",
+    "preco": 644.99,
+    "categoria": "Ferramentas",
+    "estoque": 28
+  },
+  {
+    "id": 529,
+    "nome": "Smartwatch",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 230.35,
+    "categoria": "Ferramentas",
+    "estoque": 61
+  },
+  {
+    "id": 530,
+    "nome": "Smartwatch",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 430.3,
+    "categoria": "Informática",
+    "estoque": 5
+  },
+  {
+    "id": 531,
+    "nome": "Fogão",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 934.8,
+    "categoria": "Eletrodomésticos",
+    "estoque": 64
+  },
+  {
+    "id": 532,
+    "nome": "Ar-condicionado",
+    "descricao": "Ideal para uso diário.",
+    "preco": 158.47,
+    "categoria": "Eletrônicos",
+    "estoque": 29
+  },
+  {
+    "id": 533,
+    "nome": "Fogão",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 387.37,
+    "categoria": "Eletrodomésticos",
+    "estoque": 78
+  },
+  {
+    "id": 534,
+    "nome": "Fone de Ouvido",
+    "descricao": "Ótima durabilidade.",
+    "preco": 718.58,
+    "categoria": "Informática",
+    "estoque": 57
+  },
+  {
+    "id": 535,
+    "nome": "Câmera",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 622.33,
+    "categoria": "Informática",
+    "estoque": 83
+  },
+  {
+    "id": 536,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 469.27,
+    "categoria": "Informática",
+    "estoque": 74
+  },
+  {
+    "id": 537,
+    "nome": "Smartwatch",
+    "descricao": "Design moderno e funcional.",
+    "preco": 513.21,
+    "categoria": "Eletrônicos",
+    "estoque": 70
+  },
+  {
+    "id": 538,
+    "nome": "Geladeira",
+    "descricao": "Edição limitada.",
+    "preco": 82.27,
+    "categoria": "Informática",
+    "estoque": 13
+  },
+  {
+    "id": 539,
+    "nome": "Fogão",
+    "descricao": "Ideal para uso diário.",
+    "preco": 754.8,
+    "categoria": "Móveis",
+    "estoque": 0
+  },
+  {
+    "id": 540,
+    "nome": "Geladeira",
+    "descricao": "Edição limitada.",
+    "preco": 143.77,
+    "categoria": "Eletrodomésticos",
+    "estoque": 39
+  },
+  {
+    "id": 541,
+    "nome": "Mouse",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 498.57,
+    "categoria": "Eletrônicos",
+    "estoque": 37
+  },
+  {
+    "id": 542,
+    "nome": "Ar-condicionado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 922.47,
+    "categoria": "Eletrônicos",
+    "estoque": 58
+  },
+  {
+    "id": 543,
+    "nome": "Smartphone",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 345.94,
+    "categoria": "Informática",
+    "estoque": 11
+  },
+  {
+    "id": 544,
+    "nome": "Impressora",
+    "descricao": "Edição limitada.",
+    "preco": 123.35,
+    "categoria": "Móveis",
+    "estoque": 9
+  },
+  {
+    "id": 545,
+    "nome": "Ar-condicionado",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 408.22,
+    "categoria": "Eletrônicos",
+    "estoque": 94
+  },
+  {
+    "id": 546,
+    "nome": "Geladeira",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 533.65,
+    "categoria": "Móveis",
+    "estoque": 70
+  },
+  {
+    "id": 547,
+    "nome": "Micro-ondas",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 484.14,
+    "categoria": "Eletrodomésticos",
+    "estoque": 45
+  },
+  {
+    "id": 548,
+    "nome": "Smartphone",
+    "descricao": "Compacto e eficiente.",
+    "preco": 587.41,
+    "categoria": "Móveis",
+    "estoque": 80
+  },
+  {
+    "id": 549,
+    "nome": "Smartwatch",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 803.15,
+    "categoria": "Ferramentas",
+    "estoque": 92
+  },
+  {
+    "id": 550,
+    "nome": "Geladeira",
+    "descricao": "Edição limitada.",
+    "preco": 941.6,
+    "categoria": "Ferramentas",
+    "estoque": 86
+  },
+  {
+    "id": 551,
+    "nome": "Câmera",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 852.74,
+    "categoria": "Informática",
+    "estoque": 60
+  },
+  {
+    "id": 552,
+    "nome": "Smartwatch",
+    "descricao": "Edição limitada.",
+    "preco": 926.29,
+    "categoria": "Eletrodomésticos",
+    "estoque": 14
+  },
+  {
+    "id": 553,
+    "nome": "Notebook",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 600.48,
+    "categoria": "Eletrodomésticos",
+    "estoque": 90
+  },
+  {
+    "id": 554,
+    "nome": "Teclado",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 570.79,
+    "categoria": "Informática",
+    "estoque": 4
+  },
+  {
+    "id": 555,
+    "nome": "Ventilador",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 611.23,
+    "categoria": "Eletrodomésticos",
+    "estoque": 99
+  },
+  {
+    "id": 556,
+    "nome": "Fone de Ouvido",
+    "descricao": "Edição limitada.",
+    "preco": 188.3,
+    "categoria": "Eletrônicos",
+    "estoque": 50
+  },
+  {
+    "id": 557,
+    "nome": "Ar-condicionado",
+    "descricao": "Ótima durabilidade.",
+    "preco": 54.42,
+    "categoria": "Informática",
+    "estoque": 29
+  },
+  {
+    "id": 558,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 753.78,
+    "categoria": "Móveis",
+    "estoque": 71
+  },
+  {
+    "id": 559,
+    "nome": "Impressora",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 503.94,
+    "categoria": "Móveis",
+    "estoque": 48
+  },
+  {
+    "id": 560,
+    "nome": "Micro-ondas",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 293.67,
+    "categoria": "Eletrônicos",
+    "estoque": 91
+  },
+  {
+    "id": 561,
+    "nome": "Monitor",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 827.54,
+    "categoria": "Informática",
+    "estoque": 45
+  },
+  {
+    "id": 562,
+    "nome": "Fogão",
+    "descricao": "Ideal para uso diário.",
+    "preco": 602.24,
+    "categoria": "Eletrodomésticos",
+    "estoque": 61
+  },
+  {
+    "id": 563,
+    "nome": "Smartwatch",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 803.68,
+    "categoria": "Eletrodomésticos",
+    "estoque": 63
+  },
+  {
+    "id": 564,
+    "nome": "Smartphone",
+    "descricao": "Ótima durabilidade.",
+    "preco": 281.78,
+    "categoria": "Informática",
+    "estoque": 21
+  },
+  {
+    "id": 565,
+    "nome": "Teclado",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 74.3,
+    "categoria": "Eletrônicos",
+    "estoque": 80
+  },
+  {
+    "id": 566,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 311.18,
+    "categoria": "Móveis",
+    "estoque": 37
+  },
+  {
+    "id": 567,
+    "nome": "Câmera",
+    "descricao": "Ótima durabilidade.",
+    "preco": 398.74,
+    "categoria": "Eletrônicos",
+    "estoque": 82
+  },
+  {
+    "id": 568,
+    "nome": "Fone de Ouvido",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 763.47,
+    "categoria": "Móveis",
+    "estoque": 62
+  },
+  {
+    "id": 569,
+    "nome": "Notebook",
+    "descricao": "Ideal para uso diário.",
+    "preco": 924.27,
+    "categoria": "Ferramentas",
+    "estoque": 54
+  },
+  {
+    "id": 570,
+    "nome": "Impressora",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 158.29,
+    "categoria": "Ferramentas",
+    "estoque": 100
+  },
+  {
+    "id": 571,
+    "nome": "Ar-condicionado",
+    "descricao": "Ideal para uso diário.",
+    "preco": 554.06,
+    "categoria": "Ferramentas",
+    "estoque": 64
+  },
+  {
+    "id": 572,
+    "nome": "Teclado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 578.61,
+    "categoria": "Móveis",
+    "estoque": 47
+  },
+  {
+    "id": 573,
+    "nome": "Impressora",
+    "descricao": "Design moderno e funcional.",
+    "preco": 442.81,
+    "categoria": "Informática",
+    "estoque": 26
+  },
+  {
+    "id": 574,
+    "nome": "Teclado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 589.9,
+    "categoria": "Móveis",
+    "estoque": 53
+  },
+  {
+    "id": 575,
+    "nome": "Notebook",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 466.51,
+    "categoria": "Eletrodomésticos",
+    "estoque": 26
+  },
+  {
+    "id": 576,
+    "nome": "Monitor",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 365.7,
+    "categoria": "Eletrônicos",
+    "estoque": 59
+  },
+  {
+    "id": 577,
+    "nome": "Smartwatch",
+    "descricao": "Ótima durabilidade.",
+    "preco": 119.24,
+    "categoria": "Ferramentas",
+    "estoque": 58
+  },
+  {
+    "id": 578,
+    "nome": "Notebook",
+    "descricao": "Edição limitada.",
+    "preco": 515.26,
+    "categoria": "Móveis",
+    "estoque": 17
+  },
+  {
+    "id": 579,
+    "nome": "Teclado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 684.4,
+    "categoria": "Ferramentas",
+    "estoque": 91
+  },
+  {
+    "id": 580,
+    "nome": "Monitor",
+    "descricao": "Design moderno e funcional.",
+    "preco": 785.32,
+    "categoria": "Eletrodomésticos",
+    "estoque": 27
+  },
+  {
+    "id": 581,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 617.85,
+    "categoria": "Eletrodomésticos",
+    "estoque": 46
+  },
+  {
+    "id": 582,
+    "nome": "Smartwatch",
+    "descricao": "Ótima durabilidade.",
+    "preco": 595.94,
+    "categoria": "Eletrônicos",
+    "estoque": 50
+  },
+  {
+    "id": 583,
+    "nome": "Micro-ondas",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 299.33,
+    "categoria": "Ferramentas",
+    "estoque": 40
+  },
+  {
+    "id": 584,
+    "nome": "Monitor",
+    "descricao": "Ótima durabilidade.",
+    "preco": 580.56,
+    "categoria": "Informática",
+    "estoque": 75
+  },
+  {
+    "id": 585,
+    "nome": "Geladeira",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 709.28,
+    "categoria": "Móveis",
+    "estoque": 67
+  },
+  {
+    "id": 586,
+    "nome": "Teclado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 848.29,
+    "categoria": "Móveis",
+    "estoque": 79
+  },
+  {
+    "id": 587,
+    "nome": "Mouse",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 438.56,
+    "categoria": "Eletrodomésticos",
+    "estoque": 18
+  },
+  {
+    "id": 588,
+    "nome": "Câmera",
+    "descricao": "Ótima durabilidade.",
+    "preco": 127.69,
+    "categoria": "Eletrônicos",
+    "estoque": 22
+  },
+  {
+    "id": 589,
+    "nome": "Fogão",
+    "descricao": "Edição limitada.",
+    "preco": 969.96,
+    "categoria": "Informática",
+    "estoque": 29
+  },
+  {
+    "id": 590,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 52.5,
+    "categoria": "Eletrônicos",
+    "estoque": 3
+  },
+  {
+    "id": 591,
+    "nome": "Notebook",
+    "descricao": "Design moderno e funcional.",
+    "preco": 783.72,
+    "categoria": "Móveis",
+    "estoque": 98
+  },
+  {
+    "id": 592,
+    "nome": "Câmera",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 464.52,
+    "categoria": "Ferramentas",
+    "estoque": 26
+  },
+  {
+    "id": 593,
+    "nome": "Smartwatch",
+    "descricao": "Compacto e eficiente.",
+    "preco": 716.15,
+    "categoria": "Móveis",
+    "estoque": 1
+  },
+  {
+    "id": 594,
+    "nome": "Micro-ondas",
+    "descricao": "Ótima durabilidade.",
+    "preco": 430.65,
+    "categoria": "Eletrodomésticos",
+    "estoque": 89
+  },
+  {
+    "id": 595,
+    "nome": "Teclado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 614.26,
+    "categoria": "Eletrônicos",
+    "estoque": 88
+  },
+  {
+    "id": 596,
+    "nome": "Micro-ondas",
+    "descricao": "Design moderno e funcional.",
+    "preco": 342,
+    "categoria": "Informática",
+    "estoque": 19
+  },
+  {
+    "id": 597,
+    "nome": "Monitor",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 953.63,
+    "categoria": "Informática",
+    "estoque": 35
+  },
+  {
+    "id": 598,
+    "nome": "Fone de Ouvido",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 441.39,
+    "categoria": "Móveis",
+    "estoque": 60
+  },
+  {
+    "id": 599,
+    "nome": "Mouse",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 205.15,
+    "categoria": "Eletrodomésticos",
+    "estoque": 25
+  },
+  {
+    "id": 600,
+    "nome": "Mouse",
+    "descricao": "Compacto e eficiente.",
+    "preco": 271.21,
+    "categoria": "Eletrônicos",
+    "estoque": 8
+  },
+  {
+    "id": 601,
+    "nome": "Fogão",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 795.72,
+    "categoria": "Ferramentas",
+    "estoque": 50
+  },
+  {
+    "id": 602,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 884.61,
+    "categoria": "Informática",
+    "estoque": 40
+  },
+  {
+    "id": 603,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 643.9,
+    "categoria": "Eletrônicos",
+    "estoque": 2
+  },
+  {
+    "id": 604,
+    "nome": "Smartphone",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 872.27,
+    "categoria": "Eletrônicos",
+    "estoque": 41
+  },
+  {
+    "id": 605,
+    "nome": "Câmera",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 628.12,
+    "categoria": "Móveis",
+    "estoque": 97
+  },
+  {
+    "id": 606,
+    "nome": "Fone de Ouvido",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 819.59,
+    "categoria": "Eletrodomésticos",
+    "estoque": 3
+  },
+  {
+    "id": 607,
+    "nome": "Micro-ondas",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 998.25,
+    "categoria": "Móveis",
+    "estoque": 65
+  },
+  {
+    "id": 608,
+    "nome": "Teclado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 33.45,
+    "categoria": "Móveis",
+    "estoque": 19
+  },
+  {
+    "id": 609,
+    "nome": "Ventilador",
+    "descricao": "Compacto e eficiente.",
+    "preco": 606.2,
+    "categoria": "Eletrodomésticos",
+    "estoque": 85
+  },
+  {
+    "id": 610,
+    "nome": "Ar-condicionado",
+    "descricao": "Ideal para uso diário.",
+    "preco": 837.96,
+    "categoria": "Eletrônicos",
+    "estoque": 32
+  },
+  {
+    "id": 611,
+    "nome": "Fogão",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 982.95,
+    "categoria": "Eletrodomésticos",
+    "estoque": 79
+  },
+  {
+    "id": 612,
+    "nome": "Impressora",
+    "descricao": "Ideal para uso diário.",
+    "preco": 868.51,
+    "categoria": "Móveis",
+    "estoque": 95
+  },
+  {
+    "id": 613,
+    "nome": "Fone de Ouvido",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 736.07,
+    "categoria": "Eletrônicos",
+    "estoque": 50
+  },
+  {
+    "id": 614,
+    "nome": "Mouse",
+    "descricao": "Design moderno e funcional.",
+    "preco": 81.83,
+    "categoria": "Eletrodomésticos",
+    "estoque": 94
+  },
+  {
+    "id": 615,
+    "nome": "Ar-condicionado",
+    "descricao": "Edição limitada.",
+    "preco": 171.02,
+    "categoria": "Móveis",
+    "estoque": 79
+  },
+  {
+    "id": 616,
+    "nome": "Notebook",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 189.21,
+    "categoria": "Eletrônicos",
+    "estoque": 47
+  },
+  {
+    "id": 617,
+    "nome": "Monitor",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 623.21,
+    "categoria": "Eletrônicos",
+    "estoque": 25
+  },
+  {
+    "id": 618,
+    "nome": "Notebook",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 424.56,
+    "categoria": "Informática",
+    "estoque": 72
+  },
+  {
+    "id": 619,
+    "nome": "Smartphone",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 539.97,
+    "categoria": "Eletrônicos",
+    "estoque": 57
+  },
+  {
+    "id": 620,
+    "nome": "Fogão",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 447.39,
+    "categoria": "Ferramentas",
+    "estoque": 36
+  },
+  {
+    "id": 621,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 573.91,
+    "categoria": "Móveis",
+    "estoque": 51
+  },
+  {
+    "id": 622,
+    "nome": "Câmera",
+    "descricao": "Ótima durabilidade.",
+    "preco": 539.85,
+    "categoria": "Ferramentas",
+    "estoque": 91
+  },
+  {
+    "id": 623,
+    "nome": "Smartwatch",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 799.52,
+    "categoria": "Eletrônicos",
+    "estoque": 5
+  },
+  {
+    "id": 624,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 642.48,
+    "categoria": "Informática",
+    "estoque": 15
+  },
+  {
+    "id": 625,
+    "nome": "Mouse",
+    "descricao": "Edição limitada.",
+    "preco": 933.89,
+    "categoria": "Móveis",
+    "estoque": 100
+  },
+  {
+    "id": 626,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 499.41,
+    "categoria": "Eletrônicos",
+    "estoque": 42
+  },
+  {
+    "id": 627,
+    "nome": "Fone de Ouvido",
+    "descricao": "Ótima durabilidade.",
+    "preco": 651.85,
+    "categoria": "Móveis",
+    "estoque": 66
+  },
+  {
+    "id": 628,
+    "nome": "Smartphone",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 750.19,
+    "categoria": "Eletrônicos",
+    "estoque": 29
+  },
+  {
+    "id": 629,
+    "nome": "Smartwatch",
+    "descricao": "Ideal para uso diário.",
+    "preco": 847.34,
+    "categoria": "Ferramentas",
+    "estoque": 70
+  },
+  {
+    "id": 630,
+    "nome": "Teclado",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 309.6,
+    "categoria": "Eletrônicos",
+    "estoque": 82
+  },
+  {
+    "id": 631,
+    "nome": "Tablet",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 701.3,
+    "categoria": "Eletrodomésticos",
+    "estoque": 37
+  },
+  {
+    "id": 632,
+    "nome": "Fogão",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 478.08,
+    "categoria": "Ferramentas",
+    "estoque": 17
+  },
+  {
+    "id": 633,
+    "nome": "Ventilador",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 831.11,
+    "categoria": "Eletrônicos",
+    "estoque": 23
+  },
+  {
+    "id": 634,
+    "nome": "Ventilador",
+    "descricao": "Edição limitada.",
+    "preco": 404.14,
+    "categoria": "Informática",
+    "estoque": 21
+  },
+  {
+    "id": 635,
+    "nome": "Notebook",
+    "descricao": "Design moderno e funcional.",
+    "preco": 547.01,
+    "categoria": "Informática",
+    "estoque": 48
+  },
+  {
+    "id": 636,
+    "nome": "Geladeira",
+    "descricao": "Design moderno e funcional.",
+    "preco": 442.7,
+    "categoria": "Eletrodomésticos",
+    "estoque": 60
+  },
+  {
+    "id": 637,
+    "nome": "Smartphone",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 388.67,
+    "categoria": "Ferramentas",
+    "estoque": 91
+  },
+  {
+    "id": 638,
+    "nome": "Mouse",
+    "descricao": "Edição limitada.",
+    "preco": 623.88,
+    "categoria": "Móveis",
+    "estoque": 60
+  },
+  {
+    "id": 639,
+    "nome": "Geladeira",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 382.5,
+    "categoria": "Eletrônicos",
+    "estoque": 1
+  },
+  {
+    "id": 640,
+    "nome": "Notebook",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 127.15,
+    "categoria": "Ferramentas",
+    "estoque": 25
+  },
+  {
+    "id": 641,
+    "nome": "Fogão",
+    "descricao": "Compacto e eficiente.",
+    "preco": 962.91,
+    "categoria": "Informática",
+    "estoque": 51
+  },
+  {
+    "id": 642,
+    "nome": "Monitor",
+    "descricao": "Ótima durabilidade.",
+    "preco": 512.21,
+    "categoria": "Ferramentas",
+    "estoque": 75
+  },
+  {
+    "id": 643,
+    "nome": "Smartphone",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 539.21,
+    "categoria": "Eletrodomésticos",
+    "estoque": 56
+  },
+  {
+    "id": 644,
+    "nome": "Mouse",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 327.31,
+    "categoria": "Informática",
+    "estoque": 64
+  },
+  {
+    "id": 645,
+    "nome": "Câmera",
+    "descricao": "Design moderno e funcional.",
+    "preco": 663.67,
+    "categoria": "Informática",
+    "estoque": 40
+  },
+  {
+    "id": 646,
+    "nome": "Teclado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 514.77,
+    "categoria": "Ferramentas",
+    "estoque": 69
+  },
+  {
+    "id": 647,
+    "nome": "Smartwatch",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 703.72,
+    "categoria": "Eletrodomésticos",
+    "estoque": 92
+  },
+  {
+    "id": 648,
+    "nome": "Fogão",
+    "descricao": "Edição limitada.",
+    "preco": 70.47,
+    "categoria": "Informática",
+    "estoque": 67
+  },
+  {
+    "id": 649,
+    "nome": "Notebook",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 848.87,
+    "categoria": "Móveis",
+    "estoque": 90
+  },
+  {
+    "id": 650,
+    "nome": "Smartwatch",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 622.46,
+    "categoria": "Eletrodomésticos",
+    "estoque": 92
+  },
+  {
+    "id": 651,
+    "nome": "Monitor",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 382.18,
+    "categoria": "Móveis",
+    "estoque": 84
+  },
+  {
+    "id": 652,
+    "nome": "Câmera",
+    "descricao": "Ideal para uso diário.",
+    "preco": 312.03,
+    "categoria": "Ferramentas",
+    "estoque": 13
+  },
+  {
+    "id": 653,
+    "nome": "Teclado",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 453.06,
+    "categoria": "Móveis",
+    "estoque": 5
+  },
+  {
+    "id": 654,
+    "nome": "Notebook",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 362.74,
+    "categoria": "Ferramentas",
+    "estoque": 79
+  },
+  {
+    "id": 655,
+    "nome": "Monitor",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 315.99,
+    "categoria": "Eletrodomésticos",
+    "estoque": 10
+  },
+  {
+    "id": 656,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 984.15,
+    "categoria": "Móveis",
+    "estoque": 56
+  },
+  {
+    "id": 657,
+    "nome": "Ventilador",
+    "descricao": "Design moderno e funcional.",
+    "preco": 33.14,
+    "categoria": "Informática",
+    "estoque": 81
+  },
+  {
+    "id": 658,
+    "nome": "Smartwatch",
+    "descricao": "Ideal para uso diário.",
+    "preco": 914.73,
+    "categoria": "Móveis",
+    "estoque": 64
+  },
+  {
+    "id": 659,
+    "nome": "Câmera",
+    "descricao": "Compacto e eficiente.",
+    "preco": 32.16,
+    "categoria": "Eletrônicos",
+    "estoque": 20
+  },
+  {
+    "id": 660,
+    "nome": "Mouse",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 807.96,
+    "categoria": "Ferramentas",
+    "estoque": 87
+  },
+  {
+    "id": 661,
+    "nome": "Tablet",
+    "descricao": "Compacto e eficiente.",
+    "preco": 818.27,
+    "categoria": "Informática",
+    "estoque": 87
+  },
+  {
+    "id": 662,
+    "nome": "Micro-ondas",
+    "descricao": "Compacto e eficiente.",
+    "preco": 971.7,
+    "categoria": "Ferramentas",
+    "estoque": 32
+  },
+  {
+    "id": 663,
+    "nome": "Micro-ondas",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 283.8,
+    "categoria": "Móveis",
+    "estoque": 65
+  },
+  {
+    "id": 664,
+    "nome": "Micro-ondas",
+    "descricao": "Edição limitada.",
+    "preco": 960.31,
+    "categoria": "Móveis",
+    "estoque": 90
+  },
+  {
+    "id": 665,
+    "nome": "Notebook",
+    "descricao": "Edição limitada.",
+    "preco": 765.27,
+    "categoria": "Eletrônicos",
+    "estoque": 7
+  },
+  {
+    "id": 666,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 278.31,
+    "categoria": "Eletrodomésticos",
+    "estoque": 74
+  },
+  {
+    "id": 667,
+    "nome": "Smartphone",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 581.26,
+    "categoria": "Ferramentas",
+    "estoque": 9
+  },
+  {
+    "id": 668,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 153.97,
+    "categoria": "Ferramentas",
+    "estoque": 9
+  },
+  {
+    "id": 669,
+    "nome": "Ventilador",
+    "descricao": "Ideal para uso diário.",
+    "preco": 753.16,
+    "categoria": "Ferramentas",
+    "estoque": 97
+  },
+  {
+    "id": 670,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 760.7,
+    "categoria": "Informática",
+    "estoque": 37
+  },
+  {
+    "id": 671,
+    "nome": "Geladeira",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 845.51,
+    "categoria": "Ferramentas",
+    "estoque": 11
+  },
+  {
+    "id": 672,
+    "nome": "Smartwatch",
+    "descricao": "Edição limitada.",
+    "preco": 19.29,
+    "categoria": "Eletrônicos",
+    "estoque": 43
+  },
+  {
+    "id": 673,
+    "nome": "Ventilador",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 391.7,
+    "categoria": "Móveis",
+    "estoque": 33
+  },
+  {
+    "id": 674,
+    "nome": "Fogão",
+    "descricao": "Ideal para uso diário.",
+    "preco": 294.99,
+    "categoria": "Móveis",
+    "estoque": 84
+  },
+  {
+    "id": 675,
+    "nome": "Fogão",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 977.2,
+    "categoria": "Informática",
+    "estoque": 43
+  },
+  {
+    "id": 676,
+    "nome": "Tablet",
+    "descricao": "Compacto e eficiente.",
+    "preco": 728.42,
+    "categoria": "Eletrodomésticos",
+    "estoque": 27
+  },
+  {
+    "id": 677,
+    "nome": "Geladeira",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 27.03,
+    "categoria": "Informática",
+    "estoque": 67
+  },
+  {
+    "id": 678,
+    "nome": "Tablet",
+    "descricao": "Edição limitada.",
+    "preco": 721.45,
+    "categoria": "Ferramentas",
+    "estoque": 55
+  },
+  {
+    "id": 679,
+    "nome": "Notebook",
+    "descricao": "Ideal para uso diário.",
+    "preco": 649.34,
+    "categoria": "Eletrônicos",
+    "estoque": 76
+  },
+  {
+    "id": 680,
+    "nome": "Ventilador",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 978.75,
+    "categoria": "Eletrônicos",
+    "estoque": 68
+  },
+  {
+    "id": 681,
+    "nome": "Micro-ondas",
+    "descricao": "Ótima durabilidade.",
+    "preco": 25.48,
+    "categoria": "Eletrodomésticos",
+    "estoque": 76
+  },
+  {
+    "id": 682,
+    "nome": "Câmera",
+    "descricao": "Design moderno e funcional.",
+    "preco": 812.87,
+    "categoria": "Eletrodomésticos",
+    "estoque": 79
+  },
+  {
+    "id": 683,
+    "nome": "Impressora",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 470.27,
+    "categoria": "Informática",
+    "estoque": 61
+  },
+  {
+    "id": 684,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 449.81,
+    "categoria": "Eletrodomésticos",
+    "estoque": 100
+  },
+  {
+    "id": 685,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compacto e eficiente.",
+    "preco": 321.85,
+    "categoria": "Informática",
+    "estoque": 28
+  },
+  {
+    "id": 686,
+    "nome": "Ventilador",
+    "descricao": "Ótima durabilidade.",
+    "preco": 190.39,
+    "categoria": "Eletrônicos",
+    "estoque": 77
+  },
+  {
+    "id": 687,
+    "nome": "Tablet",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 932.51,
+    "categoria": "Móveis",
+    "estoque": 48
+  },
+  {
+    "id": 688,
+    "nome": "Smartphone",
+    "descricao": "Compacto e eficiente.",
+    "preco": 555.01,
+    "categoria": "Eletrodomésticos",
+    "estoque": 36
+  },
+  {
+    "id": 689,
+    "nome": "Notebook",
+    "descricao": "Ótima durabilidade.",
+    "preco": 953.91,
+    "categoria": "Móveis",
+    "estoque": 28
+  },
+  {
+    "id": 690,
+    "nome": "Smartwatch",
+    "descricao": "Compacto e eficiente.",
+    "preco": 725.86,
+    "categoria": "Eletrodomésticos",
+    "estoque": 71
+  },
+  {
+    "id": 691,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 598.25,
+    "categoria": "Informática",
+    "estoque": 54
+  },
+  {
+    "id": 692,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 271.05,
+    "categoria": "Móveis",
+    "estoque": 47
+  },
+  {
+    "id": 693,
+    "nome": "Fone de Ouvido",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 77.85,
+    "categoria": "Informática",
+    "estoque": 34
+  },
+  {
+    "id": 694,
+    "nome": "Micro-ondas",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 184.67,
+    "categoria": "Informática",
+    "estoque": 98
+  },
+  {
+    "id": 695,
+    "nome": "Smartphone",
+    "descricao": "Ótima durabilidade.",
+    "preco": 968.19,
+    "categoria": "Eletrônicos",
+    "estoque": 9
+  },
+  {
+    "id": 696,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 553.22,
+    "categoria": "Ferramentas",
+    "estoque": 25
+  },
+  {
+    "id": 697,
+    "nome": "Monitor",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 971.68,
+    "categoria": "Eletrônicos",
+    "estoque": 63
+  },
+  {
+    "id": 698,
+    "nome": "Câmera",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 44.19,
+    "categoria": "Móveis",
+    "estoque": 98
+  },
+  {
+    "id": 699,
+    "nome": "Fone de Ouvido",
+    "descricao": "Design moderno e funcional.",
+    "preco": 458.24,
+    "categoria": "Móveis",
+    "estoque": 90
+  },
+  {
+    "id": 700,
+    "nome": "Câmera",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 609.53,
+    "categoria": "Móveis",
+    "estoque": 83
+  },
+  {
+    "id": 701,
+    "nome": "Teclado",
+    "descricao": "Ideal para uso diário.",
+    "preco": 441.73,
+    "categoria": "Informática",
+    "estoque": 99
+  },
+  {
+    "id": 702,
+    "nome": "Teclado",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 760.28,
+    "categoria": "Ferramentas",
+    "estoque": 61
+  },
+  {
+    "id": 703,
+    "nome": "Ventilador",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 757.65,
+    "categoria": "Eletrodomésticos",
+    "estoque": 55
+  },
+  {
+    "id": 704,
+    "nome": "Teclado",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 614.54,
+    "categoria": "Eletrodomésticos",
+    "estoque": 69
+  },
+  {
+    "id": 705,
+    "nome": "Ar-condicionado",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 536.65,
+    "categoria": "Móveis",
+    "estoque": 41
+  },
+  {
+    "id": 706,
+    "nome": "Fogão",
+    "descricao": "Design moderno e funcional.",
+    "preco": 328.51,
+    "categoria": "Ferramentas",
+    "estoque": 86
+  },
+  {
+    "id": 707,
+    "nome": "Câmera",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 738.43,
+    "categoria": "Eletrônicos",
+    "estoque": 48
+  },
+  {
+    "id": 708,
+    "nome": "Tablet",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 98.98,
+    "categoria": "Eletrodomésticos",
+    "estoque": 74
+  },
+  {
+    "id": 709,
+    "nome": "Micro-ondas",
+    "descricao": "Ideal para uso diário.",
+    "preco": 615.9,
+    "categoria": "Eletrodomésticos",
+    "estoque": 63
+  },
+  {
+    "id": 710,
+    "nome": "Ventilador",
+    "descricao": "Compacto e eficiente.",
+    "preco": 830.5,
+    "categoria": "Informática",
+    "estoque": 20
+  },
+  {
+    "id": 711,
+    "nome": "Monitor",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 164.08,
+    "categoria": "Móveis",
+    "estoque": 20
+  },
+  {
+    "id": 712,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 452.64,
+    "categoria": "Informática",
+    "estoque": 78
+  },
+  {
+    "id": 713,
+    "nome": "Tablet",
+    "descricao": "Ótima durabilidade.",
+    "preco": 71.39,
+    "categoria": "Ferramentas",
+    "estoque": 42
+  },
+  {
+    "id": 714,
+    "nome": "Tablet",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 625.6,
+    "categoria": "Ferramentas",
+    "estoque": 91
+  },
+  {
+    "id": 715,
+    "nome": "Smartwatch",
+    "descricao": "Design moderno e funcional.",
+    "preco": 388.57,
+    "categoria": "Informática",
+    "estoque": 64
+  },
+  {
+    "id": 716,
+    "nome": "Notebook",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 250.51,
+    "categoria": "Ferramentas",
+    "estoque": 0
+  },
+  {
+    "id": 717,
+    "nome": "Teclado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 226.43,
+    "categoria": "Móveis",
+    "estoque": 13
+  },
+  {
+    "id": 718,
+    "nome": "Câmera",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 750.69,
+    "categoria": "Informática",
+    "estoque": 12
+  },
+  {
+    "id": 719,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 823.52,
+    "categoria": "Móveis",
+    "estoque": 93
+  },
+  {
+    "id": 720,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 278.18,
+    "categoria": "Eletrodomésticos",
+    "estoque": 4
+  },
+  {
+    "id": 721,
+    "nome": "Tablet",
+    "descricao": "Compacto e eficiente.",
+    "preco": 538.07,
+    "categoria": "Ferramentas",
+    "estoque": 46
+  },
+  {
+    "id": 722,
+    "nome": "Impressora",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 147.2,
+    "categoria": "Informática",
+    "estoque": 81
+  },
+  {
+    "id": 723,
+    "nome": "Monitor",
+    "descricao": "Ótima durabilidade.",
+    "preco": 474.96,
+    "categoria": "Informática",
+    "estoque": 9
+  },
+  {
+    "id": 724,
+    "nome": "Ventilador",
+    "descricao": "Ideal para uso diário.",
+    "preco": 927.68,
+    "categoria": "Eletrônicos",
+    "estoque": 64
+  },
+  {
+    "id": 725,
+    "nome": "Ventilador",
+    "descricao": "Compacto e eficiente.",
+    "preco": 276.03,
+    "categoria": "Eletrodomésticos",
+    "estoque": 3
+  },
+  {
+    "id": 726,
+    "nome": "Teclado",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 713.61,
+    "categoria": "Eletrônicos",
+    "estoque": 8
+  },
+  {
+    "id": 727,
+    "nome": "Micro-ondas",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 670.1,
+    "categoria": "Eletrônicos",
+    "estoque": 35
+  },
+  {
+    "id": 728,
+    "nome": "Notebook",
+    "descricao": "Ótima durabilidade.",
+    "preco": 195.2,
+    "categoria": "Móveis",
+    "estoque": 56
+  },
+  {
+    "id": 729,
+    "nome": "Ar-condicionado",
+    "descricao": "Ótima durabilidade.",
+    "preco": 798,
+    "categoria": "Eletrodomésticos",
+    "estoque": 4
+  },
+  {
+    "id": 730,
+    "nome": "Micro-ondas",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 969.56,
+    "categoria": "Ferramentas",
+    "estoque": 18
+  },
+  {
+    "id": 731,
+    "nome": "Micro-ondas",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 294.86,
+    "categoria": "Eletrodomésticos",
+    "estoque": 26
+  },
+  {
+    "id": 732,
+    "nome": "Fone de Ouvido",
+    "descricao": "Ideal para uso diário.",
+    "preco": 514.35,
+    "categoria": "Eletrônicos",
+    "estoque": 58
+  },
+  {
+    "id": 733,
+    "nome": "Smartwatch",
+    "descricao": "Ótima durabilidade.",
+    "preco": 465.42,
+    "categoria": "Ferramentas",
+    "estoque": 87
+  },
+  {
+    "id": 734,
+    "nome": "Smartwatch",
+    "descricao": "Edição limitada.",
+    "preco": 243.49,
+    "categoria": "Ferramentas",
+    "estoque": 6
+  },
+  {
+    "id": 735,
+    "nome": "Smartwatch",
+    "descricao": "Ótima durabilidade.",
+    "preco": 502.06,
+    "categoria": "Ferramentas",
+    "estoque": 14
+  },
+  {
+    "id": 736,
+    "nome": "Fogão",
+    "descricao": "Design moderno e funcional.",
+    "preco": 721.26,
+    "categoria": "Ferramentas",
+    "estoque": 98
+  },
+  {
+    "id": 737,
+    "nome": "Micro-ondas",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 236.54,
+    "categoria": "Informática",
+    "estoque": 97
+  },
+  {
+    "id": 738,
+    "nome": "Smartwatch",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 189.88,
+    "categoria": "Informática",
+    "estoque": 55
+  },
+  {
+    "id": 739,
+    "nome": "Fone de Ouvido",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 253.15,
+    "categoria": "Informática",
+    "estoque": 29
+  },
+  {
+    "id": 740,
+    "nome": "Mouse",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 119,
+    "categoria": "Eletrodomésticos",
+    "estoque": 89
+  },
+  {
+    "id": 741,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 722.15,
+    "categoria": "Informática",
+    "estoque": 85
+  },
+  {
+    "id": 742,
+    "nome": "Micro-ondas",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 254.96,
+    "categoria": "Informática",
+    "estoque": 15
+  },
+  {
+    "id": 743,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 66.85,
+    "categoria": "Ferramentas",
+    "estoque": 95
+  },
+  {
+    "id": 744,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 273.84,
+    "categoria": "Eletrodomésticos",
+    "estoque": 3
+  },
+  {
+    "id": 745,
+    "nome": "Monitor",
+    "descricao": "Compacto e eficiente.",
+    "preco": 598.58,
+    "categoria": "Ferramentas",
+    "estoque": 99
+  },
+  {
+    "id": 746,
+    "nome": "Ar-condicionado",
+    "descricao": "Ótima durabilidade.",
+    "preco": 254.98,
+    "categoria": "Eletrônicos",
+    "estoque": 80
+  },
+  {
+    "id": 747,
+    "nome": "Smartphone",
+    "descricao": "Design moderno e funcional.",
+    "preco": 760.87,
+    "categoria": "Eletrônicos",
+    "estoque": 93
+  },
+  {
+    "id": 748,
+    "nome": "Micro-ondas",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 875.74,
+    "categoria": "Eletrônicos",
+    "estoque": 65
+  },
+  {
+    "id": 749,
+    "nome": "Ventilador",
+    "descricao": "Ideal para uso diário.",
+    "preco": 907.42,
+    "categoria": "Ferramentas",
+    "estoque": 80
+  },
+  {
+    "id": 750,
+    "nome": "Mouse",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 509.06,
+    "categoria": "Móveis",
+    "estoque": 18
+  },
+  {
+    "id": 751,
+    "nome": "Fogão",
+    "descricao": "Design moderno e funcional.",
+    "preco": 152.98,
+    "categoria": "Eletrônicos",
+    "estoque": 48
+  },
+  {
+    "id": 752,
+    "nome": "Fone de Ouvido",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 108.6,
+    "categoria": "Ferramentas",
+    "estoque": 40
+  },
+  {
+    "id": 753,
+    "nome": "Mouse",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 446.73,
+    "categoria": "Móveis",
+    "estoque": 9
+  },
+  {
+    "id": 754,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 480.25,
+    "categoria": "Ferramentas",
+    "estoque": 15
+  },
+  {
+    "id": 755,
+    "nome": "Ventilador",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 853.15,
+    "categoria": "Informática",
+    "estoque": 97
+  },
+  {
+    "id": 756,
+    "nome": "Monitor",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 666.12,
+    "categoria": "Ferramentas",
+    "estoque": 4
+  },
+  {
+    "id": 757,
+    "nome": "Teclado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 667.64,
+    "categoria": "Eletrodomésticos",
+    "estoque": 22
+  },
+  {
+    "id": 758,
+    "nome": "Monitor",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 686.57,
+    "categoria": "Móveis",
+    "estoque": 98
+  },
+  {
+    "id": 759,
+    "nome": "Teclado",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 755.49,
+    "categoria": "Eletrônicos",
+    "estoque": 10
+  },
+  {
+    "id": 760,
+    "nome": "Tablet",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 501.84,
+    "categoria": "Móveis",
+    "estoque": 40
+  },
+  {
+    "id": 761,
+    "nome": "Smartwatch",
+    "descricao": "Edição limitada.",
+    "preco": 444.08,
+    "categoria": "Móveis",
+    "estoque": 54
+  },
+  {
+    "id": 762,
+    "nome": "Ar-condicionado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 772.02,
+    "categoria": "Informática",
+    "estoque": 89
+  },
+  {
+    "id": 763,
+    "nome": "Smartwatch",
+    "descricao": "Compacto e eficiente.",
+    "preco": 413.52,
+    "categoria": "Informática",
+    "estoque": 10
+  },
+  {
+    "id": 764,
+    "nome": "Monitor",
+    "descricao": "Compacto e eficiente.",
+    "preco": 405.42,
+    "categoria": "Informática",
+    "estoque": 13
+  },
+  {
+    "id": 765,
+    "nome": "Notebook",
+    "descricao": "Design moderno e funcional.",
+    "preco": 375.61,
+    "categoria": "Eletrônicos",
+    "estoque": 53
+  },
+  {
+    "id": 766,
+    "nome": "Teclado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 30.57,
+    "categoria": "Ferramentas",
+    "estoque": 38
+  },
+  {
+    "id": 767,
+    "nome": "Notebook",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 284.64,
+    "categoria": "Eletrônicos",
+    "estoque": 7
+  },
+  {
+    "id": 768,
+    "nome": "Ar-condicionado",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 86.04,
+    "categoria": "Informática",
+    "estoque": 18
+  },
+  {
+    "id": 769,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 494.43,
+    "categoria": "Eletrodomésticos",
+    "estoque": 14
+  },
+  {
+    "id": 770,
+    "nome": "Teclado",
+    "descricao": "Ótima durabilidade.",
+    "preco": 798.96,
+    "categoria": "Eletrodomésticos",
+    "estoque": 52
+  },
+  {
+    "id": 771,
+    "nome": "Tablet",
+    "descricao": "Ótima durabilidade.",
+    "preco": 198.38,
+    "categoria": "Eletrônicos",
+    "estoque": 27
+  },
+  {
+    "id": 772,
+    "nome": "Câmera",
+    "descricao": "Design moderno e funcional.",
+    "preco": 580.48,
+    "categoria": "Eletrodomésticos",
+    "estoque": 40
+  },
+  {
+    "id": 773,
+    "nome": "Smartwatch",
+    "descricao": "Edição limitada.",
+    "preco": 87.07,
+    "categoria": "Eletrodomésticos",
+    "estoque": 0
+  },
+  {
+    "id": 774,
+    "nome": "Geladeira",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 72.96,
+    "categoria": "Móveis",
+    "estoque": 36
+  },
+  {
+    "id": 775,
+    "nome": "Tablet",
+    "descricao": "Ótima durabilidade.",
+    "preco": 557,
+    "categoria": "Informática",
+    "estoque": 39
+  },
+  {
+    "id": 776,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 500.77,
+    "categoria": "Eletrônicos",
+    "estoque": 82
+  },
+  {
+    "id": 777,
+    "nome": "Notebook",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 868.39,
+    "categoria": "Ferramentas",
+    "estoque": 69
+  },
+  {
+    "id": 778,
+    "nome": "Impressora",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 608.1,
+    "categoria": "Ferramentas",
+    "estoque": 93
+  },
+  {
+    "id": 779,
+    "nome": "Fone de Ouvido",
+    "descricao": "Compacto e eficiente.",
+    "preco": 798.6,
+    "categoria": "Eletrodomésticos",
+    "estoque": 21
+  },
+  {
+    "id": 780,
+    "nome": "Notebook",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 70.3,
+    "categoria": "Móveis",
+    "estoque": 18
+  },
+  {
+    "id": 781,
+    "nome": "Tablet",
+    "descricao": "Compacto e eficiente.",
+    "preco": 593.84,
+    "categoria": "Ferramentas",
+    "estoque": 37
+  },
+  {
+    "id": 782,
+    "nome": "Ar-condicionado",
+    "descricao": "Edição limitada.",
+    "preco": 496.57,
+    "categoria": "Eletrônicos",
+    "estoque": 84
+  },
+  {
+    "id": 783,
+    "nome": "Geladeira",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 601.67,
+    "categoria": "Ferramentas",
+    "estoque": 96
+  },
+  {
+    "id": 784,
+    "nome": "Fogão",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 99.45,
+    "categoria": "Informática",
+    "estoque": 55
+  },
+  {
+    "id": 785,
+    "nome": "Fogão",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 248.73,
+    "categoria": "Eletrodomésticos",
+    "estoque": 80
+  },
+  {
+    "id": 786,
+    "nome": "Tablet",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 347.21,
+    "categoria": "Informática",
+    "estoque": 26
+  },
+  {
+    "id": 787,
+    "nome": "Notebook",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 602.22,
+    "categoria": "Móveis",
+    "estoque": 26
+  },
+  {
+    "id": 788,
+    "nome": "Fone de Ouvido",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 809.67,
+    "categoria": "Informática",
+    "estoque": 80
+  },
+  {
+    "id": 789,
+    "nome": "Monitor",
+    "descricao": "Edição limitada.",
+    "preco": 611.83,
+    "categoria": "Informática",
+    "estoque": 83
+  },
+  {
+    "id": 790,
+    "nome": "Monitor",
+    "descricao": "Design moderno e funcional.",
+    "preco": 395.18,
+    "categoria": "Eletrodomésticos",
+    "estoque": 45
+  },
+  {
+    "id": 791,
+    "nome": "Ar-condicionado",
+    "descricao": "Ótima durabilidade.",
+    "preco": 370.06,
+    "categoria": "Informática",
+    "estoque": 6
+  },
+  {
+    "id": 792,
+    "nome": "Ar-condicionado",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 772.44,
+    "categoria": "Eletrônicos",
+    "estoque": 19
+  },
+  {
+    "id": 793,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 74.65,
+    "categoria": "Ferramentas",
+    "estoque": 77
+  },
+  {
+    "id": 794,
+    "nome": "Smartphone",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 395.68,
+    "categoria": "Ferramentas",
+    "estoque": 9
+  },
+  {
+    "id": 795,
+    "nome": "Ventilador",
+    "descricao": "Ótima durabilidade.",
+    "preco": 432.84,
+    "categoria": "Informática",
+    "estoque": 94
+  },
+  {
+    "id": 796,
+    "nome": "Smartphone",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 227.75,
+    "categoria": "Móveis",
+    "estoque": 13
+  },
+  {
+    "id": 797,
+    "nome": "Monitor",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 757.92,
+    "categoria": "Ferramentas",
+    "estoque": 69
+  },
+  {
+    "id": 798,
+    "nome": "Smartwatch",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 305.14,
+    "categoria": "Eletrodomésticos",
+    "estoque": 18
+  },
+  {
+    "id": 799,
+    "nome": "Micro-ondas",
+    "descricao": "Edição limitada.",
+    "preco": 653.08,
+    "categoria": "Eletrodomésticos",
+    "estoque": 55
+  },
+  {
+    "id": 800,
+    "nome": "Smartphone",
+    "descricao": "Design moderno e funcional.",
+    "preco": 304.5,
+    "categoria": "Ferramentas",
+    "estoque": 72
+  },
+  {
+    "id": 801,
+    "nome": "Smartwatch",
+    "descricao": "Edição limitada.",
+    "preco": 488.33,
+    "categoria": "Eletrônicos",
+    "estoque": 53
+  },
+  {
+    "id": 802,
+    "nome": "Câmera",
+    "descricao": "Ótima durabilidade.",
+    "preco": 408.17,
+    "categoria": "Ferramentas",
+    "estoque": 95
+  },
+  {
+    "id": 803,
+    "nome": "Tablet",
+    "descricao": "Edição limitada.",
+    "preco": 431.09,
+    "categoria": "Eletrônicos",
+    "estoque": 87
+  },
+  {
+    "id": 804,
+    "nome": "Monitor",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 732.01,
+    "categoria": "Informática",
+    "estoque": 15
+  },
+  {
+    "id": 805,
+    "nome": "Monitor",
+    "descricao": "Design moderno e funcional.",
+    "preco": 917.51,
+    "categoria": "Ferramentas",
+    "estoque": 100
+  },
+  {
+    "id": 806,
+    "nome": "Notebook",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 235.4,
+    "categoria": "Eletrônicos",
+    "estoque": 60
+  },
+  {
+    "id": 807,
+    "nome": "Geladeira",
+    "descricao": "Ótima durabilidade.",
+    "preco": 701.16,
+    "categoria": "Eletrônicos",
+    "estoque": 68
+  },
+  {
+    "id": 808,
+    "nome": "Tablet",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 433.48,
+    "categoria": "Eletrônicos",
+    "estoque": 50
+  },
+  {
+    "id": 809,
+    "nome": "Notebook",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 405.54,
+    "categoria": "Ferramentas",
+    "estoque": 66
+  },
+  {
+    "id": 810,
+    "nome": "Notebook",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 722.92,
+    "categoria": "Móveis",
+    "estoque": 0
+  },
+  {
+    "id": 811,
+    "nome": "Fogão",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 98.52,
+    "categoria": "Eletrodomésticos",
+    "estoque": 1
+  },
+  {
+    "id": 812,
+    "nome": "Tablet",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 229.88,
+    "categoria": "Ferramentas",
+    "estoque": 90
+  },
+  {
+    "id": 813,
+    "nome": "Teclado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 909.85,
+    "categoria": "Ferramentas",
+    "estoque": 100
+  },
+  {
+    "id": 814,
+    "nome": "Mouse",
+    "descricao": "Edição limitada.",
+    "preco": 578.72,
+    "categoria": "Ferramentas",
+    "estoque": 56
+  },
+  {
+    "id": 815,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 195.42,
+    "categoria": "Eletrodomésticos",
+    "estoque": 56
+  },
+  {
+    "id": 816,
+    "nome": "Monitor",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 47.08,
+    "categoria": "Ferramentas",
+    "estoque": 93
+  },
+  {
+    "id": 817,
+    "nome": "Impressora",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 358.93,
+    "categoria": "Ferramentas",
+    "estoque": 55
+  },
+  {
+    "id": 818,
+    "nome": "Monitor",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 234.95,
+    "categoria": "Informática",
+    "estoque": 82
+  },
+  {
+    "id": 819,
+    "nome": "Geladeira",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 538.92,
+    "categoria": "Eletrônicos",
+    "estoque": 63
+  },
+  {
+    "id": 820,
+    "nome": "Fogão",
+    "descricao": "Edição limitada.",
+    "preco": 886.79,
+    "categoria": "Informática",
+    "estoque": 65
+  },
+  {
+    "id": 821,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 963.11,
+    "categoria": "Móveis",
+    "estoque": 86
+  },
+  {
+    "id": 822,
+    "nome": "Fogão",
+    "descricao": "Ótima durabilidade.",
+    "preco": 384.87,
+    "categoria": "Ferramentas",
+    "estoque": 0
+  },
+  {
+    "id": 823,
+    "nome": "Tablet",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 35.5,
+    "categoria": "Móveis",
+    "estoque": 15
+  },
+  {
+    "id": 824,
+    "nome": "Ar-condicionado",
+    "descricao": "Ideal para uso diário.",
+    "preco": 659.61,
+    "categoria": "Móveis",
+    "estoque": 28
+  },
+  {
+    "id": 825,
+    "nome": "Micro-ondas",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 752.68,
+    "categoria": "Ferramentas",
+    "estoque": 0
+  },
+  {
+    "id": 826,
+    "nome": "Fone de Ouvido",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 834.21,
+    "categoria": "Eletrônicos",
+    "estoque": 58
+  },
+  {
+    "id": 827,
+    "nome": "Smartwatch",
+    "descricao": "Ideal para uso diário.",
+    "preco": 790.65,
+    "categoria": "Ferramentas",
+    "estoque": 61
+  },
+  {
+    "id": 828,
+    "nome": "Smartphone",
+    "descricao": "Compacto e eficiente.",
+    "preco": 28.24,
+    "categoria": "Informática",
+    "estoque": 54
+  },
+  {
+    "id": 829,
+    "nome": "Monitor",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 465.53,
+    "categoria": "Ferramentas",
+    "estoque": 97
+  },
+  {
+    "id": 830,
+    "nome": "Notebook",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 125.76,
+    "categoria": "Ferramentas",
+    "estoque": 75
+  },
+  {
+    "id": 831,
+    "nome": "Impressora",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 101.03,
+    "categoria": "Móveis",
+    "estoque": 45
+  },
+  {
+    "id": 832,
+    "nome": "Teclado",
+    "descricao": "Edição limitada.",
+    "preco": 264.67,
+    "categoria": "Eletrônicos",
+    "estoque": 67
+  },
+  {
+    "id": 833,
+    "nome": "Câmera",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 749.52,
+    "categoria": "Eletrônicos",
+    "estoque": 46
+  },
+  {
+    "id": 834,
+    "nome": "Fogão",
+    "descricao": "Compacto e eficiente.",
+    "preco": 68.19,
+    "categoria": "Móveis",
+    "estoque": 25
+  },
+  {
+    "id": 835,
+    "nome": "Impressora",
+    "descricao": "Ótima durabilidade.",
+    "preco": 240.13,
+    "categoria": "Eletrodomésticos",
+    "estoque": 30
+  },
+  {
+    "id": 836,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 875.89,
+    "categoria": "Ferramentas",
+    "estoque": 27
+  },
+  {
+    "id": 837,
+    "nome": "Teclado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 793.48,
+    "categoria": "Informática",
+    "estoque": 33
+  },
+  {
+    "id": 838,
+    "nome": "Fogão",
+    "descricao": "Compacto e eficiente.",
+    "preco": 690.23,
+    "categoria": "Móveis",
+    "estoque": 58
+  },
+  {
+    "id": 839,
+    "nome": "Impressora",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 919.9,
+    "categoria": "Eletrônicos",
+    "estoque": 9
+  },
+  {
+    "id": 840,
+    "nome": "Monitor",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 446.33,
+    "categoria": "Ferramentas",
+    "estoque": 91
+  },
+  {
+    "id": 841,
+    "nome": "Micro-ondas",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 707.49,
+    "categoria": "Eletrônicos",
+    "estoque": 63
+  },
+  {
+    "id": 842,
+    "nome": "Impressora",
+    "descricao": "Edição limitada.",
+    "preco": 28,
+    "categoria": "Informática",
+    "estoque": 62
+  },
+  {
+    "id": 843,
+    "nome": "Smartphone",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 598.65,
+    "categoria": "Ferramentas",
+    "estoque": 69
+  },
+  {
+    "id": 844,
+    "nome": "Ventilador",
+    "descricao": "Edição limitada.",
+    "preco": 345.16,
+    "categoria": "Eletrônicos",
+    "estoque": 15
+  },
+  {
+    "id": 845,
+    "nome": "Smartphone",
+    "descricao": "Design moderno e funcional.",
+    "preco": 600.28,
+    "categoria": "Eletrônicos",
+    "estoque": 45
+  },
+  {
+    "id": 846,
+    "nome": "Geladeira",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 989.96,
+    "categoria": "Informática",
+    "estoque": 51
+  },
+  {
+    "id": 847,
+    "nome": "Câmera",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 922.71,
+    "categoria": "Informática",
+    "estoque": 57
+  },
+  {
+    "id": 848,
+    "nome": "Câmera",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 46.19,
+    "categoria": "Informática",
+    "estoque": 83
+  },
+  {
+    "id": 849,
+    "nome": "Fogão",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 486.68,
+    "categoria": "Ferramentas",
+    "estoque": 50
+  },
+  {
+    "id": 850,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 227.35,
+    "categoria": "Ferramentas",
+    "estoque": 8
+  },
+  {
+    "id": 851,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 611.03,
+    "categoria": "Informática",
+    "estoque": 56
+  },
+  {
+    "id": 852,
+    "nome": "Ar-condicionado",
+    "descricao": "Ideal para uso diário.",
+    "preco": 436.62,
+    "categoria": "Eletrodomésticos",
+    "estoque": 76
+  },
+  {
+    "id": 853,
+    "nome": "Smartwatch",
+    "descricao": "Ótima durabilidade.",
+    "preco": 689.69,
+    "categoria": "Informática",
+    "estoque": 48
+  },
+  {
+    "id": 854,
+    "nome": "Impressora",
+    "descricao": "Compacto e eficiente.",
+    "preco": 981.52,
+    "categoria": "Informática",
+    "estoque": 42
+  },
+  {
+    "id": 855,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 362.8,
+    "categoria": "Eletrônicos",
+    "estoque": 26
+  },
+  {
+    "id": 856,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 355.05,
+    "categoria": "Eletrodomésticos",
+    "estoque": 67
+  },
+  {
+    "id": 857,
+    "nome": "Tablet",
+    "descricao": "Ótima durabilidade.",
+    "preco": 521.48,
+    "categoria": "Eletrodomésticos",
+    "estoque": 8
+  },
+  {
+    "id": 858,
+    "nome": "Impressora",
+    "descricao": "Design moderno e funcional.",
+    "preco": 421.32,
+    "categoria": "Eletrônicos",
+    "estoque": 30
+  },
+  {
+    "id": 859,
+    "nome": "Notebook",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 876.57,
+    "categoria": "Informática",
+    "estoque": 31
+  },
+  {
+    "id": 860,
+    "nome": "Smartwatch",
+    "descricao": "Edição limitada.",
+    "preco": 727.78,
+    "categoria": "Eletrônicos",
+    "estoque": 56
+  },
+  {
+    "id": 861,
+    "nome": "Câmera",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 196.22,
+    "categoria": "Ferramentas",
+    "estoque": 62
+  },
+  {
+    "id": 862,
+    "nome": "Monitor",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 292.26,
+    "categoria": "Eletrodomésticos",
+    "estoque": 37
+  },
+  {
+    "id": 863,
+    "nome": "Câmera",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 938.58,
+    "categoria": "Informática",
+    "estoque": 31
+  },
+  {
+    "id": 864,
+    "nome": "Smartphone",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 540.6,
+    "categoria": "Ferramentas",
+    "estoque": 22
+  },
+  {
+    "id": 865,
+    "nome": "Teclado",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 995.27,
+    "categoria": "Eletrônicos",
+    "estoque": 32
+  },
+  {
+    "id": 866,
+    "nome": "Micro-ondas",
+    "descricao": "Ideal para uso diário.",
+    "preco": 365.79,
+    "categoria": "Eletrônicos",
+    "estoque": 39
+  },
+  {
+    "id": 867,
+    "nome": "Câmera",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 472.71,
+    "categoria": "Eletrônicos",
+    "estoque": 23
+  },
+  {
+    "id": 868,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 442.7,
+    "categoria": "Ferramentas",
+    "estoque": 23
+  },
+  {
+    "id": 869,
+    "nome": "Impressora",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 319.86,
+    "categoria": "Móveis",
+    "estoque": 29
+  },
+  {
+    "id": 870,
+    "nome": "Smartphone",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 426.85,
+    "categoria": "Eletrodomésticos",
+    "estoque": 55
+  },
+  {
+    "id": 871,
+    "nome": "Monitor",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 931.69,
+    "categoria": "Eletrônicos",
+    "estoque": 60
+  },
+  {
+    "id": 872,
+    "nome": "Tablet",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 883.93,
+    "categoria": "Eletrodomésticos",
+    "estoque": 89
+  },
+  {
+    "id": 873,
+    "nome": "Câmera",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 357.6,
+    "categoria": "Informática",
+    "estoque": 81
+  },
+  {
+    "id": 874,
+    "nome": "Geladeira",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 479.1,
+    "categoria": "Eletrodomésticos",
+    "estoque": 15
+  },
+  {
+    "id": 875,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 80.75,
+    "categoria": "Móveis",
+    "estoque": 32
+  },
+  {
+    "id": 876,
+    "nome": "Smartphone",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 557.82,
+    "categoria": "Ferramentas",
+    "estoque": 42
+  },
+  {
+    "id": 877,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 950.41,
+    "categoria": "Eletrônicos",
+    "estoque": 69
+  },
+  {
+    "id": 878,
+    "nome": "Fogão",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 605.65,
+    "categoria": "Ferramentas",
+    "estoque": 71
+  },
+  {
+    "id": 879,
+    "nome": "Monitor",
+    "descricao": "Design moderno e funcional.",
+    "preco": 854.45,
+    "categoria": "Eletrodomésticos",
+    "estoque": 88
+  },
+  {
+    "id": 880,
+    "nome": "Ventilador",
+    "descricao": "Edição limitada.",
+    "preco": 969.07,
+    "categoria": "Móveis",
+    "estoque": 47
+  },
+  {
+    "id": 881,
+    "nome": "Câmera",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 159.38,
+    "categoria": "Ferramentas",
+    "estoque": 27
+  },
+  {
+    "id": 882,
+    "nome": "Ar-condicionado",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 419.41,
+    "categoria": "Móveis",
+    "estoque": 36
+  },
+  {
+    "id": 883,
+    "nome": "Smartwatch",
+    "descricao": "Ideal para uso diário.",
+    "preco": 817.5,
+    "categoria": "Móveis",
+    "estoque": 73
+  },
+  {
+    "id": 884,
+    "nome": "Câmera",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 45.7,
+    "categoria": "Eletrônicos",
+    "estoque": 41
+  },
+  {
+    "id": 885,
+    "nome": "Micro-ondas",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 559.42,
+    "categoria": "Eletrodomésticos",
+    "estoque": 94
+  },
+  {
+    "id": 886,
+    "nome": "Ventilador",
+    "descricao": "Design moderno e funcional.",
+    "preco": 239.87,
+    "categoria": "Móveis",
+    "estoque": 62
+  },
+  {
+    "id": 887,
+    "nome": "Micro-ondas",
+    "descricao": "Ideal para uso diário.",
+    "preco": 422.8,
+    "categoria": "Eletrodomésticos",
+    "estoque": 8
+  },
+  {
+    "id": 888,
+    "nome": "Smartwatch",
+    "descricao": "Design moderno e funcional.",
+    "preco": 791.76,
+    "categoria": "Eletrodomésticos",
+    "estoque": 72
+  },
+  {
+    "id": 889,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 31.76,
+    "categoria": "Eletrônicos",
+    "estoque": 24
+  },
+  {
+    "id": 890,
+    "nome": "Impressora",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 846.59,
+    "categoria": "Ferramentas",
+    "estoque": 22
+  },
+  {
+    "id": 891,
+    "nome": "Geladeira",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 679.34,
+    "categoria": "Eletrodomésticos",
+    "estoque": 31
+  },
+  {
+    "id": 892,
+    "nome": "Impressora",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 147.62,
+    "categoria": "Eletrônicos",
+    "estoque": 38
+  },
+  {
+    "id": 893,
+    "nome": "Geladeira",
+    "descricao": "Compacto e eficiente.",
+    "preco": 784.87,
+    "categoria": "Informática",
+    "estoque": 16
+  },
+  {
+    "id": 894,
+    "nome": "Câmera",
+    "descricao": "Ótima durabilidade.",
+    "preco": 622.41,
+    "categoria": "Eletrônicos",
+    "estoque": 48
+  },
+  {
+    "id": 895,
+    "nome": "Câmera",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 393.69,
+    "categoria": "Eletrodomésticos",
+    "estoque": 68
+  },
+  {
+    "id": 896,
+    "nome": "Mouse",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 312.28,
+    "categoria": "Ferramentas",
+    "estoque": 83
+  },
+  {
+    "id": 897,
+    "nome": "Notebook",
+    "descricao": "Edição limitada.",
+    "preco": 382.97,
+    "categoria": "Eletrodomésticos",
+    "estoque": 66
+  },
+  {
+    "id": 898,
+    "nome": "Ar-condicionado",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 898.24,
+    "categoria": "Eletrodomésticos",
+    "estoque": 3
+  },
+  {
+    "id": 899,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 959.42,
+    "categoria": "Móveis",
+    "estoque": 79
+  },
+  {
+    "id": 900,
+    "nome": "Fogão",
+    "descricao": "Edição limitada.",
+    "preco": 632.63,
+    "categoria": "Ferramentas",
+    "estoque": 37
+  },
+  {
+    "id": 901,
+    "nome": "Ventilador",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 820.92,
+    "categoria": "Informática",
+    "estoque": 89
+  },
+  {
+    "id": 902,
+    "nome": "Ar-condicionado",
+    "descricao": "Ótima durabilidade.",
+    "preco": 751.55,
+    "categoria": "Ferramentas",
+    "estoque": 35
+  },
+  {
+    "id": 903,
+    "nome": "Notebook",
+    "descricao": "Ideal para uso diário.",
+    "preco": 900.2,
+    "categoria": "Ferramentas",
+    "estoque": 6
+  },
+  {
+    "id": 904,
+    "nome": "Geladeira",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 176.08,
+    "categoria": "Informática",
+    "estoque": 75
+  },
+  {
+    "id": 905,
+    "nome": "Geladeira",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 467.16,
+    "categoria": "Eletrônicos",
+    "estoque": 78
+  },
+  {
+    "id": 906,
+    "nome": "Micro-ondas",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 972.77,
+    "categoria": "Móveis",
+    "estoque": 30
+  },
+  {
+    "id": 907,
+    "nome": "Câmera",
+    "descricao": "Ideal para uso diário.",
+    "preco": 878.3,
+    "categoria": "Eletrônicos",
+    "estoque": 71
+  },
+  {
+    "id": 908,
+    "nome": "Mouse",
+    "descricao": "Ótima durabilidade.",
+    "preco": 569.42,
+    "categoria": "Eletrodomésticos",
+    "estoque": 85
+  },
+  {
+    "id": 909,
+    "nome": "Tablet",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 287.69,
+    "categoria": "Ferramentas",
+    "estoque": 36
+  },
+  {
+    "id": 910,
+    "nome": "Smartphone",
+    "descricao": "Ótima durabilidade.",
+    "preco": 970.85,
+    "categoria": "Ferramentas",
+    "estoque": 92
+  },
+  {
+    "id": 911,
+    "nome": "Mouse",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 728.17,
+    "categoria": "Informática",
+    "estoque": 73
+  },
+  {
+    "id": 912,
+    "nome": "Tablet",
+    "descricao": "Ideal para uso diário.",
+    "preco": 385.17,
+    "categoria": "Móveis",
+    "estoque": 33
+  },
+  {
+    "id": 913,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 14.39,
+    "categoria": "Informática",
+    "estoque": 96
+  },
+  {
+    "id": 914,
+    "nome": "Mouse",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 145.97,
+    "categoria": "Ferramentas",
+    "estoque": 88
+  },
+  {
+    "id": 915,
+    "nome": "Tablet",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 708.18,
+    "categoria": "Eletrodomésticos",
+    "estoque": 39
+  },
+  {
+    "id": 916,
+    "nome": "Tablet",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 578.8,
+    "categoria": "Eletrodomésticos",
+    "estoque": 73
+  },
+  {
+    "id": 917,
+    "nome": "Ventilador",
+    "descricao": "Design moderno e funcional.",
+    "preco": 269.21,
+    "categoria": "Eletrônicos",
+    "estoque": 40
+  },
+  {
+    "id": 918,
+    "nome": "Câmera",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 243.66,
+    "categoria": "Ferramentas",
+    "estoque": 5
+  },
+  {
+    "id": 919,
+    "nome": "Smartwatch",
+    "descricao": "Compacto e eficiente.",
+    "preco": 370.22,
+    "categoria": "Informática",
+    "estoque": 87
+  },
+  {
+    "id": 920,
+    "nome": "Smartphone",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 494.68,
+    "categoria": "Informática",
+    "estoque": 24
+  },
+  {
+    "id": 921,
+    "nome": "Monitor",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 436.71,
+    "categoria": "Informática",
+    "estoque": 98
+  },
+  {
+    "id": 922,
+    "nome": "Monitor",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 684.46,
+    "categoria": "Eletrodomésticos",
+    "estoque": 92
+  },
+  {
+    "id": 923,
+    "nome": "Fogão",
+    "descricao": "Ótima durabilidade.",
+    "preco": 179.09,
+    "categoria": "Informática",
+    "estoque": 55
+  },
+  {
+    "id": 924,
+    "nome": "Smartwatch",
+    "descricao": "Ideal para uso diário.",
+    "preco": 844.98,
+    "categoria": "Eletrodomésticos",
+    "estoque": 7
+  },
+  {
+    "id": 925,
+    "nome": "Tablet",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 482.78,
+    "categoria": "Ferramentas",
+    "estoque": 69
+  },
+  {
+    "id": 926,
+    "nome": "Monitor",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 787.88,
+    "categoria": "Eletrônicos",
+    "estoque": 77
+  },
+  {
+    "id": 927,
+    "nome": "Micro-ondas",
+    "descricao": "Design moderno e funcional.",
+    "preco": 762.16,
+    "categoria": "Eletrodomésticos",
+    "estoque": 26
+  },
+  {
+    "id": 928,
+    "nome": "Ventilador",
+    "descricao": "Compacto e eficiente.",
+    "preco": 275.61,
+    "categoria": "Eletrônicos",
+    "estoque": 62
+  },
+  {
+    "id": 929,
+    "nome": "Fogão",
+    "descricao": "Compacto e eficiente.",
+    "preco": 879.03,
+    "categoria": "Eletrônicos",
+    "estoque": 81
+  },
+  {
+    "id": 930,
+    "nome": "Micro-ondas",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 488.57,
+    "categoria": "Ferramentas",
+    "estoque": 34
+  },
+  {
+    "id": 931,
+    "nome": "Ar-condicionado",
+    "descricao": "Design moderno e funcional.",
+    "preco": 173.99,
+    "categoria": "Eletrodomésticos",
+    "estoque": 71
+  },
+  {
+    "id": 932,
+    "nome": "Ventilador",
+    "descricao": "Ideal para uso diário.",
+    "preco": 822.29,
+    "categoria": "Móveis",
+    "estoque": 27
+  },
+  {
+    "id": 933,
+    "nome": "Impressora",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 970.04,
+    "categoria": "Eletrodomésticos",
+    "estoque": 96
+  },
+  {
+    "id": 934,
+    "nome": "Geladeira",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 311.73,
+    "categoria": "Eletrodomésticos",
+    "estoque": 23
+  },
+  {
+    "id": 935,
+    "nome": "Geladeira",
+    "descricao": "Ideal para uso diário.",
+    "preco": 815.78,
+    "categoria": "Ferramentas",
+    "estoque": 98
+  },
+  {
+    "id": 936,
+    "nome": "Mouse",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 313.42,
+    "categoria": "Informática",
+    "estoque": 51
+  },
+  {
+    "id": 937,
+    "nome": "Impressora",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 153.71,
+    "categoria": "Eletrônicos",
+    "estoque": 56
+  },
+  {
+    "id": 938,
+    "nome": "Teclado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 72.29,
+    "categoria": "Informática",
+    "estoque": 54
+  },
+  {
+    "id": 939,
+    "nome": "Geladeira",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 224.37,
+    "categoria": "Ferramentas",
+    "estoque": 91
+  },
+  {
+    "id": 940,
+    "nome": "Câmera",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 527.32,
+    "categoria": "Móveis",
+    "estoque": 40
+  },
+  {
+    "id": 941,
+    "nome": "Câmera",
+    "descricao": "Compacto e eficiente.",
+    "preco": 712.76,
+    "categoria": "Ferramentas",
+    "estoque": 13
+  },
+  {
+    "id": 942,
+    "nome": "Smartwatch",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 638.62,
+    "categoria": "Eletrônicos",
+    "estoque": 34
+  },
+  {
+    "id": 943,
+    "nome": "Câmera",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 277.26,
+    "categoria": "Eletrônicos",
+    "estoque": 45
+  },
+  {
+    "id": 944,
+    "nome": "Teclado",
+    "descricao": "Edição limitada.",
+    "preco": 47.85,
+    "categoria": "Eletrodomésticos",
+    "estoque": 59
+  },
+  {
+    "id": 945,
+    "nome": "Câmera",
+    "descricao": "Compacto e eficiente.",
+    "preco": 481.75,
+    "categoria": "Eletrodomésticos",
+    "estoque": 37
+  },
+  {
+    "id": 946,
+    "nome": "Geladeira",
+    "descricao": "Edição limitada.",
+    "preco": 939.09,
+    "categoria": "Ferramentas",
+    "estoque": 83
+  },
+  {
+    "id": 947,
+    "nome": "Impressora",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 339.27,
+    "categoria": "Ferramentas",
+    "estoque": 91
+  },
+  {
+    "id": 948,
+    "nome": "Smartwatch",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 167.65,
+    "categoria": "Móveis",
+    "estoque": 24
+  },
+  {
+    "id": 949,
+    "nome": "Tablet",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 692.74,
+    "categoria": "Eletrodomésticos",
+    "estoque": 18
+  },
+  {
+    "id": 950,
+    "nome": "Geladeira",
+    "descricao": "Ideal para uso diário.",
+    "preco": 988.41,
+    "categoria": "Móveis",
+    "estoque": 40
+  },
+  {
+    "id": 951,
+    "nome": "Smartphone",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 890.55,
+    "categoria": "Informática",
+    "estoque": 35
+  },
+  {
+    "id": 952,
+    "nome": "Micro-ondas",
+    "descricao": "Design moderno e funcional.",
+    "preco": 176.38,
+    "categoria": "Eletrônicos",
+    "estoque": 84
+  },
+  {
+    "id": 953,
+    "nome": "Geladeira",
+    "descricao": "Ótima durabilidade.",
+    "preco": 557.47,
+    "categoria": "Eletrodomésticos",
+    "estoque": 65
+  },
+  {
+    "id": 954,
+    "nome": "Micro-ondas",
+    "descricao": "Ideal para uso diário.",
+    "preco": 253.27,
+    "categoria": "Eletrodomésticos",
+    "estoque": 89
+  },
+  {
+    "id": 955,
+    "nome": "Micro-ondas",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 252.07,
+    "categoria": "Ferramentas",
+    "estoque": 41
+  },
+  {
+    "id": 956,
+    "nome": "Monitor",
+    "descricao": "Design moderno e funcional.",
+    "preco": 992.55,
+    "categoria": "Eletrônicos",
+    "estoque": 46
+  },
+  {
+    "id": 957,
+    "nome": "Ar-condicionado",
+    "descricao": "Compacto e eficiente.",
+    "preco": 583.19,
+    "categoria": "Eletrônicos",
+    "estoque": 71
+  },
+  {
+    "id": 958,
+    "nome": "Smartwatch",
+    "descricao": "Compacto e eficiente.",
+    "preco": 753.76,
+    "categoria": "Ferramentas",
+    "estoque": 84
+  },
+  {
+    "id": 959,
+    "nome": "Notebook",
+    "descricao": "Design moderno e funcional.",
+    "preco": 496.05,
+    "categoria": "Eletrônicos",
+    "estoque": 14
+  },
+  {
+    "id": 960,
+    "nome": "Geladeira",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 90.51,
+    "categoria": "Eletrodomésticos",
+    "estoque": 40
+  },
+  {
+    "id": 961,
+    "nome": "Smartwatch",
+    "descricao": "Compacto e eficiente.",
+    "preco": 427.21,
+    "categoria": "Ferramentas",
+    "estoque": 31
+  },
+  {
+    "id": 962,
+    "nome": "Fogão",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 840.04,
+    "categoria": "Informática",
+    "estoque": 93
+  },
+  {
+    "id": 963,
+    "nome": "Tablet",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 539.31,
+    "categoria": "Informática",
+    "estoque": 20
+  },
+  {
+    "id": 964,
+    "nome": "Monitor",
+    "descricao": "Ótima durabilidade.",
+    "preco": 998.05,
+    "categoria": "Eletrodomésticos",
+    "estoque": 84
+  },
+  {
+    "id": 965,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 796.59,
+    "categoria": "Eletrodomésticos",
+    "estoque": 13
+  },
+  {
+    "id": 966,
+    "nome": "Micro-ondas",
+    "descricao": "Ótima durabilidade.",
+    "preco": 179.12,
+    "categoria": "Eletrônicos",
+    "estoque": 82
+  },
+  {
+    "id": 967,
+    "nome": "Impressora",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 816.8,
+    "categoria": "Eletrônicos",
+    "estoque": 30
+  },
+  {
+    "id": 968,
+    "nome": "Smartphone",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 411.28,
+    "categoria": "Eletrônicos",
+    "estoque": 63
+  },
+  {
+    "id": 969,
+    "nome": "Geladeira",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 749.2,
+    "categoria": "Eletrodomésticos",
+    "estoque": 71
+  },
+  {
+    "id": 970,
+    "nome": "Notebook",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 360.52,
+    "categoria": "Ferramentas",
+    "estoque": 92
+  },
+  {
+    "id": 971,
+    "nome": "Smartwatch",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 216.93,
+    "categoria": "Informática",
+    "estoque": 65
+  },
+  {
+    "id": 972,
+    "nome": "Fone de Ouvido",
+    "descricao": "Ideal para uso diário.",
+    "preco": 201.04,
+    "categoria": "Informática",
+    "estoque": 43
+  },
+  {
+    "id": 973,
+    "nome": "Fogão",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 792.64,
+    "categoria": "Ferramentas",
+    "estoque": 79
+  },
+  {
+    "id": 974,
+    "nome": "Mouse",
+    "descricao": "Ideal para uso diário.",
+    "preco": 229.49,
+    "categoria": "Ferramentas",
+    "estoque": 19
+  },
+  {
+    "id": 975,
+    "nome": "Câmera",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 365.95,
+    "categoria": "Eletrônicos",
+    "estoque": 73
+  },
+  {
+    "id": 976,
+    "nome": "Smartphone",
+    "descricao": "Produto popular entre os consumidores.",
+    "preco": 768.31,
+    "categoria": "Móveis",
+    "estoque": 37
+  },
+  {
+    "id": 977,
+    "nome": "Micro-ondas",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 381.92,
+    "categoria": "Eletrodomésticos",
+    "estoque": 42
+  },
+  {
+    "id": 978,
+    "nome": "Smartwatch",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 331.89,
+    "categoria": "Móveis",
+    "estoque": 37
+  },
+  {
+    "id": 979,
+    "nome": "Notebook",
+    "descricao": "Compacto e eficiente.",
+    "preco": 364.3,
+    "categoria": "Eletrodomésticos",
+    "estoque": 90
+  },
+  {
+    "id": 980,
+    "nome": "Impressora",
+    "descricao": "Design moderno e funcional.",
+    "preco": 712.18,
+    "categoria": "Eletrônicos",
+    "estoque": 79
+  },
+  {
+    "id": 981,
+    "nome": "Monitor",
+    "descricao": "Compacto e eficiente.",
+    "preco": 69.87,
+    "categoria": "Informática",
+    "estoque": 61
+  },
+  {
+    "id": 982,
+    "nome": "Ventilador",
+    "descricao": "Ideal para uso diário.",
+    "preco": 158.03,
+    "categoria": "Eletrônicos",
+    "estoque": 30
+  },
+  {
+    "id": 983,
+    "nome": "Fone de Ouvido",
+    "descricao": "Ótima durabilidade.",
+    "preco": 605.47,
+    "categoria": "Eletrônicos",
+    "estoque": 90
+  },
+  {
+    "id": 984,
+    "nome": "Fone de Ouvido",
+    "descricao": "Ideal para uso diário.",
+    "preco": 624.59,
+    "categoria": "Ferramentas",
+    "estoque": 37
+  },
+  {
+    "id": 985,
+    "nome": "Micro-ondas",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 180.25,
+    "categoria": "Eletrodomésticos",
+    "estoque": 4
+  },
+  {
+    "id": 986,
+    "nome": "Ventilador",
+    "descricao": "Design moderno e funcional.",
+    "preco": 653.55,
+    "categoria": "Móveis",
+    "estoque": 94
+  },
+  {
+    "id": 987,
+    "nome": "Ar-condicionado",
+    "descricao": "Produto de alta qualidade.",
+    "preco": 487.91,
+    "categoria": "Móveis",
+    "estoque": 35
+  },
+  {
+    "id": 988,
+    "nome": "Notebook",
+    "descricao": "Design moderno e funcional.",
+    "preco": 442.72,
+    "categoria": "Eletrônicos",
+    "estoque": 48
+  },
+  {
+    "id": 989,
+    "nome": "Notebook",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 72.16,
+    "categoria": "Móveis",
+    "estoque": 40
+  },
+  {
+    "id": 990,
+    "nome": "Câmera",
+    "descricao": "Edição limitada.",
+    "preco": 759.42,
+    "categoria": "Ferramentas",
+    "estoque": 85
+  },
+  {
+    "id": 991,
+    "nome": "Smartwatch",
+    "descricao": "Ótima durabilidade.",
+    "preco": 876.18,
+    "categoria": "Informática",
+    "estoque": 67
+  },
+  {
+    "id": 992,
+    "nome": "Câmera",
+    "descricao": "Desempenho de alto nível.",
+    "preco": 534.32,
+    "categoria": "Informática",
+    "estoque": 70
+  },
+  {
+    "id": 993,
+    "nome": "Fogão",
+    "descricao": "Edição limitada.",
+    "preco": 674.46,
+    "categoria": "Eletrônicos",
+    "estoque": 75
+  },
+  {
+    "id": 994,
+    "nome": "Geladeira",
+    "descricao": "Compacto e eficiente.",
+    "preco": 453.96,
+    "categoria": "Eletrodomésticos",
+    "estoque": 92
+  },
+  {
+    "id": 995,
+    "nome": "Smartphone",
+    "descricao": "Compatível com várias plataformas.",
+    "preco": 226.54,
+    "categoria": "Eletrodomésticos",
+    "estoque": 97
+  },
+  {
+    "id": 996,
+    "nome": "Geladeira",
+    "descricao": "Ótima durabilidade.",
+    "preco": 182.74,
+    "categoria": "Informática",
+    "estoque": 90
+  },
+  {
+    "id": 997,
+    "nome": "Mouse",
+    "descricao": "Ótima durabilidade.",
+    "preco": 991.79,
+    "categoria": "Móveis",
+    "estoque": 98
+  },
+  {
+    "id": 998,
+    "nome": "Câmera",
+    "descricao": "Ótima durabilidade.",
+    "preco": 477.13,
+    "categoria": "Informática",
+    "estoque": 64
+  },
+  {
+    "id": 999,
+    "nome": "Smartwatch",
+    "descricao": "Ótima durabilidade.",
+    "preco": 897.42,
+    "categoria": "Móveis",
+    "estoque": 42
+  },
+  {
+    "id": 1000,
+    "nome": "Micro-ondas",
+    "descricao": "Fácil de usar e instalar.",
+    "preco": 458.19,
+    "categoria": "Móveis",
+    "estoque": 44
+  }
+]

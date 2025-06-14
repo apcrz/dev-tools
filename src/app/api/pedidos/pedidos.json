@@ -1,0 +1,10997 @@
+[
+  {
+    "id": 1,
+    "clienteId": 16,
+    "produtos": [
+      {
+        "id": 776,
+        "quantidade": 2,
+        "preco": 535.12
+      },
+      {
+        "id": 629,
+        "quantidade": 2,
+        "preco": 360.29
+      }
+    ],
+    "total": 1790.82
+  },
+  {
+    "id": 2,
+    "clienteId": 237,
+    "produtos": [
+      {
+        "id": 564,
+        "quantidade": 1,
+        "preco": 835.68
+      },
+      {
+        "id": 29,
+        "quantidade": 1,
+        "preco": 580.46
+      },
+      {
+        "id": 841,
+        "quantidade": 1,
+        "preco": 858.75
+      },
+      {
+        "id": 609,
+        "quantidade": 5,
+        "preco": 932.1
+      },
+      {
+        "id": 367,
+        "quantidade": 3,
+        "preco": 192.92
+      }
+    ],
+    "total": 7514.15
+  },
+  {
+    "id": 3,
+    "clienteId": 285,
+    "produtos": [
+      {
+        "id": 771,
+        "quantidade": 1,
+        "preco": 68.44
+      },
+      {
+        "id": 428,
+        "quantidade": 5,
+        "preco": 771.67
+      },
+      {
+        "id": 506,
+        "quantidade": 1,
+        "preco": 862.09
+      },
+      {
+        "id": 381,
+        "quantidade": 2,
+        "preco": 611.46
+      }
+    ],
+    "total": 6011.8
+  },
+  {
+    "id": 4,
+    "clienteId": 59,
+    "produtos": [
+      {
+        "id": 827,
+        "quantidade": 1,
+        "preco": 873.91
+      }
+    ],
+    "total": 873.91
+  },
+  {
+    "id": 5,
+    "clienteId": 232,
+    "produtos": [
+      {
+        "id": 642,
+        "quantidade": 2,
+        "preco": 506.47
+      },
+      {
+        "id": 865,
+        "quantidade": 3,
+        "preco": 166.08
+      },
+      {
+        "id": 504,
+        "quantidade": 4,
+        "preco": 316.47
+      }
+    ],
+    "total": 2777.06
+  },
+  {
+    "id": 6,
+    "clienteId": 225,
+    "produtos": [
+      {
+        "id": 624,
+        "quantidade": 2,
+        "preco": 903.21
+      },
+      {
+        "id": 194,
+        "quantidade": 2,
+        "preco": 41.76
+      },
+      {
+        "id": 628,
+        "quantidade": 5,
+        "preco": 504.71
+      },
+      {
+        "id": 256,
+        "quantidade": 2,
+        "preco": 582.33
+      }
+    ],
+    "total": 5578.15
+  },
+  {
+    "id": 7,
+    "clienteId": 81,
+    "produtos": [
+      {
+        "id": 443,
+        "quantidade": 5,
+        "preco": 882.17
+      },
+      {
+        "id": 141,
+        "quantidade": 3,
+        "preco": 611.67
+      },
+      {
+        "id": 439,
+        "quantidade": 3,
+        "preco": 726.89
+      },
+      {
+        "id": 936,
+        "quantidade": 1,
+        "preco": 458.35
+      }
+    ],
+    "total": 8884.88
+  },
+  {
+    "id": 8,
+    "clienteId": 151,
+    "produtos": [
+      {
+        "id": 558,
+        "quantidade": 5,
+        "preco": 269.22
+      }
+    ],
+    "total": 1346.1
+  },
+  {
+    "id": 9,
+    "clienteId": 198,
+    "produtos": [
+      {
+        "id": 794,
+        "quantidade": 1,
+        "preco": 684.29
+      },
+      {
+        "id": 925,
+        "quantidade": 4,
+        "preco": 445.15
+      },
+      {
+        "id": 89,
+        "quantidade": 2,
+        "preco": 202.46
+      }
+    ],
+    "total": 2869.81
+  },
+  {
+    "id": 10,
+    "clienteId": 376,
+    "produtos": [
+      {
+        "id": 558,
+        "quantidade": 3,
+        "preco": 579.12
+      },
+      {
+        "id": 862,
+        "quantidade": 4,
+        "preco": 59.32
+      },
+      {
+        "id": 121,
+        "quantidade": 1,
+        "preco": 513.39
+      },
+      {
+        "id": 11,
+        "quantidade": 2,
+        "preco": 38.42
+      },
+      {
+        "id": 537,
+        "quantidade": 4,
+        "preco": 758.72
+      }
+    ],
+    "total": 5599.75
+  },
+  {
+    "id": 11,
+    "clienteId": 318,
+    "produtos": [
+      {
+        "id": 301,
+        "quantidade": 1,
+        "preco": 641.95
+      },
+      {
+        "id": 325,
+        "quantidade": 5,
+        "preco": 601.92
+      }
+    ],
+    "total": 3651.55
+  },
+  {
+    "id": 12,
+    "clienteId": 43,
+    "produtos": [
+      {
+        "id": 201,
+        "quantidade": 4,
+        "preco": 987.39
+      },
+      {
+        "id": 359,
+        "quantidade": 5,
+        "preco": 206.63
+      }
+    ],
+    "total": 4982.71
+  },
+  {
+    "id": 13,
+    "clienteId": 380,
+    "produtos": [
+      {
+        "id": 2,
+        "quantidade": 4,
+        "preco": 486.04
+      },
+      {
+        "id": 407,
+        "quantidade": 2,
+        "preco": 157.44
+      },
+      {
+        "id": 329,
+        "quantidade": 5,
+        "preco": 841.38
+      },
+      {
+        "id": 478,
+        "quantidade": 1,
+        "preco": 455.78
+      },
+      {
+        "id": 33,
+        "quantidade": 5,
+        "preco": 637.85
+      }
+    ],
+    "total": 10110.97
+  },
+  {
+    "id": 14,
+    "clienteId": 367,
+    "produtos": [
+      {
+        "id": 530,
+        "quantidade": 5,
+        "preco": 637.15
+      },
+      {
+        "id": 514,
+        "quantidade": 4,
+        "preco": 548.75
+      }
+    ],
+    "total": 5380.75
+  },
+  {
+    "id": 15,
+    "clienteId": 286,
+    "produtos": [
+      {
+        "id": 696,
+        "quantidade": 1,
+        "preco": 646.62
+      },
+      {
+        "id": 663,
+        "quantidade": 2,
+        "preco": 963.3
+      }
+    ],
+    "total": 2573.22
+  },
+  {
+    "id": 16,
+    "clienteId": 203,
+    "produtos": [
+      {
+        "id": 601,
+        "quantidade": 4,
+        "preco": 395.43
+      },
+      {
+        "id": 840,
+        "quantidade": 1,
+        "preco": 622.92
+      },
+      {
+        "id": 583,
+        "quantidade": 2,
+        "preco": 491.3
+      },
+      {
+        "id": 440,
+        "quantidade": 5,
+        "preco": 567.53
+      }
+    ],
+    "total": 6024.89
+  },
+  {
+    "id": 17,
+    "clienteId": 451,
+    "produtos": [
+      {
+        "id": 781,
+        "quantidade": 1,
+        "preco": 699.61
+      },
+      {
+        "id": 140,
+        "quantidade": 4,
+        "preco": 327.98
+      },
+      {
+        "id": 357,
+        "quantidade": 3,
+        "preco": 754.51
+      },
+      {
+        "id": 879,
+        "quantidade": 3,
+        "preco": 870.52
+      }
+    ],
+    "total": 6886.62
+  },
+  {
+    "id": 18,
+    "clienteId": 7,
+    "produtos": [
+      {
+        "id": 508,
+        "quantidade": 5,
+        "preco": 288.75
+      },
+      {
+        "id": 154,
+        "quantidade": 4,
+        "preco": 822.95
+      },
+      {
+        "id": 795,
+        "quantidade": 5,
+        "preco": 650.97
+      }
+    ],
+    "total": 7990.4
+  },
+  {
+    "id": 19,
+    "clienteId": 77,
+    "produtos": [
+      {
+        "id": 357,
+        "quantidade": 1,
+        "preco": 786.03
+      }
+    ],
+    "total": 786.03
+  },
+  {
+    "id": 20,
+    "clienteId": 335,
+    "produtos": [
+      {
+        "id": 975,
+        "quantidade": 5,
+        "preco": 93.64
+      }
+    ],
+    "total": 468.2
+  },
+  {
+    "id": 21,
+    "clienteId": 120,
+    "produtos": [
+      {
+        "id": 913,
+        "quantidade": 3,
+        "preco": 589.38
+      },
+      {
+        "id": 987,
+        "quantidade": 5,
+        "preco": 749.17
+      },
+      {
+        "id": 464,
+        "quantidade": 4,
+        "preco": 642.39
+      },
+      {
+        "id": 769,
+        "quantidade": 1,
+        "preco": 825.87
+      },
+      {
+        "id": 402,
+        "quantidade": 4,
+        "preco": 664.41
+      }
+    ],
+    "total": 11567.06
+  },
+  {
+    "id": 22,
+    "clienteId": 189,
+    "produtos": [
+      {
+        "id": 158,
+        "quantidade": 4,
+        "preco": 985.1
+      },
+      {
+        "id": 779,
+        "quantidade": 1,
+        "preco": 453.13
+      }
+    ],
+    "total": 4393.53
+  },
+  {
+    "id": 23,
+    "clienteId": 456,
+    "produtos": [
+      {
+        "id": 851,
+        "quantidade": 5,
+        "preco": 298.4
+      }
+    ],
+    "total": 1492
+  },
+  {
+    "id": 24,
+    "clienteId": 363,
+    "produtos": [
+      {
+        "id": 90,
+        "quantidade": 3,
+        "preco": 655.52
+      },
+      {
+        "id": 863,
+        "quantidade": 1,
+        "preco": 360.13
+      }
+    ],
+    "total": 2326.69
+  },
+  {
+    "id": 25,
+    "clienteId": 431,
+    "produtos": [
+      {
+        "id": 952,
+        "quantidade": 1,
+        "preco": 238.92
+      },
+      {
+        "id": 439,
+        "quantidade": 4,
+        "preco": 815.31
+      },
+      {
+        "id": 460,
+        "quantidade": 5,
+        "preco": 549.34
+      },
+      {
+        "id": 673,
+        "quantidade": 2,
+        "preco": 92.84
+      },
+      {
+        "id": 407,
+        "quantidade": 3,
+        "preco": 213.85
+      }
+    ],
+    "total": 7074.09
+  },
+  {
+    "id": 26,
+    "clienteId": 391,
+    "produtos": [
+      {
+        "id": 35,
+        "quantidade": 3,
+        "preco": 689.75
+      },
+      {
+        "id": 951,
+        "quantidade": 2,
+        "preco": 137.58
+      },
+      {
+        "id": 295,
+        "quantidade": 1,
+        "preco": 169.07
+      },
+      {
+        "id": 768,
+        "quantidade": 5,
+        "preco": 543.89
+      },
+      {
+        "id": 51,
+        "quantidade": 2,
+        "preco": 643.86
+      }
+    ],
+    "total": 6520.65
+  },
+  {
+    "id": 27,
+    "clienteId": 162,
+    "produtos": [
+      {
+        "id": 625,
+        "quantidade": 1,
+        "preco": 381.57
+      },
+      {
+        "id": 806,
+        "quantidade": 3,
+        "preco": 152.04
+      },
+      {
+        "id": 641,
+        "quantidade": 5,
+        "preco": 78.76
+      },
+      {
+        "id": 780,
+        "quantidade": 3,
+        "preco": 327.8
+      },
+      {
+        "id": 425,
+        "quantidade": 1,
+        "preco": 377.47
+      }
+    ],
+    "total": 2592.36
+  },
+  {
+    "id": 28,
+    "clienteId": 292,
+    "produtos": [
+      {
+        "id": 876,
+        "quantidade": 4,
+        "preco": 646.09
+      },
+      {
+        "id": 163,
+        "quantidade": 2,
+        "preco": 740.57
+      },
+      {
+        "id": 281,
+        "quantidade": 5,
+        "preco": 244
+      }
+    ],
+    "total": 5285.5
+  },
+  {
+    "id": 29,
+    "clienteId": 93,
+    "produtos": [
+      {
+        "id": 989,
+        "quantidade": 1,
+        "preco": 606.36
+      },
+      {
+        "id": 230,
+        "quantidade": 1,
+        "preco": 302.53
+      },
+      {
+        "id": 22,
+        "quantidade": 3,
+        "preco": 487.01
+      }
+    ],
+    "total": 2369.92
+  },
+  {
+    "id": 30,
+    "clienteId": 41,
+    "produtos": [
+      {
+        "id": 376,
+        "quantidade": 4,
+        "preco": 671.92
+      },
+      {
+        "id": 323,
+        "quantidade": 2,
+        "preco": 159.23
+      }
+    ],
+    "total": 3006.14
+  },
+  {
+    "id": 31,
+    "clienteId": 336,
+    "produtos": [
+      {
+        "id": 921,
+        "quantidade": 5,
+        "preco": 61.47
+      },
+      {
+        "id": 528,
+        "quantidade": 5,
+        "preco": 664.37
+      },
+      {
+        "id": 643,
+        "quantidade": 5,
+        "preco": 782.54
+      },
+      {
+        "id": 657,
+        "quantidade": 4,
+        "preco": 354.53
+      },
+      {
+        "id": 220,
+        "quantidade": 4,
+        "preco": 608.9
+      }
+    ],
+    "total": 11395.62
+  },
+  {
+    "id": 32,
+    "clienteId": 140,
+    "produtos": [
+      {
+        "id": 214,
+        "quantidade": 1,
+        "preco": 51.4
+      },
+      {
+        "id": 823,
+        "quantidade": 1,
+        "preco": 37.29
+      },
+      {
+        "id": 356,
+        "quantidade": 1,
+        "preco": 620.65
+      }
+    ],
+    "total": 709.34
+  },
+  {
+    "id": 33,
+    "clienteId": 366,
+    "produtos": [
+      {
+        "id": 788,
+        "quantidade": 1,
+        "preco": 350.32
+      },
+      {
+        "id": 30,
+        "quantidade": 2,
+        "preco": 392
+      },
+      {
+        "id": 403,
+        "quantidade": 5,
+        "preco": 953.74
+      }
+    ],
+    "total": 5903.02
+  },
+  {
+    "id": 34,
+    "clienteId": 492,
+    "produtos": [
+      {
+        "id": 534,
+        "quantidade": 5,
+        "preco": 458.3
+      },
+      {
+        "id": 38,
+        "quantidade": 3,
+        "preco": 985.04
+      },
+      {
+        "id": 883,
+        "quantidade": 4,
+        "preco": 640.26
+      },
+      {
+        "id": 682,
+        "quantidade": 1,
+        "preco": 962.96
+      },
+      {
+        "id": 154,
+        "quantidade": 3,
+        "preco": 773.28
+      }
+    ],
+    "total": 11090.46
+  },
+  {
+    "id": 35,
+    "clienteId": 407,
+    "produtos": [
+      {
+        "id": 89,
+        "quantidade": 1,
+        "preco": 575.52
+      },
+      {
+        "id": 830,
+        "quantidade": 3,
+        "preco": 991.54
+      },
+      {
+        "id": 292,
+        "quantidade": 5,
+        "preco": 960.77
+      }
+    ],
+    "total": 8353.99
+  },
+  {
+    "id": 36,
+    "clienteId": 251,
+    "produtos": [
+      {
+        "id": 36,
+        "quantidade": 3,
+        "preco": 951.36
+      },
+      {
+        "id": 706,
+        "quantidade": 3,
+        "preco": 668.77
+      },
+      {
+        "id": 310,
+        "quantidade": 1,
+        "preco": 604.56
+      },
+      {
+        "id": 327,
+        "quantidade": 5,
+        "preco": 519.36
+      },
+      {
+        "id": 45,
+        "quantidade": 1,
+        "preco": 559.71
+      }
+    ],
+    "total": 8621.46
+  },
+  {
+    "id": 37,
+    "clienteId": 22,
+    "produtos": [
+      {
+        "id": 61,
+        "quantidade": 1,
+        "preco": 986.07
+      }
+    ],
+    "total": 986.07
+  },
+  {
+    "id": 38,
+    "clienteId": 120,
+    "produtos": [
+      {
+        "id": 578,
+        "quantidade": 1,
+        "preco": 453.94
+      },
+      {
+        "id": 415,
+        "quantidade": 2,
+        "preco": 833.43
+      },
+      {
+        "id": 799,
+        "quantidade": 5,
+        "preco": 799.48
+      },
+      {
+        "id": 254,
+        "quantidade": 3,
+        "preco": 847.1
+      },
+      {
+        "id": 905,
+        "quantidade": 1,
+        "preco": 226.8
+      }
+    ],
+    "total": 8886.3
+  },
+  {
+    "id": 39,
+    "clienteId": 307,
+    "produtos": [
+      {
+        "id": 64,
+        "quantidade": 5,
+        "preco": 394.64
+      }
+    ],
+    "total": 1973.2
+  },
+  {
+    "id": 40,
+    "clienteId": 357,
+    "produtos": [
+      {
+        "id": 589,
+        "quantidade": 3,
+        "preco": 356.24
+      },
+      {
+        "id": 910,
+        "quantidade": 5,
+        "preco": 766.7
+      }
+    ],
+    "total": 4902.22
+  },
+  {
+    "id": 41,
+    "clienteId": 433,
+    "produtos": [
+      {
+        "id": 353,
+        "quantidade": 2,
+        "preco": 825.24
+      },
+      {
+        "id": 182,
+        "quantidade": 5,
+        "preco": 795.7
+      },
+      {
+        "id": 181,
+        "quantidade": 3,
+        "preco": 164
+      },
+      {
+        "id": 156,
+        "quantidade": 3,
+        "preco": 876.35
+      }
+    ],
+    "total": 8750.03
+  },
+  {
+    "id": 42,
+    "clienteId": 370,
+    "produtos": [
+      {
+        "id": 534,
+        "quantidade": 5,
+        "preco": 968.71
+      },
+      {
+        "id": 880,
+        "quantidade": 2,
+        "preco": 77.03
+      },
+      {
+        "id": 822,
+        "quantidade": 4,
+        "preco": 628.51
+      },
+      {
+        "id": 590,
+        "quantidade": 1,
+        "preco": 965.93
+      }
+    ],
+    "total": 8477.58
+  },
+  {
+    "id": 43,
+    "clienteId": 412,
+    "produtos": [
+      {
+        "id": 173,
+        "quantidade": 1,
+        "preco": 262.25
+      },
+      {
+        "id": 621,
+        "quantidade": 5,
+        "preco": 179.39
+      },
+      {
+        "id": 469,
+        "quantidade": 1,
+        "preco": 610.6
+      }
+    ],
+    "total": 1769.8
+  },
+  {
+    "id": 44,
+    "clienteId": 398,
+    "produtos": [
+      {
+        "id": 874,
+        "quantidade": 5,
+        "preco": 170.76
+      },
+      {
+        "id": 295,
+        "quantidade": 1,
+        "preco": 195.61
+      },
+      {
+        "id": 131,
+        "quantidade": 5,
+        "preco": 206.9
+      }
+    ],
+    "total": 2083.91
+  },
+  {
+    "id": 45,
+    "clienteId": 401,
+    "produtos": [
+      {
+        "id": 136,
+        "quantidade": 3,
+        "preco": 474.45
+      },
+      {
+        "id": 182,
+        "quantidade": 4,
+        "preco": 23.36
+      }
+    ],
+    "total": 1516.79
+  },
+  {
+    "id": 46,
+    "clienteId": 137,
+    "produtos": [
+      {
+        "id": 362,
+        "quantidade": 3,
+        "preco": 115.78
+      },
+      {
+        "id": 600,
+        "quantidade": 1,
+        "preco": 267.15
+      }
+    ],
+    "total": 614.49
+  },
+  {
+    "id": 47,
+    "clienteId": 263,
+    "produtos": [
+      {
+        "id": 256,
+        "quantidade": 1,
+        "preco": 203.58
+      },
+      {
+        "id": 641,
+        "quantidade": 4,
+        "preco": 952.48
+      }
+    ],
+    "total": 4013.5
+  },
+  {
+    "id": 48,
+    "clienteId": 111,
+    "produtos": [
+      {
+        "id": 46,
+        "quantidade": 5,
+        "preco": 560.88
+      },
+      {
+        "id": 969,
+        "quantidade": 3,
+        "preco": 559.99
+      },
+      {
+        "id": 559,
+        "quantidade": 1,
+        "preco": 365.23
+      },
+      {
+        "id": 950,
+        "quantidade": 3,
+        "preco": 708.42
+      },
+      {
+        "id": 704,
+        "quantidade": 1,
+        "preco": 926.01
+      }
+    ],
+    "total": 7900.87
+  },
+  {
+    "id": 49,
+    "clienteId": 183,
+    "produtos": [
+      {
+        "id": 721,
+        "quantidade": 1,
+        "preco": 530.85
+      },
+      {
+        "id": 792,
+        "quantidade": 5,
+        "preco": 227.5
+      },
+      {
+        "id": 806,
+        "quantidade": 5,
+        "preco": 803.48
+      },
+      {
+        "id": 535,
+        "quantidade": 1,
+        "preco": 249.54
+      },
+      {
+        "id": 619,
+        "quantidade": 1,
+        "preco": 358.35
+      }
+    ],
+    "total": 6293.64
+  },
+  {
+    "id": 50,
+    "clienteId": 205,
+    "produtos": [
+      {
+        "id": 363,
+        "quantidade": 5,
+        "preco": 532.72
+      },
+      {
+        "id": 283,
+        "quantidade": 1,
+        "preco": 216.35
+      },
+      {
+        "id": 862,
+        "quantidade": 4,
+        "preco": 142.85
+      },
+      {
+        "id": 492,
+        "quantidade": 4,
+        "preco": 767.5
+      }
+    ],
+    "total": 6521.35
+  },
+  {
+    "id": 51,
+    "clienteId": 407,
+    "produtos": [
+      {
+        "id": 388,
+        "quantidade": 3,
+        "preco": 554.15
+      },
+      {
+        "id": 510,
+        "quantidade": 2,
+        "preco": 95.21
+      },
+      {
+        "id": 482,
+        "quantidade": 1,
+        "preco": 400.38
+      },
+      {
+        "id": 111,
+        "quantidade": 4,
+        "preco": 309.39
+      },
+      {
+        "id": 436,
+        "quantidade": 5,
+        "preco": 909.41
+      }
+    ],
+    "total": 8037.86
+  },
+  {
+    "id": 52,
+    "clienteId": 338,
+    "produtos": [
+      {
+        "id": 365,
+        "quantidade": 1,
+        "preco": 655.98
+      },
+      {
+        "id": 808,
+        "quantidade": 4,
+        "preco": 306.49
+      },
+      {
+        "id": 179,
+        "quantidade": 5,
+        "preco": 218.28
+      },
+      {
+        "id": 266,
+        "quantidade": 3,
+        "preco": 675.19
+      }
+    ],
+    "total": 4998.91
+  },
+  {
+    "id": 53,
+    "clienteId": 163,
+    "produtos": [
+      {
+        "id": 807,
+        "quantidade": 5,
+        "preco": 642.52
+      }
+    ],
+    "total": 3212.6
+  },
+  {
+    "id": 54,
+    "clienteId": 103,
+    "produtos": [
+      {
+        "id": 349,
+        "quantidade": 2,
+        "preco": 28.94
+      },
+      {
+        "id": 441,
+        "quantidade": 2,
+        "preco": 855.8
+      }
+    ],
+    "total": 1769.48
+  },
+  {
+    "id": 55,
+    "clienteId": 105,
+    "produtos": [
+      {
+        "id": 502,
+        "quantidade": 5,
+        "preco": 261.56
+      },
+      {
+        "id": 639,
+        "quantidade": 1,
+        "preco": 522.69
+      },
+      {
+        "id": 202,
+        "quantidade": 1,
+        "preco": 649.69
+      }
+    ],
+    "total": 2480.18
+  },
+  {
+    "id": 56,
+    "clienteId": 187,
+    "produtos": [
+      {
+        "id": 659,
+        "quantidade": 1,
+        "preco": 465.49
+      },
+      {
+        "id": 533,
+        "quantidade": 2,
+        "preco": 67.11
+      },
+      {
+        "id": 182,
+        "quantidade": 2,
+        "preco": 470.43
+      },
+      {
+        "id": 479,
+        "quantidade": 5,
+        "preco": 94.76
+      }
+    ],
+    "total": 2014.37
+  },
+  {
+    "id": 57,
+    "clienteId": 402,
+    "produtos": [
+      {
+        "id": 795,
+        "quantidade": 5,
+        "preco": 572.7
+      },
+      {
+        "id": 46,
+        "quantidade": 1,
+        "preco": 711.34
+      },
+      {
+        "id": 680,
+        "quantidade": 4,
+        "preco": 862.78
+      }
+    ],
+    "total": 7025.96
+  },
+  {
+    "id": 58,
+    "clienteId": 229,
+    "produtos": [
+      {
+        "id": 589,
+        "quantidade": 2,
+        "preco": 28.17
+      },
+      {
+        "id": 803,
+        "quantidade": 3,
+        "preco": 582.36
+      },
+      {
+        "id": 910,
+        "quantidade": 5,
+        "preco": 63.59
+      },
+      {
+        "id": 141,
+        "quantidade": 4,
+        "preco": 940.35
+      },
+      {
+        "id": 789,
+        "quantidade": 1,
+        "preco": 666.02
+      }
+    ],
+    "total": 6548.79
+  },
+  {
+    "id": 59,
+    "clienteId": 103,
+    "produtos": [
+      {
+        "id": 981,
+        "quantidade": 1,
+        "preco": 933.08
+      },
+      {
+        "id": 481,
+        "quantidade": 2,
+        "preco": 874.09
+      }
+    ],
+    "total": 2681.26
+  },
+  {
+    "id": 60,
+    "clienteId": 318,
+    "produtos": [
+      {
+        "id": 484,
+        "quantidade": 4,
+        "preco": 877.24
+      }
+    ],
+    "total": 3508.96
+  },
+  {
+    "id": 61,
+    "clienteId": 239,
+    "produtos": [
+      {
+        "id": 17,
+        "quantidade": 5,
+        "preco": 564.39
+      },
+      {
+        "id": 578,
+        "quantidade": 5,
+        "preco": 112.23
+      },
+      {
+        "id": 116,
+        "quantidade": 5,
+        "preco": 340.96
+      },
+      {
+        "id": 836,
+        "quantidade": 3,
+        "preco": 69.99
+      }
+    ],
+    "total": 5297.87
+  },
+  {
+    "id": 62,
+    "clienteId": 443,
+    "produtos": [
+      {
+        "id": 618,
+        "quantidade": 4,
+        "preco": 321.25
+      },
+      {
+        "id": 801,
+        "quantidade": 1,
+        "preco": 626.44
+      },
+      {
+        "id": 208,
+        "quantidade": 4,
+        "preco": 167.36
+      }
+    ],
+    "total": 2580.88
+  },
+  {
+    "id": 63,
+    "clienteId": 338,
+    "produtos": [
+      {
+        "id": 323,
+        "quantidade": 3,
+        "preco": 860.44
+      }
+    ],
+    "total": 2581.32
+  },
+  {
+    "id": 64,
+    "clienteId": 180,
+    "produtos": [
+      {
+        "id": 677,
+        "quantidade": 1,
+        "preco": 808.92
+      }
+    ],
+    "total": 808.92
+  },
+  {
+    "id": 65,
+    "clienteId": 288,
+    "produtos": [
+      {
+        "id": 493,
+        "quantidade": 4,
+        "preco": 455.02
+      }
+    ],
+    "total": 1820.08
+  },
+  {
+    "id": 66,
+    "clienteId": 372,
+    "produtos": [
+      {
+        "id": 668,
+        "quantidade": 5,
+        "preco": 711.68
+      }
+    ],
+    "total": 3558.4
+  },
+  {
+    "id": 67,
+    "clienteId": 31,
+    "produtos": [
+      {
+        "id": 799,
+        "quantidade": 4,
+        "preco": 943.12
+      },
+      {
+        "id": 253,
+        "quantidade": 4,
+        "preco": 922.08
+      },
+      {
+        "id": 41,
+        "quantidade": 1,
+        "preco": 571.77
+      },
+      {
+        "id": 858,
+        "quantidade": 3,
+        "preco": 255.13
+      }
+    ],
+    "total": 8797.96
+  },
+  {
+    "id": 68,
+    "clienteId": 197,
+    "produtos": [
+      {
+        "id": 392,
+        "quantidade": 5,
+        "preco": 790.19
+      },
+      {
+        "id": 935,
+        "quantidade": 2,
+        "preco": 133.66
+      },
+      {
+        "id": 711,
+        "quantidade": 3,
+        "preco": 478.33
+      }
+    ],
+    "total": 5653.26
+  },
+  {
+    "id": 69,
+    "clienteId": 234,
+    "produtos": [
+      {
+        "id": 106,
+        "quantidade": 5,
+        "preco": 87.31
+      },
+      {
+        "id": 553,
+        "quantidade": 3,
+        "preco": 472.93
+      },
+      {
+        "id": 614,
+        "quantidade": 3,
+        "preco": 66.5
+      }
+    ],
+    "total": 2054.84
+  },
+  {
+    "id": 70,
+    "clienteId": 494,
+    "produtos": [
+      {
+        "id": 718,
+        "quantidade": 2,
+        "preco": 303.53
+      },
+      {
+        "id": 91,
+        "quantidade": 4,
+        "preco": 355.1
+      },
+      {
+        "id": 771,
+        "quantidade": 5,
+        "preco": 924.16
+      },
+      {
+        "id": 238,
+        "quantidade": 5,
+        "preco": 732.74
+      }
+    ],
+    "total": 10311.96
+  },
+  {
+    "id": 71,
+    "clienteId": 37,
+    "produtos": [
+      {
+        "id": 304,
+        "quantidade": 2,
+        "preco": 708.18
+      },
+      {
+        "id": 459,
+        "quantidade": 3,
+        "preco": 581.04
+      },
+      {
+        "id": 159,
+        "quantidade": 1,
+        "preco": 468.39
+      }
+    ],
+    "total": 3627.87
+  },
+  {
+    "id": 72,
+    "clienteId": 67,
+    "produtos": [
+      {
+        "id": 670,
+        "quantidade": 2,
+        "preco": 303.8
+      },
+      {
+        "id": 296,
+        "quantidade": 3,
+        "preco": 804.64
+      },
+      {
+        "id": 889,
+        "quantidade": 4,
+        "preco": 759.55
+      },
+      {
+        "id": 958,
+        "quantidade": 5,
+        "preco": 77.76
+      },
+      {
+        "id": 88,
+        "quantidade": 3,
+        "preco": 240.14
+      }
+    ],
+    "total": 7168.94
+  },
+  {
+    "id": 73,
+    "clienteId": 171,
+    "produtos": [
+      {
+        "id": 278,
+        "quantidade": 3,
+        "preco": 518.53
+      },
+      {
+        "id": 25,
+        "quantidade": 1,
+        "preco": 55.1
+      }
+    ],
+    "total": 1610.69
+  },
+  {
+    "id": 74,
+    "clienteId": 435,
+    "produtos": [
+      {
+        "id": 341,
+        "quantidade": 2,
+        "preco": 865.2
+      }
+    ],
+    "total": 1730.4
+  },
+  {
+    "id": 75,
+    "clienteId": 132,
+    "produtos": [
+      {
+        "id": 41,
+        "quantidade": 1,
+        "preco": 20.28
+      },
+      {
+        "id": 829,
+        "quantidade": 3,
+        "preco": 95.98
+      },
+      {
+        "id": 882,
+        "quantidade": 3,
+        "preco": 789.67
+      },
+      {
+        "id": 923,
+        "quantidade": 5,
+        "preco": 963.88
+      },
+      {
+        "id": 160,
+        "quantidade": 1,
+        "preco": 601.94
+      }
+    ],
+    "total": 8098.57
+  },
+  {
+    "id": 76,
+    "clienteId": 177,
+    "produtos": [
+      {
+        "id": 181,
+        "quantidade": 3,
+        "preco": 607.46
+      },
+      {
+        "id": 91,
+        "quantidade": 5,
+        "preco": 451.79
+      }
+    ],
+    "total": 4081.33
+  },
+  {
+    "id": 77,
+    "clienteId": 321,
+    "produtos": [
+      {
+        "id": 63,
+        "quantidade": 2,
+        "preco": 663.93
+      },
+      {
+        "id": 57,
+        "quantidade": 1,
+        "preco": 42.03
+      },
+      {
+        "id": 39,
+        "quantidade": 5,
+        "preco": 491.38
+      },
+      {
+        "id": 639,
+        "quantidade": 1,
+        "preco": 828.23
+      },
+      {
+        "id": 828,
+        "quantidade": 2,
+        "preco": 524.05
+      }
+    ],
+    "total": 5703.12
+  },
+  {
+    "id": 78,
+    "clienteId": 26,
+    "produtos": [
+      {
+        "id": 843,
+        "quantidade": 1,
+        "preco": 730.51
+      },
+      {
+        "id": 711,
+        "quantidade": 2,
+        "preco": 144.82
+      }
+    ],
+    "total": 1020.15
+  },
+  {
+    "id": 79,
+    "clienteId": 307,
+    "produtos": [
+      {
+        "id": 401,
+        "quantidade": 2,
+        "preco": 149.75
+      }
+    ],
+    "total": 299.5
+  },
+  {
+    "id": 80,
+    "clienteId": 268,
+    "produtos": [
+      {
+        "id": 972,
+        "quantidade": 1,
+        "preco": 578.26
+      }
+    ],
+    "total": 578.26
+  },
+  {
+    "id": 81,
+    "clienteId": 403,
+    "produtos": [
+      {
+        "id": 231,
+        "quantidade": 3,
+        "preco": 580.5
+      },
+      {
+        "id": 786,
+        "quantidade": 3,
+        "preco": 971.8
+      },
+      {
+        "id": 183,
+        "quantidade": 4,
+        "preco": 64.38
+      },
+      {
+        "id": 685,
+        "quantidade": 3,
+        "preco": 989.76
+      },
+      {
+        "id": 374,
+        "quantidade": 5,
+        "preco": 766.16
+      }
+    ],
+    "total": 11714.5
+  },
+  {
+    "id": 82,
+    "clienteId": 152,
+    "produtos": [
+      {
+        "id": 909,
+        "quantidade": 5,
+        "preco": 521.44
+      },
+      {
+        "id": 245,
+        "quantidade": 4,
+        "preco": 686.78
+      },
+      {
+        "id": 513,
+        "quantidade": 5,
+        "preco": 962.5
+      }
+    ],
+    "total": 10166.82
+  },
+  {
+    "id": 83,
+    "clienteId": 469,
+    "produtos": [
+      {
+        "id": 8,
+        "quantidade": 2,
+        "preco": 819.01
+      },
+      {
+        "id": 583,
+        "quantidade": 2,
+        "preco": 283.89
+      },
+      {
+        "id": 582,
+        "quantidade": 2,
+        "preco": 980.9
+      },
+      {
+        "id": 359,
+        "quantidade": 3,
+        "preco": 849.45
+      },
+      {
+        "id": 174,
+        "quantidade": 4,
+        "preco": 576.22
+      }
+    ],
+    "total": 9020.83
+  },
+  {
+    "id": 84,
+    "clienteId": 28,
+    "produtos": [
+      {
+        "id": 126,
+        "quantidade": 1,
+        "preco": 844.02
+      },
+      {
+        "id": 249,
+        "quantidade": 1,
+        "preco": 179.82
+      }
+    ],
+    "total": 1023.84
+  },
+  {
+    "id": 85,
+    "clienteId": 166,
+    "produtos": [
+      {
+        "id": 636,
+        "quantidade": 4,
+        "preco": 762.5
+      },
+      {
+        "id": 753,
+        "quantidade": 2,
+        "preco": 918.23
+      },
+      {
+        "id": 379,
+        "quantidade": 5,
+        "preco": 520.15
+      },
+      {
+        "id": 727,
+        "quantidade": 2,
+        "preco": 802.24
+      }
+    ],
+    "total": 9091.69
+  },
+  {
+    "id": 86,
+    "clienteId": 458,
+    "produtos": [
+      {
+        "id": 439,
+        "quantidade": 3,
+        "preco": 869.28
+      },
+      {
+        "id": 417,
+        "quantidade": 5,
+        "preco": 802.32
+      },
+      {
+        "id": 574,
+        "quantidade": 5,
+        "preco": 572.25
+      },
+      {
+        "id": 116,
+        "quantidade": 1,
+        "preco": 886.3
+      },
+      {
+        "id": 231,
+        "quantidade": 5,
+        "preco": 957.35
+      }
+    ],
+    "total": 15153.74
+  },
+  {
+    "id": 87,
+    "clienteId": 276,
+    "produtos": [
+      {
+        "id": 457,
+        "quantidade": 4,
+        "preco": 941.4
+      },
+      {
+        "id": 598,
+        "quantidade": 4,
+        "preco": 242.76
+      },
+      {
+        "id": 240,
+        "quantidade": 5,
+        "preco": 341.88
+      }
+    ],
+    "total": 6446.04
+  },
+  {
+    "id": 88,
+    "clienteId": 2,
+    "produtos": [
+      {
+        "id": 283,
+        "quantidade": 1,
+        "preco": 954.96
+      },
+      {
+        "id": 584,
+        "quantidade": 3,
+        "preco": 403.91
+      },
+      {
+        "id": 874,
+        "quantidade": 1,
+        "preco": 190.09
+      },
+      {
+        "id": 134,
+        "quantidade": 4,
+        "preco": 534.59
+      },
+      {
+        "id": 281,
+        "quantidade": 4,
+        "preco": 31.04
+      }
+    ],
+    "total": 4619.3
+  },
+  {
+    "id": 89,
+    "clienteId": 481,
+    "produtos": [
+      {
+        "id": 150,
+        "quantidade": 5,
+        "preco": 36.85
+      }
+    ],
+    "total": 184.25
+  },
+  {
+    "id": 90,
+    "clienteId": 234,
+    "produtos": [
+      {
+        "id": 520,
+        "quantidade": 5,
+        "preco": 50.4
+      }
+    ],
+    "total": 252
+  },
+  {
+    "id": 91,
+    "clienteId": 88,
+    "produtos": [
+      {
+        "id": 673,
+        "quantidade": 3,
+        "preco": 304.76
+      },
+      {
+        "id": 46,
+        "quantidade": 3,
+        "preco": 995.42
+      },
+      {
+        "id": 965,
+        "quantidade": 3,
+        "preco": 302.95
+      }
+    ],
+    "total": 4809.39
+  },
+  {
+    "id": 92,
+    "clienteId": 290,
+    "produtos": [
+      {
+        "id": 427,
+        "quantidade": 3,
+        "preco": 84.86
+      }
+    ],
+    "total": 254.58
+  },
+  {
+    "id": 93,
+    "clienteId": 345,
+    "produtos": [
+      {
+        "id": 262,
+        "quantidade": 4,
+        "preco": 687.6
+      },
+      {
+        "id": 1,
+        "quantidade": 5,
+        "preco": 352.52
+      },
+      {
+        "id": 673,
+        "quantidade": 3,
+        "preco": 68.99
+      }
+    ],
+    "total": 4719.97
+  },
+  {
+    "id": 94,
+    "clienteId": 326,
+    "produtos": [
+      {
+        "id": 419,
+        "quantidade": 5,
+        "preco": 861.73
+      },
+      {
+        "id": 348,
+        "quantidade": 4,
+        "preco": 342.08
+      },
+      {
+        "id": 521,
+        "quantidade": 2,
+        "preco": 934.08
+      },
+      {
+        "id": 950,
+        "quantidade": 3,
+        "preco": 53.38
+      },
+      {
+        "id": 331,
+        "quantidade": 5,
+        "preco": 877.39
+      }
+    ],
+    "total": 12092.22
+  },
+  {
+    "id": 95,
+    "clienteId": 143,
+    "produtos": [
+      {
+        "id": 415,
+        "quantidade": 3,
+        "preco": 500.89
+      },
+      {
+        "id": 101,
+        "quantidade": 5,
+        "preco": 718.68
+      },
+      {
+        "id": 834,
+        "quantidade": 5,
+        "preco": 460.15
+      },
+      {
+        "id": 740,
+        "quantidade": 4,
+        "preco": 480.39
+      }
+    ],
+    "total": 9318.38
+  },
+  {
+    "id": 96,
+    "clienteId": 403,
+    "produtos": [
+      {
+        "id": 727,
+        "quantidade": 1,
+        "preco": 23.47
+      },
+      {
+        "id": 670,
+        "quantidade": 3,
+        "preco": 345.14
+      },
+      {
+        "id": 173,
+        "quantidade": 1,
+        "preco": 587.71
+      }
+    ],
+    "total": 1646.6
+  },
+  {
+    "id": 97,
+    "clienteId": 271,
+    "produtos": [
+      {
+        "id": 326,
+        "quantidade": 3,
+        "preco": 884.47
+      },
+      {
+        "id": 705,
+        "quantidade": 1,
+        "preco": 364.63
+      },
+      {
+        "id": 729,
+        "quantidade": 5,
+        "preco": 834.95
+      }
+    ],
+    "total": 7192.79
+  },
+  {
+    "id": 98,
+    "clienteId": 405,
+    "produtos": [
+      {
+        "id": 39,
+        "quantidade": 2,
+        "preco": 109.51
+      }
+    ],
+    "total": 219.02
+  },
+  {
+    "id": 99,
+    "clienteId": 459,
+    "produtos": [
+      {
+        "id": 733,
+        "quantidade": 4,
+        "preco": 386.63
+      },
+      {
+        "id": 792,
+        "quantidade": 2,
+        "preco": 669.77
+      }
+    ],
+    "total": 2886.06
+  },
+  {
+    "id": 100,
+    "clienteId": 489,
+    "produtos": [
+      {
+        "id": 592,
+        "quantidade": 1,
+        "preco": 915.55
+      },
+      {
+        "id": 84,
+        "quantidade": 2,
+        "preco": 841.18
+      }
+    ],
+    "total": 2597.91
+  },
+  {
+    "id": 101,
+    "clienteId": 336,
+    "produtos": [
+      {
+        "id": 403,
+        "quantidade": 3,
+        "preco": 438.72
+      }
+    ],
+    "total": 1316.16
+  },
+  {
+    "id": 102,
+    "clienteId": 47,
+    "produtos": [
+      {
+        "id": 659,
+        "quantidade": 1,
+        "preco": 67.27
+      },
+      {
+        "id": 919,
+        "quantidade": 5,
+        "preco": 381.21
+      },
+      {
+        "id": 212,
+        "quantidade": 5,
+        "preco": 709.34
+      }
+    ],
+    "total": 5520.02
+  },
+  {
+    "id": 103,
+    "clienteId": 206,
+    "produtos": [
+      {
+        "id": 561,
+        "quantidade": 5,
+        "preco": 489.05
+      }
+    ],
+    "total": 2445.25
+  },
+  {
+    "id": 104,
+    "clienteId": 340,
+    "produtos": [
+      {
+        "id": 518,
+        "quantidade": 5,
+        "preco": 425.06
+      },
+      {
+        "id": 5,
+        "quantidade": 1,
+        "preco": 923.45
+      },
+      {
+        "id": 748,
+        "quantidade": 5,
+        "preco": 102.34
+      },
+      {
+        "id": 395,
+        "quantidade": 1,
+        "preco": 273.16
+      },
+      {
+        "id": 71,
+        "quantidade": 4,
+        "preco": 967.53
+      }
+    ],
+    "total": 7703.73
+  },
+  {
+    "id": 105,
+    "clienteId": 32,
+    "produtos": [
+      {
+        "id": 188,
+        "quantidade": 3,
+        "preco": 843.82
+      },
+      {
+        "id": 183,
+        "quantidade": 4,
+        "preco": 519.28
+      },
+      {
+        "id": 983,
+        "quantidade": 1,
+        "preco": 448.23
+      },
+      {
+        "id": 554,
+        "quantidade": 5,
+        "preco": 682.95
+      }
+    ],
+    "total": 8471.56
+  },
+  {
+    "id": 106,
+    "clienteId": 67,
+    "produtos": [
+      {
+        "id": 308,
+        "quantidade": 5,
+        "preco": 189.95
+      },
+      {
+        "id": 859,
+        "quantidade": 5,
+        "preco": 448.27
+      },
+      {
+        "id": 206,
+        "quantidade": 5,
+        "preco": 964.63
+      }
+    ],
+    "total": 8014.25
+  },
+  {
+    "id": 107,
+    "clienteId": 469,
+    "produtos": [
+      {
+        "id": 908,
+        "quantidade": 4,
+        "preco": 447.55
+      },
+      {
+        "id": 397,
+        "quantidade": 1,
+        "preco": 61.99
+      },
+      {
+        "id": 713,
+        "quantidade": 2,
+        "preco": 896.79
+      },
+      {
+        "id": 910,
+        "quantidade": 1,
+        "preco": 197.03
+      },
+      {
+        "id": 146,
+        "quantidade": 1,
+        "preco": 722.13
+      }
+    ],
+    "total": 4564.93
+  },
+  {
+    "id": 108,
+    "clienteId": 97,
+    "produtos": [
+      {
+        "id": 127,
+        "quantidade": 1,
+        "preco": 429.53
+      }
+    ],
+    "total": 429.53
+  },
+  {
+    "id": 109,
+    "clienteId": 341,
+    "produtos": [
+      {
+        "id": 654,
+        "quantidade": 1,
+        "preco": 276.58
+      },
+      {
+        "id": 825,
+        "quantidade": 4,
+        "preco": 681.47
+      },
+      {
+        "id": 246,
+        "quantidade": 4,
+        "preco": 322.11
+      },
+      {
+        "id": 333,
+        "quantidade": 3,
+        "preco": 796.17
+      }
+    ],
+    "total": 6679.41
+  },
+  {
+    "id": 110,
+    "clienteId": 386,
+    "produtos": [
+      {
+        "id": 274,
+        "quantidade": 5,
+        "preco": 583.66
+      }
+    ],
+    "total": 2918.3
+  },
+  {
+    "id": 111,
+    "clienteId": 407,
+    "produtos": [
+      {
+        "id": 860,
+        "quantidade": 4,
+        "preco": 680.17
+      },
+      {
+        "id": 119,
+        "quantidade": 3,
+        "preco": 386.54
+      },
+      {
+        "id": 424,
+        "quantidade": 2,
+        "preco": 606.7
+      }
+    ],
+    "total": 5093.7
+  },
+  {
+    "id": 112,
+    "clienteId": 486,
+    "produtos": [
+      {
+        "id": 46,
+        "quantidade": 4,
+        "preco": 137.15
+      }
+    ],
+    "total": 548.6
+  },
+  {
+    "id": 113,
+    "clienteId": 383,
+    "produtos": [
+      {
+        "id": 924,
+        "quantidade": 3,
+        "preco": 616.74
+      },
+      {
+        "id": 600,
+        "quantidade": 4,
+        "preco": 766.52
+      },
+      {
+        "id": 803,
+        "quantidade": 1,
+        "preco": 975.81
+      },
+      {
+        "id": 354,
+        "quantidade": 4,
+        "preco": 337.02
+      },
+      {
+        "id": 437,
+        "quantidade": 3,
+        "preco": 368.96
+      }
+    ],
+    "total": 8347.07
+  },
+  {
+    "id": 114,
+    "clienteId": 208,
+    "produtos": [
+      {
+        "id": 272,
+        "quantidade": 2,
+        "preco": 87.46
+      },
+      {
+        "id": 821,
+        "quantidade": 1,
+        "preco": 155.64
+      }
+    ],
+    "total": 330.56
+  },
+  {
+    "id": 115,
+    "clienteId": 295,
+    "produtos": [
+      {
+        "id": 289,
+        "quantidade": 2,
+        "preco": 734.27
+      },
+      {
+        "id": 286,
+        "quantidade": 2,
+        "preco": 211.68
+      },
+      {
+        "id": 156,
+        "quantidade": 5,
+        "preco": 410.42
+      },
+      {
+        "id": 51,
+        "quantidade": 2,
+        "preco": 907.34
+      },
+      {
+        "id": 724,
+        "quantidade": 5,
+        "preco": 286.78
+      }
+    ],
+    "total": 7192.58
+  },
+  {
+    "id": 116,
+    "clienteId": 400,
+    "produtos": [
+      {
+        "id": 610,
+        "quantidade": 2,
+        "preco": 316.31
+      },
+      {
+        "id": 987,
+        "quantidade": 5,
+        "preco": 685.36
+      },
+      {
+        "id": 569,
+        "quantidade": 5,
+        "preco": 453.77
+      },
+      {
+        "id": 658,
+        "quantidade": 2,
+        "preco": 784.32
+      },
+      {
+        "id": 647,
+        "quantidade": 3,
+        "preco": 927.87
+      }
+    ],
+    "total": 10680.52
+  },
+  {
+    "id": 117,
+    "clienteId": 463,
+    "produtos": [
+      {
+        "id": 747,
+        "quantidade": 4,
+        "preco": 641.1
+      }
+    ],
+    "total": 2564.4
+  },
+  {
+    "id": 118,
+    "clienteId": 183,
+    "produtos": [
+      {
+        "id": 50,
+        "quantidade": 4,
+        "preco": 307.99
+      },
+      {
+        "id": 220,
+        "quantidade": 5,
+        "preco": 786.39
+      },
+      {
+        "id": 118,
+        "quantidade": 4,
+        "preco": 884
+      }
+    ],
+    "total": 8699.91
+  },
+  {
+    "id": 119,
+    "clienteId": 132,
+    "produtos": [
+      {
+        "id": 365,
+        "quantidade": 1,
+        "preco": 727.02
+      },
+      {
+        "id": 368,
+        "quantidade": 1,
+        "preco": 571.31
+      },
+      {
+        "id": 287,
+        "quantidade": 2,
+        "preco": 307.77
+      }
+    ],
+    "total": 1913.87
+  },
+  {
+    "id": 120,
+    "clienteId": 111,
+    "produtos": [
+      {
+        "id": 579,
+        "quantidade": 4,
+        "preco": 255.84
+      }
+    ],
+    "total": 1023.36
+  },
+  {
+    "id": 121,
+    "clienteId": 8,
+    "produtos": [
+      {
+        "id": 189,
+        "quantidade": 3,
+        "preco": 765.37
+      },
+      {
+        "id": 351,
+        "quantidade": 1,
+        "preco": 304.86
+      },
+      {
+        "id": 427,
+        "quantidade": 1,
+        "preco": 789.02
+      },
+      {
+        "id": 647,
+        "quantidade": 5,
+        "preco": 772.18
+      },
+      {
+        "id": 767,
+        "quantidade": 5,
+        "preco": 319.51
+      }
+    ],
+    "total": 8848.44
+  },
+  {
+    "id": 122,
+    "clienteId": 209,
+    "produtos": [
+      {
+        "id": 890,
+        "quantidade": 3,
+        "preco": 458.93
+      },
+      {
+        "id": 699,
+        "quantidade": 5,
+        "preco": 800.29
+      },
+      {
+        "id": 501,
+        "quantidade": 2,
+        "preco": 183.1
+      }
+    ],
+    "total": 5744.44
+  },
+  {
+    "id": 123,
+    "clienteId": 271,
+    "produtos": [
+      {
+        "id": 841,
+        "quantidade": 5,
+        "preco": 135.26
+      }
+    ],
+    "total": 676.3
+  },
+  {
+    "id": 124,
+    "clienteId": 91,
+    "produtos": [
+      {
+        "id": 406,
+        "quantidade": 1,
+        "preco": 883.93
+      },
+      {
+        "id": 51,
+        "quantidade": 3,
+        "preco": 375.79
+      }
+    ],
+    "total": 2011.3
+  },
+  {
+    "id": 125,
+    "clienteId": 192,
+    "produtos": [
+      {
+        "id": 209,
+        "quantidade": 2,
+        "preco": 271.72
+      }
+    ],
+    "total": 543.44
+  },
+  {
+    "id": 126,
+    "clienteId": 292,
+    "produtos": [
+      {
+        "id": 738,
+        "quantidade": 1,
+        "preco": 885.75
+      },
+      {
+        "id": 956,
+        "quantidade": 4,
+        "preco": 610.11
+      },
+      {
+        "id": 355,
+        "quantidade": 1,
+        "preco": 102.72
+      },
+      {
+        "id": 997,
+        "quantidade": 2,
+        "preco": 729.5
+      },
+      {
+        "id": 350,
+        "quantidade": 2,
+        "preco": 495.97
+      }
+    ],
+    "total": 5879.85
+  },
+  {
+    "id": 127,
+    "clienteId": 56,
+    "produtos": [
+      {
+        "id": 915,
+        "quantidade": 2,
+        "preco": 405.52
+      },
+      {
+        "id": 374,
+        "quantidade": 5,
+        "preco": 97.57
+      },
+      {
+        "id": 487,
+        "quantidade": 1,
+        "preco": 18.38
+      }
+    ],
+    "total": 1317.27
+  },
+  {
+    "id": 128,
+    "clienteId": 114,
+    "produtos": [
+      {
+        "id": 829,
+        "quantidade": 3,
+        "preco": 269.16
+      }
+    ],
+    "total": 807.48
+  },
+  {
+    "id": 129,
+    "clienteId": 247,
+    "produtos": [
+      {
+        "id": 771,
+        "quantidade": 1,
+        "preco": 456.01
+      },
+      {
+        "id": 935,
+        "quantidade": 4,
+        "preco": 753.08
+      }
+    ],
+    "total": 3468.33
+  },
+  {
+    "id": 130,
+    "clienteId": 249,
+    "produtos": [
+      {
+        "id": 570,
+        "quantidade": 1,
+        "preco": 708.97
+      },
+      {
+        "id": 246,
+        "quantidade": 5,
+        "preco": 776.55
+      },
+      {
+        "id": 32,
+        "quantidade": 2,
+        "preco": 187.24
+      },
+      {
+        "id": 542,
+        "quantidade": 5,
+        "preco": 731.49
+      },
+      {
+        "id": 76,
+        "quantidade": 1,
+        "preco": 688.41
+      }
+    ],
+    "total": 9312.06
+  },
+  {
+    "id": 131,
+    "clienteId": 88,
+    "produtos": [
+      {
+        "id": 737,
+        "quantidade": 3,
+        "preco": 18.2
+      },
+      {
+        "id": 571,
+        "quantidade": 2,
+        "preco": 634.38
+      },
+      {
+        "id": 221,
+        "quantidade": 2,
+        "preco": 18.89
+      },
+      {
+        "id": 735,
+        "quantidade": 2,
+        "preco": 645.13
+      },
+      {
+        "id": 540,
+        "quantidade": 4,
+        "preco": 99.36
+      }
+    ],
+    "total": 3048.84
+  },
+  {
+    "id": 132,
+    "clienteId": 257,
+    "produtos": [
+      {
+        "id": 539,
+        "quantidade": 1,
+        "preco": 771.88
+      },
+      {
+        "id": 837,
+        "quantidade": 2,
+        "preco": 326.34
+      }
+    ],
+    "total": 1424.56
+  },
+  {
+    "id": 133,
+    "clienteId": 437,
+    "produtos": [
+      {
+        "id": 675,
+        "quantidade": 3,
+        "preco": 917.67
+      },
+      {
+        "id": 351,
+        "quantidade": 3,
+        "preco": 567.95
+      }
+    ],
+    "total": 4456.86
+  },
+  {
+    "id": 134,
+    "clienteId": 414,
+    "produtos": [
+      {
+        "id": 284,
+        "quantidade": 5,
+        "preco": 72.29
+      },
+      {
+        "id": 13,
+        "quantidade": 3,
+        "preco": 12.12
+      },
+      {
+        "id": 893,
+        "quantidade": 4,
+        "preco": 329.68
+      }
+    ],
+    "total": 1716.53
+  },
+  {
+    "id": 135,
+    "clienteId": 398,
+    "produtos": [
+      {
+        "id": 619,
+        "quantidade": 3,
+        "preco": 373.99
+      },
+      {
+        "id": 578,
+        "quantidade": 1,
+        "preco": 673.18
+      },
+      {
+        "id": 557,
+        "quantidade": 4,
+        "preco": 95.87
+      },
+      {
+        "id": 381,
+        "quantidade": 5,
+        "preco": 671.71
+      }
+    ],
+    "total": 5537.18
+  },
+  {
+    "id": 136,
+    "clienteId": 328,
+    "produtos": [
+      {
+        "id": 90,
+        "quantidade": 2,
+        "preco": 285.81
+      },
+      {
+        "id": 60,
+        "quantidade": 5,
+        "preco": 753.06
+      }
+    ],
+    "total": 4336.92
+  },
+  {
+    "id": 137,
+    "clienteId": 344,
+    "produtos": [
+      {
+        "id": 889,
+        "quantidade": 4,
+        "preco": 846.81
+      },
+      {
+        "id": 226,
+        "quantidade": 2,
+        "preco": 92.61
+      },
+      {
+        "id": 305,
+        "quantidade": 4,
+        "preco": 251.05
+      }
+    ],
+    "total": 4576.66
+  },
+  {
+    "id": 138,
+    "clienteId": 489,
+    "produtos": [
+      {
+        "id": 628,
+        "quantidade": 5,
+        "preco": 771.67
+      },
+      {
+        "id": 3,
+        "quantidade": 4,
+        "preco": 484.48
+      },
+      {
+        "id": 686,
+        "quantidade": 4,
+        "preco": 149.16
+      }
+    ],
+    "total": 6392.91
+  },
+  {
+    "id": 139,
+    "clienteId": 243,
+    "produtos": [
+      {
+        "id": 888,
+        "quantidade": 1,
+        "preco": 421.95
+      },
+      {
+        "id": 772,
+        "quantidade": 2,
+        "preco": 77.46
+      }
+    ],
+    "total": 576.87
+  },
+  {
+    "id": 140,
+    "clienteId": 378,
+    "produtos": [
+      {
+        "id": 941,
+        "quantidade": 5,
+        "preco": 638.17
+      },
+      {
+        "id": 112,
+        "quantidade": 4,
+        "preco": 813.45
+      }
+    ],
+    "total": 6444.65
+  },
+  {
+    "id": 141,
+    "clienteId": 235,
+    "produtos": [
+      {
+        "id": 950,
+        "quantidade": 3,
+        "preco": 819.18
+      },
+      {
+        "id": 136,
+        "quantidade": 2,
+        "preco": 100.77
+      },
+      {
+        "id": 80,
+        "quantidade": 3,
+        "preco": 805.4
+      },
+      {
+        "id": 803,
+        "quantidade": 1,
+        "preco": 576.91
+      }
+    ],
+    "total": 5652.19
+  },
+  {
+    "id": 142,
+    "clienteId": 389,
+    "produtos": [
+      {
+        "id": 195,
+        "quantidade": 3,
+        "preco": 448.41
+      },
+      {
+        "id": 414,
+        "quantidade": 5,
+        "preco": 488.83
+      },
+      {
+        "id": 733,
+        "quantidade": 4,
+        "preco": 793.2
+      }
+    ],
+    "total": 6962.18
+  },
+  {
+    "id": 143,
+    "clienteId": 260,
+    "produtos": [
+      {
+        "id": 304,
+        "quantidade": 5,
+        "preco": 740.42
+      },
+      {
+        "id": 370,
+        "quantidade": 3,
+        "preco": 832.19
+      },
+      {
+        "id": 12,
+        "quantidade": 4,
+        "preco": 174.78
+      },
+      {
+        "id": 225,
+        "quantidade": 3,
+        "preco": 449
+      }
+    ],
+    "total": 8244.79
+  },
+  {
+    "id": 144,
+    "clienteId": 28,
+    "produtos": [
+      {
+        "id": 524,
+        "quantidade": 4,
+        "preco": 985.09
+      },
+      {
+        "id": 649,
+        "quantidade": 1,
+        "preco": 529.78
+      }
+    ],
+    "total": 4470.14
+  },
+  {
+    "id": 145,
+    "clienteId": 356,
+    "produtos": [
+      {
+        "id": 354,
+        "quantidade": 4,
+        "preco": 373.77
+      },
+      {
+        "id": 207,
+        "quantidade": 2,
+        "preco": 396.86
+      },
+      {
+        "id": 263,
+        "quantidade": 4,
+        "preco": 952.28
+      },
+      {
+        "id": 729,
+        "quantidade": 4,
+        "preco": 368.88
+      },
+      {
+        "id": 608,
+        "quantidade": 3,
+        "preco": 344.13
+      }
+    ],
+    "total": 8605.83
+  },
+  {
+    "id": 146,
+    "clienteId": 171,
+    "produtos": [
+      {
+        "id": 591,
+        "quantidade": 1,
+        "preco": 739.27
+      },
+      {
+        "id": 401,
+        "quantidade": 1,
+        "preco": 821.28
+      },
+      {
+        "id": 393,
+        "quantidade": 4,
+        "preco": 331.4
+      }
+    ],
+    "total": 2886.15
+  },
+  {
+    "id": 147,
+    "clienteId": 15,
+    "produtos": [
+      {
+        "id": 191,
+        "quantidade": 4,
+        "preco": 126.65
+      },
+      {
+        "id": 89,
+        "quantidade": 3,
+        "preco": 882.36
+      },
+      {
+        "id": 977,
+        "quantidade": 4,
+        "preco": 486.14
+      },
+      {
+        "id": 822,
+        "quantidade": 4,
+        "preco": 61.05
+      }
+    ],
+    "total": 5342.44
+  },
+  {
+    "id": 148,
+    "clienteId": 96,
+    "produtos": [
+      {
+        "id": 667,
+        "quantidade": 2,
+        "preco": 661.11
+      },
+      {
+        "id": 89,
+        "quantidade": 1,
+        "preco": 194.59
+      },
+      {
+        "id": 788,
+        "quantidade": 4,
+        "preco": 863.85
+      },
+      {
+        "id": 125,
+        "quantidade": 5,
+        "preco": 648.28
+      }
+    ],
+    "total": 8213.61
+  },
+  {
+    "id": 149,
+    "clienteId": 370,
+    "produtos": [
+      {
+        "id": 708,
+        "quantidade": 1,
+        "preco": 325.17
+      },
+      {
+        "id": 42,
+        "quantidade": 2,
+        "preco": 361.26
+      },
+      {
+        "id": 395,
+        "quantidade": 1,
+        "preco": 368.16
+      }
+    ],
+    "total": 1415.85
+  },
+  {
+    "id": 150,
+    "clienteId": 177,
+    "produtos": [
+      {
+        "id": 516,
+        "quantidade": 2,
+        "preco": 271.47
+      },
+      {
+        "id": 486,
+        "quantidade": 3,
+        "preco": 450.08
+      },
+      {
+        "id": 896,
+        "quantidade": 4,
+        "preco": 272.94
+      },
+      {
+        "id": 700,
+        "quantidade": 5,
+        "preco": 490.5
+      }
+    ],
+    "total": 5437.44
+  },
+  {
+    "id": 151,
+    "clienteId": 178,
+    "produtos": [
+      {
+        "id": 207,
+        "quantidade": 5,
+        "preco": 92.22
+      }
+    ],
+    "total": 461.1
+  },
+  {
+    "id": 152,
+    "clienteId": 402,
+    "produtos": [
+      {
+        "id": 960,
+        "quantidade": 3,
+        "preco": 893.89
+      },
+      {
+        "id": 433,
+        "quantidade": 5,
+        "preco": 215.55
+      },
+      {
+        "id": 239,
+        "quantidade": 3,
+        "preco": 733.52
+      }
+    ],
+    "total": 5959.98
+  },
+  {
+    "id": 153,
+    "clienteId": 241,
+    "produtos": [
+      {
+        "id": 954,
+        "quantidade": 2,
+        "preco": 493.97
+      },
+      {
+        "id": 662,
+        "quantidade": 5,
+        "preco": 423.77
+      },
+      {
+        "id": 991,
+        "quantidade": 1,
+        "preco": 551.66
+      }
+    ],
+    "total": 3658.45
+  },
+  {
+    "id": 154,
+    "clienteId": 197,
+    "produtos": [
+      {
+        "id": 874,
+        "quantidade": 5,
+        "preco": 577.91
+      },
+      {
+        "id": 218,
+        "quantidade": 1,
+        "preco": 767.4
+      },
+      {
+        "id": 176,
+        "quantidade": 4,
+        "preco": 560.26
+      },
+      {
+        "id": 5,
+        "quantidade": 4,
+        "preco": 600.65
+      }
+    ],
+    "total": 8300.59
+  },
+  {
+    "id": 155,
+    "clienteId": 118,
+    "produtos": [
+      {
+        "id": 244,
+        "quantidade": 3,
+        "preco": 679.03
+      },
+      {
+        "id": 283,
+        "quantidade": 5,
+        "preco": 785.57
+      },
+      {
+        "id": 783,
+        "quantidade": 4,
+        "preco": 687.31
+      },
+      {
+        "id": 606,
+        "quantidade": 5,
+        "preco": 512.42
+      },
+      {
+        "id": 452,
+        "quantidade": 5,
+        "preco": 236.2
+      }
+    ],
+    "total": 12457.28
+  },
+  {
+    "id": 156,
+    "clienteId": 425,
+    "produtos": [
+      {
+        "id": 618,
+        "quantidade": 1,
+        "preco": 693.24
+      },
+      {
+        "id": 615,
+        "quantidade": 4,
+        "preco": 860.06
+      }
+    ],
+    "total": 4133.48
+  },
+  {
+    "id": 157,
+    "clienteId": 10,
+    "produtos": [
+      {
+        "id": 254,
+        "quantidade": 4,
+        "preco": 801.92
+      }
+    ],
+    "total": 3207.68
+  },
+  {
+    "id": 158,
+    "clienteId": 197,
+    "produtos": [
+      {
+        "id": 785,
+        "quantidade": 3,
+        "preco": 121.06
+      },
+      {
+        "id": 479,
+        "quantidade": 3,
+        "preco": 492.45
+      },
+      {
+        "id": 868,
+        "quantidade": 3,
+        "preco": 971.23
+      },
+      {
+        "id": 434,
+        "quantidade": 2,
+        "preco": 527.21
+      }
+    ],
+    "total": 5808.64
+  },
+  {
+    "id": 159,
+    "clienteId": 182,
+    "produtos": [
+      {
+        "id": 297,
+        "quantidade": 4,
+        "preco": 921.65
+      }
+    ],
+    "total": 3686.6
+  },
+  {
+    "id": 160,
+    "clienteId": 9,
+    "produtos": [
+      {
+        "id": 175,
+        "quantidade": 3,
+        "preco": 302.72
+      },
+      {
+        "id": 796,
+        "quantidade": 3,
+        "preco": 364.14
+      },
+      {
+        "id": 854,
+        "quantidade": 3,
+        "preco": 315.18
+      },
+      {
+        "id": 245,
+        "quantidade": 5,
+        "preco": 221.94
+      }
+    ],
+    "total": 4055.82
+  },
+  {
+    "id": 161,
+    "clienteId": 57,
+    "produtos": [
+      {
+        "id": 796,
+        "quantidade": 5,
+        "preco": 782.4
+      },
+      {
+        "id": 416,
+        "quantidade": 5,
+        "preco": 892.04
+      }
+    ],
+    "total": 8372.2
+  },
+  {
+    "id": 162,
+    "clienteId": 459,
+    "produtos": [
+      {
+        "id": 990,
+        "quantidade": 2,
+        "preco": 821.81
+      },
+      {
+        "id": 698,
+        "quantidade": 2,
+        "preco": 780.49
+      },
+      {
+        "id": 47,
+        "quantidade": 5,
+        "preco": 811.3
+      }
+    ],
+    "total": 7261.1
+  },
+  {
+    "id": 163,
+    "clienteId": 23,
+    "produtos": [
+      {
+        "id": 859,
+        "quantidade": 1,
+        "preco": 59.04
+      },
+      {
+        "id": 31,
+        "quantidade": 3,
+        "preco": 808.05
+      },
+      {
+        "id": 738,
+        "quantidade": 4,
+        "preco": 319.81
+      }
+    ],
+    "total": 3762.43
+  },
+  {
+    "id": 164,
+    "clienteId": 298,
+    "produtos": [
+      {
+        "id": 25,
+        "quantidade": 1,
+        "preco": 383.43
+      },
+      {
+        "id": 860,
+        "quantidade": 5,
+        "preco": 133.62
+      },
+      {
+        "id": 990,
+        "quantidade": 3,
+        "preco": 270.8
+      },
+      {
+        "id": 530,
+        "quantidade": 3,
+        "preco": 389.94
+      }
+    ],
+    "total": 3033.75
+  },
+  {
+    "id": 165,
+    "clienteId": 336,
+    "produtos": [
+      {
+        "id": 958,
+        "quantidade": 1,
+        "preco": 357.37
+      },
+      {
+        "id": 210,
+        "quantidade": 4,
+        "preco": 132.61
+      }
+    ],
+    "total": 887.81
+  },
+  {
+    "id": 166,
+    "clienteId": 172,
+    "produtos": [
+      {
+        "id": 536,
+        "quantidade": 4,
+        "preco": 271.22
+      },
+      {
+        "id": 268,
+        "quantidade": 1,
+        "preco": 732.22
+      },
+      {
+        "id": 346,
+        "quantidade": 1,
+        "preco": 437.2
+      },
+      {
+        "id": 976,
+        "quantidade": 2,
+        "preco": 178.08
+      }
+    ],
+    "total": 2610.46
+  },
+  {
+    "id": 167,
+    "clienteId": 367,
+    "produtos": [
+      {
+        "id": 800,
+        "quantidade": 2,
+        "preco": 321.25
+      },
+      {
+        "id": 431,
+        "quantidade": 4,
+        "preco": 44.65
+      },
+      {
+        "id": 756,
+        "quantidade": 1,
+        "preco": 683.43
+      },
+      {
+        "id": 784,
+        "quantidade": 2,
+        "preco": 990.43
+      },
+      {
+        "id": 728,
+        "quantidade": 2,
+        "preco": 372.02
+      }
+    ],
+    "total": 4229.43
+  },
+  {
+    "id": 168,
+    "clienteId": 256,
+    "produtos": [
+      {
+        "id": 142,
+        "quantidade": 1,
+        "preco": 519.1
+      },
+      {
+        "id": 907,
+        "quantidade": 2,
+        "preco": 680.9
+      }
+    ],
+    "total": 1880.9
+  },
+  {
+    "id": 169,
+    "clienteId": 336,
+    "produtos": [
+      {
+        "id": 334,
+        "quantidade": 2,
+        "preco": 929.72
+      }
+    ],
+    "total": 1859.44
+  },
+  {
+    "id": 170,
+    "clienteId": 127,
+    "produtos": [
+      {
+        "id": 904,
+        "quantidade": 2,
+        "preco": 916.11
+      },
+      {
+        "id": 703,
+        "quantidade": 1,
+        "preco": 673.9
+      }
+    ],
+    "total": 2506.12
+  },
+  {
+    "id": 171,
+    "clienteId": 9,
+    "produtos": [
+      {
+        "id": 174,
+        "quantidade": 2,
+        "preco": 951.24
+      },
+      {
+        "id": 303,
+        "quantidade": 2,
+        "preco": 626.01
+      }
+    ],
+    "total": 3154.5
+  },
+  {
+    "id": 172,
+    "clienteId": 147,
+    "produtos": [
+      {
+        "id": 935,
+        "quantidade": 1,
+        "preco": 615.52
+      },
+      {
+        "id": 973,
+        "quantidade": 1,
+        "preco": 748.78
+      },
+      {
+        "id": 627,
+        "quantidade": 3,
+        "preco": 438.41
+      },
+      {
+        "id": 641,
+        "quantidade": 3,
+        "preco": 279.89
+      }
+    ],
+    "total": 3519.2
+  },
+  {
+    "id": 173,
+    "clienteId": 34,
+    "produtos": [
+      {
+        "id": 821,
+        "quantidade": 3,
+        "preco": 547.85
+      },
+      {
+        "id": 576,
+        "quantidade": 2,
+        "preco": 461.42
+      },
+      {
+        "id": 633,
+        "quantidade": 3,
+        "preco": 633.9
+      },
+      {
+        "id": 610,
+        "quantidade": 1,
+        "preco": 436.29
+      }
+    ],
+    "total": 4904.38
+  },
+  {
+    "id": 174,
+    "clienteId": 459,
+    "produtos": [
+      {
+        "id": 26,
+        "quantidade": 4,
+        "preco": 616.71
+      },
+      {
+        "id": 585,
+        "quantidade": 5,
+        "preco": 822.53
+      },
+      {
+        "id": 881,
+        "quantidade": 3,
+        "preco": 459.43
+      },
+      {
+        "id": 980,
+        "quantidade": 5,
+        "preco": 939
+      }
+    ],
+    "total": 12652.78
+  },
+  {
+    "id": 175,
+    "clienteId": 374,
+    "produtos": [
+      {
+        "id": 236,
+        "quantidade": 4,
+        "preco": 655.24
+      },
+      {
+        "id": 71,
+        "quantidade": 4,
+        "preco": 689.45
+      },
+      {
+        "id": 926,
+        "quantidade": 5,
+        "preco": 736.18
+      }
+    ],
+    "total": 9059.66
+  },
+  {
+    "id": 176,
+    "clienteId": 345,
+    "produtos": [
+      {
+        "id": 141,
+        "quantidade": 3,
+        "preco": 41.01
+      },
+      {
+        "id": 313,
+        "quantidade": 4,
+        "preco": 918.97
+      },
+      {
+        "id": 88,
+        "quantidade": 5,
+        "preco": 247.48
+      }
+    ],
+    "total": 5036.31
+  },
+  {
+    "id": 177,
+    "clienteId": 169,
+    "produtos": [
+      {
+        "id": 11,
+        "quantidade": 5,
+        "preco": 114.81
+      },
+      {
+        "id": 673,
+        "quantidade": 1,
+        "preco": 131.71
+      },
+      {
+        "id": 90,
+        "quantidade": 1,
+        "preco": 406.36
+      }
+    ],
+    "total": 1112.12
+  },
+  {
+    "id": 178,
+    "clienteId": 418,
+    "produtos": [
+      {
+        "id": 215,
+        "quantidade": 2,
+        "preco": 41.08
+      },
+      {
+        "id": 923,
+        "quantidade": 2,
+        "preco": 673.93
+      },
+      {
+        "id": 375,
+        "quantidade": 1,
+        "preco": 773.72
+      },
+      {
+        "id": 462,
+        "quantidade": 3,
+        "preco": 353.66
+      }
+    ],
+    "total": 3264.72
+  },
+  {
+    "id": 179,
+    "clienteId": 159,
+    "produtos": [
+      {
+        "id": 142,
+        "quantidade": 2,
+        "preco": 913.87
+      },
+      {
+        "id": 120,
+        "quantidade": 1,
+        "preco": 434.53
+      },
+      {
+        "id": 763,
+        "quantidade": 5,
+        "preco": 182.4
+      }
+    ],
+    "total": 3174.27
+  },
+  {
+    "id": 180,
+    "clienteId": 280,
+    "produtos": [
+      {
+        "id": 196,
+        "quantidade": 1,
+        "preco": 819.73
+      },
+      {
+        "id": 773,
+        "quantidade": 3,
+        "preco": 976.58
+      },
+      {
+        "id": 393,
+        "quantidade": 5,
+        "preco": 29.91
+      },
+      {
+        "id": 134,
+        "quantidade": 5,
+        "preco": 531.69
+      },
+      {
+        "id": 961,
+        "quantidade": 2,
+        "preco": 872.29
+      }
+    ],
+    "total": 8302.05
+  },
+  {
+    "id": 181,
+    "clienteId": 120,
+    "produtos": [
+      {
+        "id": 482,
+        "quantidade": 5,
+        "preco": 687.7
+      }
+    ],
+    "total": 3438.5
+  },
+  {
+    "id": 182,
+    "clienteId": 457,
+    "produtos": [
+      {
+        "id": 470,
+        "quantidade": 4,
+        "preco": 348.13
+      }
+    ],
+    "total": 1392.52
+  },
+  {
+    "id": 183,
+    "clienteId": 498,
+    "produtos": [
+      {
+        "id": 653,
+        "quantidade": 3,
+        "preco": 334.6
+      },
+      {
+        "id": 628,
+        "quantidade": 4,
+        "preco": 169.67
+      },
+      {
+        "id": 562,
+        "quantidade": 5,
+        "preco": 114.66
+      }
+    ],
+    "total": 2255.78
+  },
+  {
+    "id": 184,
+    "clienteId": 5,
+    "produtos": [
+      {
+        "id": 962,
+        "quantidade": 5,
+        "preco": 263.19
+      },
+      {
+        "id": 804,
+        "quantidade": 1,
+        "preco": 828.78
+      }
+    ],
+    "total": 2144.73
+  },
+  {
+    "id": 185,
+    "clienteId": 7,
+    "produtos": [
+      {
+        "id": 66,
+        "quantidade": 2,
+        "preco": 48.72
+      },
+      {
+        "id": 186,
+        "quantidade": 3,
+        "preco": 830.03
+      },
+      {
+        "id": 194,
+        "quantidade": 2,
+        "preco": 827.83
+      }
+    ],
+    "total": 4243.19
+  },
+  {
+    "id": 186,
+    "clienteId": 204,
+    "produtos": [
+      {
+        "id": 822,
+        "quantidade": 4,
+        "preco": 48.08
+      }
+    ],
+    "total": 192.32
+  },
+  {
+    "id": 187,
+    "clienteId": 370,
+    "produtos": [
+      {
+        "id": 572,
+        "quantidade": 1,
+        "preco": 950.96
+      },
+      {
+        "id": 888,
+        "quantidade": 4,
+        "preco": 847.3
+      },
+      {
+        "id": 726,
+        "quantidade": 3,
+        "preco": 396.7
+      }
+    ],
+    "total": 5530.26
+  },
+  {
+    "id": 188,
+    "clienteId": 391,
+    "produtos": [
+      {
+        "id": 608,
+        "quantidade": 1,
+        "preco": 783.57
+      },
+      {
+        "id": 711,
+        "quantidade": 3,
+        "preco": 629.08
+      },
+      {
+        "id": 375,
+        "quantidade": 4,
+        "preco": 975.19
+      }
+    ],
+    "total": 6571.57
+  },
+  {
+    "id": 189,
+    "clienteId": 61,
+    "produtos": [
+      {
+        "id": 580,
+        "quantidade": 3,
+        "preco": 21.18
+      },
+      {
+        "id": 770,
+        "quantidade": 2,
+        "preco": 766.1
+      }
+    ],
+    "total": 1595.74
+  },
+  {
+    "id": 190,
+    "clienteId": 18,
+    "produtos": [
+      {
+        "id": 598,
+        "quantidade": 5,
+        "preco": 598.17
+      },
+      {
+        "id": 657,
+        "quantidade": 2,
+        "preco": 892.21
+      },
+      {
+        "id": 61,
+        "quantidade": 1,
+        "preco": 70.08
+      },
+      {
+        "id": 581,
+        "quantidade": 1,
+        "preco": 288.17
+      }
+    ],
+    "total": 5133.52
+  },
+  {
+    "id": 191,
+    "clienteId": 232,
+    "produtos": [
+      {
+        "id": 459,
+        "quantidade": 1,
+        "preco": 542.82
+      },
+      {
+        "id": 857,
+        "quantidade": 4,
+        "preco": 616.99
+      }
+    ],
+    "total": 3010.78
+  },
+  {
+    "id": 192,
+    "clienteId": 452,
+    "produtos": [
+      {
+        "id": 159,
+        "quantidade": 3,
+        "preco": 409.23
+      }
+    ],
+    "total": 1227.69
+  },
+  {
+    "id": 193,
+    "clienteId": 6,
+    "produtos": [
+      {
+        "id": 780,
+        "quantidade": 1,
+        "preco": 104.63
+      }
+    ],
+    "total": 104.63
+  },
+  {
+    "id": 194,
+    "clienteId": 4,
+    "produtos": [
+      {
+        "id": 518,
+        "quantidade": 1,
+        "preco": 257.64
+      },
+      {
+        "id": 472,
+        "quantidade": 2,
+        "preco": 275.89
+      },
+      {
+        "id": 747,
+        "quantidade": 1,
+        "preco": 840.34
+      },
+      {
+        "id": 41,
+        "quantidade": 5,
+        "preco": 159.73
+      }
+    ],
+    "total": 2448.41
+  },
+  {
+    "id": 195,
+    "clienteId": 59,
+    "produtos": [
+      {
+        "id": 578,
+        "quantidade": 2,
+        "preco": 596.43
+      },
+      {
+        "id": 322,
+        "quantidade": 3,
+        "preco": 876.29
+      },
+      {
+        "id": 779,
+        "quantidade": 4,
+        "preco": 98.2
+      },
+      {
+        "id": 717,
+        "quantidade": 3,
+        "preco": 848.42
+      },
+      {
+        "id": 769,
+        "quantidade": 2,
+        "preco": 576.81
+      }
+    ],
+    "total": 7913.41
+  },
+  {
+    "id": 196,
+    "clienteId": 135,
+    "produtos": [
+      {
+        "id": 643,
+        "quantidade": 3,
+        "preco": 586.57
+      },
+      {
+        "id": 785,
+        "quantidade": 1,
+        "preco": 142.7
+      }
+    ],
+    "total": 1902.41
+  },
+  {
+    "id": 197,
+    "clienteId": 442,
+    "produtos": [
+      {
+        "id": 610,
+        "quantidade": 4,
+        "preco": 156.03
+      },
+      {
+        "id": 570,
+        "quantidade": 2,
+        "preco": 536.82
+      },
+      {
+        "id": 552,
+        "quantidade": 2,
+        "preco": 101.33
+      },
+      {
+        "id": 8,
+        "quantidade": 4,
+        "preco": 406.83
+      }
+    ],
+    "total": 3527.74
+  },
+  {
+    "id": 198,
+    "clienteId": 31,
+    "produtos": [
+      {
+        "id": 114,
+        "quantidade": 2,
+        "preco": 434.11
+      },
+      {
+        "id": 539,
+        "quantidade": 4,
+        "preco": 810.49
+      },
+      {
+        "id": 633,
+        "quantidade": 2,
+        "preco": 339.63
+      },
+      {
+        "id": 129,
+        "quantidade": 1,
+        "preco": 605.04
+      },
+      {
+        "id": 646,
+        "quantidade": 4,
+        "preco": 800.83
+      }
+    ],
+    "total": 8597.8
+  },
+  {
+    "id": 199,
+    "clienteId": 277,
+    "produtos": [
+      {
+        "id": 66,
+        "quantidade": 1,
+        "preco": 824.46
+      }
+    ],
+    "total": 824.46
+  },
+  {
+    "id": 200,
+    "clienteId": 134,
+    "produtos": [
+      {
+        "id": 104,
+        "quantidade": 3,
+        "preco": 20.29
+      },
+      {
+        "id": 220,
+        "quantidade": 4,
+        "preco": 535.69
+      },
+      {
+        "id": 179,
+        "quantidade": 3,
+        "preco": 958.99
+      },
+      {
+        "id": 477,
+        "quantidade": 2,
+        "preco": 519.01
+      },
+      {
+        "id": 80,
+        "quantidade": 3,
+        "preco": 900.03
+      }
+    ],
+    "total": 8818.71
+  },
+  {
+    "id": 201,
+    "clienteId": 360,
+    "produtos": [
+      {
+        "id": 416,
+        "quantidade": 5,
+        "preco": 497.57
+      },
+      {
+        "id": 905,
+        "quantidade": 2,
+        "preco": 890.63
+      },
+      {
+        "id": 811,
+        "quantidade": 2,
+        "preco": 710.66
+      },
+      {
+        "id": 734,
+        "quantidade": 4,
+        "preco": 804.28
+      }
+    ],
+    "total": 8907.55
+  },
+  {
+    "id": 202,
+    "clienteId": 241,
+    "produtos": [
+      {
+        "id": 528,
+        "quantidade": 4,
+        "preco": 131.35
+      }
+    ],
+    "total": 525.4
+  },
+  {
+    "id": 203,
+    "clienteId": 254,
+    "produtos": [
+      {
+        "id": 240,
+        "quantidade": 2,
+        "preco": 123.71
+      },
+      {
+        "id": 207,
+        "quantidade": 4,
+        "preco": 422.34
+      },
+      {
+        "id": 688,
+        "quantidade": 1,
+        "preco": 984.52
+      },
+      {
+        "id": 540,
+        "quantidade": 3,
+        "preco": 491.03
+      }
+    ],
+    "total": 4394.39
+  },
+  {
+    "id": 204,
+    "clienteId": 314,
+    "produtos": [
+      {
+        "id": 210,
+        "quantidade": 3,
+        "preco": 171.73
+      },
+      {
+        "id": 772,
+        "quantidade": 4,
+        "preco": 367.51
+      }
+    ],
+    "total": 1985.23
+  },
+  {
+    "id": 205,
+    "clienteId": 92,
+    "produtos": [
+      {
+        "id": 183,
+        "quantidade": 1,
+        "preco": 265.24
+      },
+      {
+        "id": 737,
+        "quantidade": 2,
+        "preco": 275.7
+      },
+      {
+        "id": 240,
+        "quantidade": 2,
+        "preco": 699
+      },
+      {
+        "id": 966,
+        "quantidade": 3,
+        "preco": 237.57
+      },
+      {
+        "id": 890,
+        "quantidade": 5,
+        "preco": 576.75
+      }
+    ],
+    "total": 5811.1
+  },
+  {
+    "id": 206,
+    "clienteId": 92,
+    "produtos": [
+      {
+        "id": 416,
+        "quantidade": 1,
+        "preco": 397.53
+      }
+    ],
+    "total": 397.53
+  },
+  {
+    "id": 207,
+    "clienteId": 129,
+    "produtos": [
+      {
+        "id": 348,
+        "quantidade": 4,
+        "preco": 208.78
+      },
+      {
+        "id": 743,
+        "quantidade": 5,
+        "preco": 719.66
+      },
+      {
+        "id": 302,
+        "quantidade": 3,
+        "preco": 431.01
+      }
+    ],
+    "total": 5726.45
+  },
+  {
+    "id": 208,
+    "clienteId": 239,
+    "produtos": [
+      {
+        "id": 101,
+        "quantidade": 5,
+        "preco": 49.05
+      },
+      {
+        "id": 960,
+        "quantidade": 2,
+        "preco": 814.06
+      },
+      {
+        "id": 475,
+        "quantidade": 1,
+        "preco": 907.31
+      },
+      {
+        "id": 566,
+        "quantidade": 3,
+        "preco": 132.63
+      },
+      {
+        "id": 964,
+        "quantidade": 1,
+        "preco": 312.23
+      }
+    ],
+    "total": 3490.8
+  },
+  {
+    "id": 209,
+    "clienteId": 445,
+    "produtos": [
+      {
+        "id": 229,
+        "quantidade": 2,
+        "preco": 221.35
+      }
+    ],
+    "total": 442.7
+  },
+  {
+    "id": 210,
+    "clienteId": 455,
+    "produtos": [
+      {
+        "id": 845,
+        "quantidade": 3,
+        "preco": 809.92
+      },
+      {
+        "id": 26,
+        "quantidade": 5,
+        "preco": 883.82
+      },
+      {
+        "id": 64,
+        "quantidade": 1,
+        "preco": 728.57
+      },
+      {
+        "id": 784,
+        "quantidade": 3,
+        "preco": 119.25
+      },
+      {
+        "id": 139,
+        "quantidade": 4,
+        "preco": 15.24
+      }
+    ],
+    "total": 7996.14
+  },
+  {
+    "id": 211,
+    "clienteId": 310,
+    "produtos": [
+      {
+        "id": 815,
+        "quantidade": 4,
+        "preco": 529.25
+      },
+      {
+        "id": 94,
+        "quantidade": 5,
+        "preco": 140.68
+      },
+      {
+        "id": 772,
+        "quantidade": 4,
+        "preco": 120.3
+      }
+    ],
+    "total": 3301.6
+  },
+  {
+    "id": 212,
+    "clienteId": 311,
+    "produtos": [
+      {
+        "id": 20,
+        "quantidade": 4,
+        "preco": 706.95
+      },
+      {
+        "id": 942,
+        "quantidade": 4,
+        "preco": 39.61
+      }
+    ],
+    "total": 2986.24
+  },
+  {
+    "id": 213,
+    "clienteId": 394,
+    "produtos": [
+      {
+        "id": 17,
+        "quantidade": 1,
+        "preco": 81.69
+      }
+    ],
+    "total": 81.69
+  },
+  {
+    "id": 214,
+    "clienteId": 470,
+    "produtos": [
+      {
+        "id": 692,
+        "quantidade": 5,
+        "preco": 28.16
+      },
+      {
+        "id": 51,
+        "quantidade": 4,
+        "preco": 194.11
+      }
+    ],
+    "total": 917.24
+  },
+  {
+    "id": 215,
+    "clienteId": 252,
+    "produtos": [
+      {
+        "id": 385,
+        "quantidade": 4,
+        "preco": 225.53
+      },
+      {
+        "id": 400,
+        "quantidade": 2,
+        "preco": 734.71
+      },
+      {
+        "id": 740,
+        "quantidade": 1,
+        "preco": 897.46
+      }
+    ],
+    "total": 3269
+  },
+  {
+    "id": 216,
+    "clienteId": 2,
+    "produtos": [
+      {
+        "id": 103,
+        "quantidade": 2,
+        "preco": 561.13
+      }
+    ],
+    "total": 1122.26
+  },
+  {
+    "id": 217,
+    "clienteId": 121,
+    "produtos": [
+      {
+        "id": 362,
+        "quantidade": 5,
+        "preco": 353.69
+      },
+      {
+        "id": 419,
+        "quantidade": 2,
+        "preco": 971.77
+      }
+    ],
+    "total": 3711.99
+  },
+  {
+    "id": 218,
+    "clienteId": 274,
+    "produtos": [
+      {
+        "id": 87,
+        "quantidade": 2,
+        "preco": 890.59
+      },
+      {
+        "id": 243,
+        "quantidade": 5,
+        "preco": 593.68
+      },
+      {
+        "id": 548,
+        "quantidade": 4,
+        "preco": 918.15
+      },
+      {
+        "id": 752,
+        "quantidade": 2,
+        "preco": 333.45
+      }
+    ],
+    "total": 9089.08
+  },
+  {
+    "id": 219,
+    "clienteId": 442,
+    "produtos": [
+      {
+        "id": 180,
+        "quantidade": 4,
+        "preco": 556.99
+      },
+      {
+        "id": 382,
+        "quantidade": 4,
+        "preco": 403.88
+      },
+      {
+        "id": 871,
+        "quantidade": 4,
+        "preco": 843.93
+      },
+      {
+        "id": 287,
+        "quantidade": 3,
+        "preco": 355.89
+      },
+      {
+        "id": 798,
+        "quantidade": 4,
+        "preco": 122.83
+      }
+    ],
+    "total": 8778.19
+  },
+  {
+    "id": 220,
+    "clienteId": 481,
+    "produtos": [
+      {
+        "id": 326,
+        "quantidade": 4,
+        "preco": 598.43
+      },
+      {
+        "id": 558,
+        "quantidade": 1,
+        "preco": 649.39
+      },
+      {
+        "id": 870,
+        "quantidade": 4,
+        "preco": 928.09
+      },
+      {
+        "id": 991,
+        "quantidade": 3,
+        "preco": 966.25
+      }
+    ],
+    "total": 9654.22
+  },
+  {
+    "id": 221,
+    "clienteId": 188,
+    "produtos": [
+      {
+        "id": 955,
+        "quantidade": 1,
+        "preco": 187.52
+      },
+      {
+        "id": 799,
+        "quantidade": 4,
+        "preco": 887.5
+      }
+    ],
+    "total": 3737.52
+  },
+  {
+    "id": 222,
+    "clienteId": 13,
+    "produtos": [
+      {
+        "id": 453,
+        "quantidade": 5,
+        "preco": 368.27
+      }
+    ],
+    "total": 1841.35
+  },
+  {
+    "id": 223,
+    "clienteId": 4,
+    "produtos": [
+      {
+        "id": 867,
+        "quantidade": 2,
+        "preco": 305.54
+      },
+      {
+        "id": 546,
+        "quantidade": 3,
+        "preco": 448.64
+      },
+      {
+        "id": 830,
+        "quantidade": 5,
+        "preco": 970.75
+      },
+      {
+        "id": 666,
+        "quantidade": 1,
+        "preco": 126.13
+      },
+      {
+        "id": 373,
+        "quantidade": 5,
+        "preco": 930.24
+      }
+    ],
+    "total": 11588.08
+  },
+  {
+    "id": 224,
+    "clienteId": 363,
+    "produtos": [
+      {
+        "id": 682,
+        "quantidade": 3,
+        "preco": 932.15
+      },
+      {
+        "id": 297,
+        "quantidade": 4,
+        "preco": 142.55
+      },
+      {
+        "id": 347,
+        "quantidade": 2,
+        "preco": 378.58
+      },
+      {
+        "id": 62,
+        "quantidade": 1,
+        "preco": 860.53
+      },
+      {
+        "id": 128,
+        "quantidade": 2,
+        "preco": 572.17
+      }
+    ],
+    "total": 6128.68
+  },
+  {
+    "id": 225,
+    "clienteId": 218,
+    "produtos": [
+      {
+        "id": 536,
+        "quantidade": 5,
+        "preco": 18.97
+      },
+      {
+        "id": 297,
+        "quantidade": 5,
+        "preco": 243.88
+      },
+      {
+        "id": 647,
+        "quantidade": 4,
+        "preco": 18.2
+      },
+      {
+        "id": 72,
+        "quantidade": 2,
+        "preco": 629.97
+      },
+      {
+        "id": 162,
+        "quantidade": 3,
+        "preco": 195.12
+      }
+    ],
+    "total": 3232.35
+  },
+  {
+    "id": 226,
+    "clienteId": 51,
+    "produtos": [
+      {
+        "id": 692,
+        "quantidade": 3,
+        "preco": 836.86
+      }
+    ],
+    "total": 2510.58
+  },
+  {
+    "id": 227,
+    "clienteId": 90,
+    "produtos": [
+      {
+        "id": 28,
+        "quantidade": 4,
+        "preco": 704.09
+      },
+      {
+        "id": 779,
+        "quantidade": 5,
+        "preco": 533.41
+      },
+      {
+        "id": 451,
+        "quantidade": 3,
+        "preco": 126.4
+      },
+      {
+        "id": 581,
+        "quantidade": 1,
+        "preco": 969.38
+      }
+    ],
+    "total": 6831.99
+  },
+  {
+    "id": 228,
+    "clienteId": 125,
+    "produtos": [
+      {
+        "id": 19,
+        "quantidade": 4,
+        "preco": 449.71
+      }
+    ],
+    "total": 1798.84
+  },
+  {
+    "id": 229,
+    "clienteId": 319,
+    "produtos": [
+      {
+        "id": 710,
+        "quantidade": 5,
+        "preco": 236.14
+      }
+    ],
+    "total": 1180.7
+  },
+  {
+    "id": 230,
+    "clienteId": 210,
+    "produtos": [
+      {
+        "id": 975,
+        "quantidade": 5,
+        "preco": 232.76
+      },
+      {
+        "id": 870,
+        "quantidade": 4,
+        "preco": 470.68
+      },
+      {
+        "id": 489,
+        "quantidade": 2,
+        "preco": 499.64
+      },
+      {
+        "id": 25,
+        "quantidade": 1,
+        "preco": 645.34
+      }
+    ],
+    "total": 4691.14
+  },
+  {
+    "id": 231,
+    "clienteId": 354,
+    "produtos": [
+      {
+        "id": 894,
+        "quantidade": 3,
+        "preco": 126.38
+      },
+      {
+        "id": 827,
+        "quantidade": 1,
+        "preco": 284.38
+      },
+      {
+        "id": 901,
+        "quantidade": 1,
+        "preco": 711.87
+      }
+    ],
+    "total": 1375.39
+  },
+  {
+    "id": 232,
+    "clienteId": 372,
+    "produtos": [
+      {
+        "id": 630,
+        "quantidade": 4,
+        "preco": 91.7
+      },
+      {
+        "id": 108,
+        "quantidade": 4,
+        "preco": 819.94
+      },
+      {
+        "id": 221,
+        "quantidade": 3,
+        "preco": 564.96
+      }
+    ],
+    "total": 5341.44
+  },
+  {
+    "id": 233,
+    "clienteId": 453,
+    "produtos": [
+      {
+        "id": 384,
+        "quantidade": 4,
+        "preco": 671.21
+      },
+      {
+        "id": 883,
+        "quantidade": 4,
+        "preco": 817.92
+      },
+      {
+        "id": 170,
+        "quantidade": 3,
+        "preco": 560.01
+      },
+      {
+        "id": 821,
+        "quantidade": 2,
+        "preco": 885.49
+      }
+    ],
+    "total": 9407.53
+  },
+  {
+    "id": 234,
+    "clienteId": 448,
+    "produtos": [
+      {
+        "id": 794,
+        "quantidade": 2,
+        "preco": 745.09
+      },
+      {
+        "id": 501,
+        "quantidade": 4,
+        "preco": 766.44
+      },
+      {
+        "id": 465,
+        "quantidade": 2,
+        "preco": 721.5
+      }
+    ],
+    "total": 5998.94
+  },
+  {
+    "id": 235,
+    "clienteId": 251,
+    "produtos": [
+      {
+        "id": 552,
+        "quantidade": 3,
+        "preco": 818.55
+      },
+      {
+        "id": 238,
+        "quantidade": 3,
+        "preco": 133.69
+      },
+      {
+        "id": 393,
+        "quantidade": 2,
+        "preco": 663.6
+      },
+      {
+        "id": 480,
+        "quantidade": 1,
+        "preco": 142.51
+      },
+      {
+        "id": 301,
+        "quantidade": 2,
+        "preco": 592.15
+      }
+    ],
+    "total": 5510.73
+  },
+  {
+    "id": 236,
+    "clienteId": 184,
+    "produtos": [
+      {
+        "id": 371,
+        "quantidade": 2,
+        "preco": 25.08
+      },
+      {
+        "id": 401,
+        "quantidade": 4,
+        "preco": 662.57
+      },
+      {
+        "id": 99,
+        "quantidade": 4,
+        "preco": 331.69
+      }
+    ],
+    "total": 4027.2
+  },
+  {
+    "id": 237,
+    "clienteId": 87,
+    "produtos": [
+      {
+        "id": 579,
+        "quantidade": 5,
+        "preco": 617.13
+      },
+      {
+        "id": 191,
+        "quantidade": 5,
+        "preco": 845.59
+      },
+      {
+        "id": 846,
+        "quantidade": 1,
+        "preco": 949.04
+      },
+      {
+        "id": 957,
+        "quantidade": 5,
+        "preco": 844.36
+      },
+      {
+        "id": 84,
+        "quantidade": 3,
+        "preco": 301.33
+      }
+    ],
+    "total": 13388.43
+  },
+  {
+    "id": 238,
+    "clienteId": 94,
+    "produtos": [
+      {
+        "id": 27,
+        "quantidade": 4,
+        "preco": 81.03
+      }
+    ],
+    "total": 324.12
+  },
+  {
+    "id": 239,
+    "clienteId": 287,
+    "produtos": [
+      {
+        "id": 643,
+        "quantidade": 1,
+        "preco": 795.08
+      },
+      {
+        "id": 367,
+        "quantidade": 1,
+        "preco": 164.7
+      }
+    ],
+    "total": 959.78
+  },
+  {
+    "id": 240,
+    "clienteId": 436,
+    "produtos": [
+      {
+        "id": 75,
+        "quantidade": 4,
+        "preco": 342.88
+      },
+      {
+        "id": 922,
+        "quantidade": 3,
+        "preco": 793.61
+      },
+      {
+        "id": 64,
+        "quantidade": 1,
+        "preco": 221.15
+      },
+      {
+        "id": 205,
+        "quantidade": 5,
+        "preco": 690.73
+      }
+    ],
+    "total": 7427.15
+  },
+  {
+    "id": 241,
+    "clienteId": 202,
+    "produtos": [
+      {
+        "id": 676,
+        "quantidade": 5,
+        "preco": 805.05
+      }
+    ],
+    "total": 4025.25
+  },
+  {
+    "id": 242,
+    "clienteId": 310,
+    "produtos": [
+      {
+        "id": 633,
+        "quantidade": 4,
+        "preco": 636.03
+      },
+      {
+        "id": 796,
+        "quantidade": 4,
+        "preco": 383.76
+      },
+      {
+        "id": 83,
+        "quantidade": 3,
+        "preco": 706.87
+      }
+    ],
+    "total": 6199.77
+  },
+  {
+    "id": 243,
+    "clienteId": 335,
+    "produtos": [
+      {
+        "id": 335,
+        "quantidade": 3,
+        "preco": 659.13
+      },
+      {
+        "id": 816,
+        "quantidade": 5,
+        "preco": 453.12
+      },
+      {
+        "id": 312,
+        "quantidade": 4,
+        "preco": 382.48
+      }
+    ],
+    "total": 5772.91
+  },
+  {
+    "id": 244,
+    "clienteId": 238,
+    "produtos": [
+      {
+        "id": 97,
+        "quantidade": 3,
+        "preco": 263.43
+      },
+      {
+        "id": 298,
+        "quantidade": 3,
+        "preco": 644.87
+      },
+      {
+        "id": 587,
+        "quantidade": 4,
+        "preco": 632.24
+      },
+      {
+        "id": 885,
+        "quantidade": 3,
+        "preco": 703.65
+      }
+    ],
+    "total": 7364.81
+  },
+  {
+    "id": 245,
+    "clienteId": 340,
+    "produtos": [
+      {
+        "id": 383,
+        "quantidade": 5,
+        "preco": 532.06
+      },
+      {
+        "id": 921,
+        "quantidade": 4,
+        "preco": 563.62
+      },
+      {
+        "id": 383,
+        "quantidade": 5,
+        "preco": 28.12
+      },
+      {
+        "id": 313,
+        "quantidade": 4,
+        "preco": 648.43
+      },
+      {
+        "id": 819,
+        "quantidade": 1,
+        "preco": 196.41
+      }
+    ],
+    "total": 7845.51
+  },
+  {
+    "id": 246,
+    "clienteId": 303,
+    "produtos": [
+      {
+        "id": 591,
+        "quantidade": 2,
+        "preco": 672.19
+      }
+    ],
+    "total": 1344.38
+  },
+  {
+    "id": 247,
+    "clienteId": 78,
+    "produtos": [
+      {
+        "id": 746,
+        "quantidade": 2,
+        "preco": 495.43
+      },
+      {
+        "id": 528,
+        "quantidade": 5,
+        "preco": 288.04
+      },
+      {
+        "id": 5,
+        "quantidade": 1,
+        "preco": 975.73
+      },
+      {
+        "id": 333,
+        "quantidade": 1,
+        "preco": 764.27
+      }
+    ],
+    "total": 4171.06
+  },
+  {
+    "id": 248,
+    "clienteId": 22,
+    "produtos": [
+      {
+        "id": 200,
+        "quantidade": 2,
+        "preco": 122.94
+      },
+      {
+        "id": 60,
+        "quantidade": 5,
+        "preco": 722.38
+      }
+    ],
+    "total": 3857.78
+  },
+  {
+    "id": 249,
+    "clienteId": 395,
+    "produtos": [
+      {
+        "id": 427,
+        "quantidade": 5,
+        "preco": 251.52
+      },
+      {
+        "id": 611,
+        "quantidade": 5,
+        "preco": 33.11
+      },
+      {
+        "id": 184,
+        "quantidade": 2,
+        "preco": 404.3
+      },
+      {
+        "id": 827,
+        "quantidade": 2,
+        "preco": 107.74
+      },
+      {
+        "id": 293,
+        "quantidade": 2,
+        "preco": 337.82
+      }
+    ],
+    "total": 3122.87
+  },
+  {
+    "id": 250,
+    "clienteId": 348,
+    "produtos": [
+      {
+        "id": 969,
+        "quantidade": 5,
+        "preco": 142.72
+      },
+      {
+        "id": 279,
+        "quantidade": 1,
+        "preco": 870.21
+      },
+      {
+        "id": 97,
+        "quantidade": 3,
+        "preco": 620.75
+      },
+      {
+        "id": 129,
+        "quantidade": 2,
+        "preco": 671.49
+      },
+      {
+        "id": 153,
+        "quantidade": 1,
+        "preco": 158.35
+      }
+    ],
+    "total": 4947.39
+  },
+  {
+    "id": 251,
+    "clienteId": 73,
+    "produtos": [
+      {
+        "id": 425,
+        "quantidade": 4,
+        "preco": 387.83
+      },
+      {
+        "id": 659,
+        "quantidade": 4,
+        "preco": 381.8
+      },
+      {
+        "id": 197,
+        "quantidade": 1,
+        "preco": 450.22
+      },
+      {
+        "id": 289,
+        "quantidade": 5,
+        "preco": 591.51
+      },
+      {
+        "id": 764,
+        "quantidade": 2,
+        "preco": 162.05
+      }
+    ],
+    "total": 6810.39
+  },
+  {
+    "id": 252,
+    "clienteId": 2,
+    "produtos": [
+      {
+        "id": 263,
+        "quantidade": 1,
+        "preco": 616.23
+      },
+      {
+        "id": 476,
+        "quantidade": 3,
+        "preco": 539.57
+      },
+      {
+        "id": 651,
+        "quantidade": 3,
+        "preco": 863.6
+      }
+    ],
+    "total": 4825.74
+  },
+  {
+    "id": 253,
+    "clienteId": 1,
+    "produtos": [
+      {
+        "id": 169,
+        "quantidade": 4,
+        "preco": 715.48
+      }
+    ],
+    "total": 2861.92
+  },
+  {
+    "id": 254,
+    "clienteId": 186,
+    "produtos": [
+      {
+        "id": 778,
+        "quantidade": 3,
+        "preco": 258.06
+      },
+      {
+        "id": 913,
+        "quantidade": 2,
+        "preco": 986.25
+      },
+      {
+        "id": 440,
+        "quantidade": 5,
+        "preco": 204.02
+      },
+      {
+        "id": 239,
+        "quantidade": 2,
+        "preco": 993.36
+      }
+    ],
+    "total": 5753.5
+  },
+  {
+    "id": 255,
+    "clienteId": 251,
+    "produtos": [
+      {
+        "id": 253,
+        "quantidade": 4,
+        "preco": 367.31
+      },
+      {
+        "id": 782,
+        "quantidade": 2,
+        "preco": 946.1
+      },
+      {
+        "id": 932,
+        "quantidade": 2,
+        "preco": 926.24
+      },
+      {
+        "id": 576,
+        "quantidade": 2,
+        "preco": 426.79
+      },
+      {
+        "id": 831,
+        "quantidade": 3,
+        "preco": 317.85
+      }
+    ],
+    "total": 7021.05
+  },
+  {
+    "id": 256,
+    "clienteId": 155,
+    "produtos": [
+      {
+        "id": 770,
+        "quantidade": 5,
+        "preco": 364.54
+      },
+      {
+        "id": 143,
+        "quantidade": 1,
+        "preco": 553.34
+      },
+      {
+        "id": 395,
+        "quantidade": 3,
+        "preco": 574.6
+      },
+      {
+        "id": 835,
+        "quantidade": 3,
+        "preco": 789.09
+      }
+    ],
+    "total": 6467.11
+  },
+  {
+    "id": 257,
+    "clienteId": 490,
+    "produtos": [
+      {
+        "id": 911,
+        "quantidade": 5,
+        "preco": 682.89
+      },
+      {
+        "id": 530,
+        "quantidade": 4,
+        "preco": 888.81
+      }
+    ],
+    "total": 6969.69
+  },
+  {
+    "id": 258,
+    "clienteId": 335,
+    "produtos": [
+      {
+        "id": 846,
+        "quantidade": 2,
+        "preco": 706.33
+      },
+      {
+        "id": 803,
+        "quantidade": 1,
+        "preco": 956.93
+      },
+      {
+        "id": 206,
+        "quantidade": 4,
+        "preco": 707.3
+      },
+      {
+        "id": 289,
+        "quantidade": 4,
+        "preco": 494.82
+      }
+    ],
+    "total": 7178.07
+  },
+  {
+    "id": 259,
+    "clienteId": 184,
+    "produtos": [
+      {
+        "id": 947,
+        "quantidade": 5,
+        "preco": 807.99
+      },
+      {
+        "id": 816,
+        "quantidade": 2,
+        "preco": 442.56
+      },
+      {
+        "id": 199,
+        "quantidade": 3,
+        "preco": 665.87
+      },
+      {
+        "id": 788,
+        "quantidade": 1,
+        "preco": 143.04
+      },
+      {
+        "id": 153,
+        "quantidade": 5,
+        "preco": 877.64
+      }
+    ],
+    "total": 11453.92
+  },
+  {
+    "id": 260,
+    "clienteId": 252,
+    "produtos": [
+      {
+        "id": 658,
+        "quantidade": 2,
+        "preco": 994
+      },
+      {
+        "id": 849,
+        "quantidade": 3,
+        "preco": 297.18
+      }
+    ],
+    "total": 2879.54
+  },
+  {
+    "id": 261,
+    "clienteId": 338,
+    "produtos": [
+      {
+        "id": 99,
+        "quantidade": 2,
+        "preco": 215.44
+      }
+    ],
+    "total": 430.88
+  },
+  {
+    "id": 262,
+    "clienteId": 110,
+    "produtos": [
+      {
+        "id": 450,
+        "quantidade": 3,
+        "preco": 203.79
+      },
+      {
+        "id": 906,
+        "quantidade": 3,
+        "preco": 520.93
+      },
+      {
+        "id": 636,
+        "quantidade": 4,
+        "preco": 319.02
+      },
+      {
+        "id": 492,
+        "quantidade": 5,
+        "preco": 395.68
+      }
+    ],
+    "total": 5428.64
+  },
+  {
+    "id": 263,
+    "clienteId": 343,
+    "produtos": [
+      {
+        "id": 442,
+        "quantidade": 1,
+        "preco": 338.77
+      },
+      {
+        "id": 22,
+        "quantidade": 5,
+        "preco": 425.19
+      },
+      {
+        "id": 938,
+        "quantidade": 5,
+        "preco": 52.01
+      }
+    ],
+    "total": 2724.77
+  },
+  {
+    "id": 264,
+    "clienteId": 289,
+    "produtos": [
+      {
+        "id": 865,
+        "quantidade": 3,
+        "preco": 110.02
+      },
+      {
+        "id": 119,
+        "quantidade": 2,
+        "preco": 843.22
+      },
+      {
+        "id": 195,
+        "quantidade": 2,
+        "preco": 737.38
+      },
+      {
+        "id": 195,
+        "quantidade": 4,
+        "preco": 28.88
+      },
+      {
+        "id": 345,
+        "quantidade": 3,
+        "preco": 672.74
+      }
+    ],
+    "total": 5625
+  },
+  {
+    "id": 265,
+    "clienteId": 137,
+    "produtos": [
+      {
+        "id": 690,
+        "quantidade": 3,
+        "preco": 406.71
+      },
+      {
+        "id": 737,
+        "quantidade": 3,
+        "preco": 105.88
+      },
+      {
+        "id": 136,
+        "quantidade": 4,
+        "preco": 776.7
+      },
+      {
+        "id": 704,
+        "quantidade": 4,
+        "preco": 233.44
+      },
+      {
+        "id": 240,
+        "quantidade": 1,
+        "preco": 943.07
+      }
+    ],
+    "total": 6521.4
+  },
+  {
+    "id": 266,
+    "clienteId": 223,
+    "produtos": [
+      {
+        "id": 906,
+        "quantidade": 4,
+        "preco": 390.78
+      }
+    ],
+    "total": 1563.12
+  },
+  {
+    "id": 267,
+    "clienteId": 143,
+    "produtos": [
+      {
+        "id": 133,
+        "quantidade": 1,
+        "preco": 151.01
+      }
+    ],
+    "total": 151.01
+  },
+  {
+    "id": 268,
+    "clienteId": 321,
+    "produtos": [
+      {
+        "id": 76,
+        "quantidade": 4,
+        "preco": 334.41
+      }
+    ],
+    "total": 1337.64
+  },
+  {
+    "id": 269,
+    "clienteId": 327,
+    "produtos": [
+      {
+        "id": 643,
+        "quantidade": 3,
+        "preco": 484.88
+      },
+      {
+        "id": 188,
+        "quantidade": 1,
+        "preco": 390.74
+      },
+      {
+        "id": 379,
+        "quantidade": 3,
+        "preco": 988.53
+      },
+      {
+        "id": 155,
+        "quantidade": 2,
+        "preco": 376.74
+      },
+      {
+        "id": 610,
+        "quantidade": 4,
+        "preco": 253.96
+      }
+    ],
+    "total": 6580.29
+  },
+  {
+    "id": 270,
+    "clienteId": 48,
+    "produtos": [
+      {
+        "id": 831,
+        "quantidade": 4,
+        "preco": 643.63
+      },
+      {
+        "id": 228,
+        "quantidade": 2,
+        "preco": 992.37
+      },
+      {
+        "id": 983,
+        "quantidade": 4,
+        "preco": 983.42
+      },
+      {
+        "id": 381,
+        "quantidade": 3,
+        "preco": 602.86
+      }
+    ],
+    "total": 10301.52
+  },
+  {
+    "id": 271,
+    "clienteId": 8,
+    "produtos": [
+      {
+        "id": 946,
+        "quantidade": 1,
+        "preco": 100.38
+      }
+    ],
+    "total": 100.38
+  },
+  {
+    "id": 272,
+    "clienteId": 305,
+    "produtos": [
+      {
+        "id": 853,
+        "quantidade": 4,
+        "preco": 959.13
+      },
+      {
+        "id": 694,
+        "quantidade": 2,
+        "preco": 537.52
+      },
+      {
+        "id": 426,
+        "quantidade": 1,
+        "preco": 300.86
+      }
+    ],
+    "total": 5212.42
+  },
+  {
+    "id": 273,
+    "clienteId": 290,
+    "produtos": [
+      {
+        "id": 313,
+        "quantidade": 4,
+        "preco": 47.04
+      },
+      {
+        "id": 453,
+        "quantidade": 4,
+        "preco": 662.9
+      },
+      {
+        "id": 103,
+        "quantidade": 5,
+        "preco": 728.49
+      },
+      {
+        "id": 113,
+        "quantidade": 1,
+        "preco": 144.48
+      }
+    ],
+    "total": 6626.69
+  },
+  {
+    "id": 274,
+    "clienteId": 28,
+    "produtos": [
+      {
+        "id": 675,
+        "quantidade": 2,
+        "preco": 451.4
+      }
+    ],
+    "total": 902.8
+  },
+  {
+    "id": 275,
+    "clienteId": 398,
+    "produtos": [
+      {
+        "id": 555,
+        "quantidade": 1,
+        "preco": 284.16
+      },
+      {
+        "id": 637,
+        "quantidade": 3,
+        "preco": 592.72
+      },
+      {
+        "id": 487,
+        "quantidade": 5,
+        "preco": 874.11
+      }
+    ],
+    "total": 6432.87
+  },
+  {
+    "id": 276,
+    "clienteId": 193,
+    "produtos": [
+      {
+        "id": 940,
+        "quantidade": 5,
+        "preco": 541.05
+      },
+      {
+        "id": 632,
+        "quantidade": 2,
+        "preco": 604.67
+      },
+      {
+        "id": 501,
+        "quantidade": 1,
+        "preco": 538.98
+      }
+    ],
+    "total": 4453.57
+  },
+  {
+    "id": 277,
+    "clienteId": 368,
+    "produtos": [
+      {
+        "id": 252,
+        "quantidade": 2,
+        "preco": 297.42
+      }
+    ],
+    "total": 594.84
+  },
+  {
+    "id": 278,
+    "clienteId": 223,
+    "produtos": [
+      {
+        "id": 241,
+        "quantidade": 1,
+        "preco": 314.83
+      },
+      {
+        "id": 625,
+        "quantidade": 2,
+        "preco": 247.32
+      },
+      {
+        "id": 100,
+        "quantidade": 1,
+        "preco": 469.05
+      },
+      {
+        "id": 322,
+        "quantidade": 4,
+        "preco": 562.25
+      }
+    ],
+    "total": 3527.52
+  },
+  {
+    "id": 279,
+    "clienteId": 20,
+    "produtos": [
+      {
+        "id": 140,
+        "quantidade": 2,
+        "preco": 603.86
+      },
+      {
+        "id": 403,
+        "quantidade": 3,
+        "preco": 559.19
+      }
+    ],
+    "total": 2885.29
+  },
+  {
+    "id": 280,
+    "clienteId": 398,
+    "produtos": [
+      {
+        "id": 384,
+        "quantidade": 4,
+        "preco": 880.46
+      },
+      {
+        "id": 709,
+        "quantidade": 4,
+        "preco": 663.71
+      },
+      {
+        "id": 198,
+        "quantidade": 2,
+        "preco": 317.76
+      },
+      {
+        "id": 935,
+        "quantidade": 5,
+        "preco": 345.31
+      }
+    ],
+    "total": 8538.75
+  },
+  {
+    "id": 281,
+    "clienteId": 133,
+    "produtos": [
+      {
+        "id": 456,
+        "quantidade": 5,
+        "preco": 394.61
+      }
+    ],
+    "total": 1973.05
+  },
+  {
+    "id": 282,
+    "clienteId": 416,
+    "produtos": [
+      {
+        "id": 705,
+        "quantidade": 3,
+        "preco": 304.52
+      },
+      {
+        "id": 225,
+        "quantidade": 1,
+        "preco": 794.27
+      },
+      {
+        "id": 779,
+        "quantidade": 1,
+        "preco": 153.02
+      },
+      {
+        "id": 648,
+        "quantidade": 5,
+        "preco": 424.09
+      },
+      {
+        "id": 950,
+        "quantidade": 4,
+        "preco": 488.2
+      }
+    ],
+    "total": 5934.1
+  },
+  {
+    "id": 283,
+    "clienteId": 385,
+    "produtos": [
+      {
+        "id": 888,
+        "quantidade": 3,
+        "preco": 282.41
+      },
+      {
+        "id": 288,
+        "quantidade": 3,
+        "preco": 846.69
+      }
+    ],
+    "total": 3387.3
+  },
+  {
+    "id": 284,
+    "clienteId": 31,
+    "produtos": [
+      {
+        "id": 730,
+        "quantidade": 1,
+        "preco": 753.65
+      },
+      {
+        "id": 443,
+        "quantidade": 3,
+        "preco": 184.27
+      }
+    ],
+    "total": 1306.46
+  },
+  {
+    "id": 285,
+    "clienteId": 282,
+    "produtos": [
+      {
+        "id": 625,
+        "quantidade": 1,
+        "preco": 186.79
+      },
+      {
+        "id": 295,
+        "quantidade": 5,
+        "preco": 653.73
+      },
+      {
+        "id": 273,
+        "quantidade": 3,
+        "preco": 969.5
+      },
+      {
+        "id": 241,
+        "quantidade": 2,
+        "preco": 167.61
+      }
+    ],
+    "total": 6699.16
+  },
+  {
+    "id": 286,
+    "clienteId": 14,
+    "produtos": [
+      {
+        "id": 90,
+        "quantidade": 4,
+        "preco": 833.34
+      },
+      {
+        "id": 507,
+        "quantidade": 4,
+        "preco": 845.34
+      },
+      {
+        "id": 532,
+        "quantidade": 5,
+        "preco": 883.54
+      },
+      {
+        "id": 635,
+        "quantidade": 1,
+        "preco": 163.07
+      },
+      {
+        "id": 116,
+        "quantidade": 4,
+        "preco": 723.48
+      }
+    ],
+    "total": 14189.41
+  },
+  {
+    "id": 287,
+    "clienteId": 4,
+    "produtos": [
+      {
+        "id": 458,
+        "quantidade": 3,
+        "preco": 954.26
+      }
+    ],
+    "total": 2862.78
+  },
+  {
+    "id": 288,
+    "clienteId": 258,
+    "produtos": [
+      {
+        "id": 268,
+        "quantidade": 5,
+        "preco": 413.22
+      }
+    ],
+    "total": 2066.1
+  },
+  {
+    "id": 289,
+    "clienteId": 320,
+    "produtos": [
+      {
+        "id": 22,
+        "quantidade": 4,
+        "preco": 427.4
+      }
+    ],
+    "total": 1709.6
+  },
+  {
+    "id": 290,
+    "clienteId": 433,
+    "produtos": [
+      {
+        "id": 390,
+        "quantidade": 5,
+        "preco": 936.13
+      },
+      {
+        "id": 998,
+        "quantidade": 5,
+        "preco": 55.14
+      }
+    ],
+    "total": 4956.35
+  },
+  {
+    "id": 291,
+    "clienteId": 255,
+    "produtos": [
+      {
+        "id": 872,
+        "quantidade": 5,
+        "preco": 82.5
+      },
+      {
+        "id": 615,
+        "quantidade": 4,
+        "preco": 833.05
+      },
+      {
+        "id": 895,
+        "quantidade": 3,
+        "preco": 827.52
+      }
+    ],
+    "total": 6227.26
+  },
+  {
+    "id": 292,
+    "clienteId": 187,
+    "produtos": [
+      {
+        "id": 359,
+        "quantidade": 5,
+        "preco": 608.7
+      },
+      {
+        "id": 595,
+        "quantidade": 2,
+        "preco": 792.71
+      },
+      {
+        "id": 384,
+        "quantidade": 5,
+        "preco": 613.52
+      },
+      {
+        "id": 906,
+        "quantidade": 5,
+        "preco": 34.38
+      },
+      {
+        "id": 146,
+        "quantidade": 1,
+        "preco": 205.96
+      }
+    ],
+    "total": 8074.38
+  },
+  {
+    "id": 293,
+    "clienteId": 102,
+    "produtos": [
+      {
+        "id": 349,
+        "quantidade": 3,
+        "preco": 786.65
+      },
+      {
+        "id": 784,
+        "quantidade": 2,
+        "preco": 182.96
+      },
+      {
+        "id": 450,
+        "quantidade": 5,
+        "preco": 50.89
+      }
+    ],
+    "total": 2980.32
+  },
+  {
+    "id": 294,
+    "clienteId": 285,
+    "produtos": [
+      {
+        "id": 464,
+        "quantidade": 5,
+        "preco": 976.95
+      },
+      {
+        "id": 350,
+        "quantidade": 3,
+        "preco": 20.64
+      },
+      {
+        "id": 648,
+        "quantidade": 5,
+        "preco": 132.33
+      }
+    ],
+    "total": 5608.32
+  },
+  {
+    "id": 295,
+    "clienteId": 329,
+    "produtos": [
+      {
+        "id": 517,
+        "quantidade": 4,
+        "preco": 900.53
+      },
+      {
+        "id": 706,
+        "quantidade": 4,
+        "preco": 168.27
+      },
+      {
+        "id": 155,
+        "quantidade": 1,
+        "preco": 252.12
+      },
+      {
+        "id": 5,
+        "quantidade": 3,
+        "preco": 629.8
+      },
+      {
+        "id": 250,
+        "quantidade": 5,
+        "preco": 888.67
+      }
+    ],
+    "total": 10860.07
+  },
+  {
+    "id": 296,
+    "clienteId": 462,
+    "produtos": [
+      {
+        "id": 171,
+        "quantidade": 5,
+        "preco": 99.11
+      }
+    ],
+    "total": 495.55
+  },
+  {
+    "id": 297,
+    "clienteId": 483,
+    "produtos": [
+      {
+        "id": 274,
+        "quantidade": 1,
+        "preco": 82.41
+      },
+      {
+        "id": 330,
+        "quantidade": 5,
+        "preco": 372.24
+      },
+      {
+        "id": 681,
+        "quantidade": 1,
+        "preco": 967.95
+      },
+      {
+        "id": 833,
+        "quantidade": 2,
+        "preco": 284.74
+      }
+    ],
+    "total": 3481.04
+  },
+  {
+    "id": 298,
+    "clienteId": 251,
+    "produtos": [
+      {
+        "id": 511,
+        "quantidade": 5,
+        "preco": 866.53
+      },
+      {
+        "id": 931,
+        "quantidade": 5,
+        "preco": 372.22
+      },
+      {
+        "id": 804,
+        "quantidade": 1,
+        "preco": 914.22
+      }
+    ],
+    "total": 7107.97
+  },
+  {
+    "id": 299,
+    "clienteId": 114,
+    "produtos": [
+      {
+        "id": 497,
+        "quantidade": 4,
+        "preco": 610.93
+      },
+      {
+        "id": 106,
+        "quantidade": 5,
+        "preco": 773.53
+      },
+      {
+        "id": 783,
+        "quantidade": 2,
+        "preco": 212.1
+      },
+      {
+        "id": 533,
+        "quantidade": 1,
+        "preco": 107.29
+      }
+    ],
+    "total": 6842.86
+  },
+  {
+    "id": 300,
+    "clienteId": 285,
+    "produtos": [
+      {
+        "id": 77,
+        "quantidade": 4,
+        "preco": 955.36
+      },
+      {
+        "id": 753,
+        "quantidade": 4,
+        "preco": 187.99
+      },
+      {
+        "id": 767,
+        "quantidade": 1,
+        "preco": 602.53
+      },
+      {
+        "id": 192,
+        "quantidade": 3,
+        "preco": 566.12
+      },
+      {
+        "id": 615,
+        "quantidade": 5,
+        "preco": 119.78
+      }
+    ],
+    "total": 7473.19
+  },
+  {
+    "id": 301,
+    "clienteId": 298,
+    "produtos": [
+      {
+        "id": 558,
+        "quantidade": 1,
+        "preco": 15.76
+      },
+      {
+        "id": 271,
+        "quantidade": 3,
+        "preco": 600.14
+      },
+      {
+        "id": 849,
+        "quantidade": 3,
+        "preco": 215.79
+      },
+      {
+        "id": 129,
+        "quantidade": 3,
+        "preco": 619.27
+      },
+      {
+        "id": 206,
+        "quantidade": 1,
+        "preco": 992.6
+      }
+    ],
+    "total": 5313.96
+  },
+  {
+    "id": 302,
+    "clienteId": 244,
+    "produtos": [
+      {
+        "id": 349,
+        "quantidade": 3,
+        "preco": 426.28
+      },
+      {
+        "id": 201,
+        "quantidade": 5,
+        "preco": 689.34
+      }
+    ],
+    "total": 4725.54
+  },
+  {
+    "id": 303,
+    "clienteId": 100,
+    "produtos": [
+      {
+        "id": 925,
+        "quantidade": 5,
+        "preco": 300.86
+      },
+      {
+        "id": 77,
+        "quantidade": 1,
+        "preco": 121.95
+      },
+      {
+        "id": 864,
+        "quantidade": 1,
+        "preco": 308.46
+      },
+      {
+        "id": 95,
+        "quantidade": 4,
+        "preco": 912.04
+      }
+    ],
+    "total": 5582.87
+  },
+  {
+    "id": 304,
+    "clienteId": 98,
+    "produtos": [
+      {
+        "id": 263,
+        "quantidade": 1,
+        "preco": 98.25
+      }
+    ],
+    "total": 98.25
+  },
+  {
+    "id": 305,
+    "clienteId": 394,
+    "produtos": [
+      {
+        "id": 539,
+        "quantidade": 2,
+        "preco": 228.24
+      },
+      {
+        "id": 442,
+        "quantidade": 4,
+        "preco": 924.6
+      }
+    ],
+    "total": 4154.88
+  },
+  {
+    "id": 306,
+    "clienteId": 141,
+    "produtos": [
+      {
+        "id": 338,
+        "quantidade": 3,
+        "preco": 513.15
+      },
+      {
+        "id": 96,
+        "quantidade": 1,
+        "preco": 223.2
+      },
+      {
+        "id": 618,
+        "quantidade": 2,
+        "preco": 345.23
+      }
+    ],
+    "total": 2453.11
+  },
+  {
+    "id": 307,
+    "clienteId": 160,
+    "produtos": [
+      {
+        "id": 505,
+        "quantidade": 2,
+        "preco": 746.18
+      },
+      {
+        "id": 116,
+        "quantidade": 4,
+        "preco": 904.4
+      },
+      {
+        "id": 873,
+        "quantidade": 4,
+        "preco": 748.08
+      },
+      {
+        "id": 71,
+        "quantidade": 1,
+        "preco": 178.31
+      },
+      {
+        "id": 464,
+        "quantidade": 1,
+        "preco": 592.45
+      }
+    ],
+    "total": 8873.04
+  },
+  {
+    "id": 308,
+    "clienteId": 301,
+    "produtos": [
+      {
+        "id": 929,
+        "quantidade": 3,
+        "preco": 150.26
+      },
+      {
+        "id": 851,
+        "quantidade": 4,
+        "preco": 769.1
+      }
+    ],
+    "total": 3527.18
+  },
+  {
+    "id": 309,
+    "clienteId": 134,
+    "produtos": [
+      {
+        "id": 639,
+        "quantidade": 5,
+        "preco": 616.57
+      },
+      {
+        "id": 183,
+        "quantidade": 5,
+        "preco": 521.1
+      }
+    ],
+    "total": 5688.35
+  },
+  {
+    "id": 310,
+    "clienteId": 320,
+    "produtos": [
+      {
+        "id": 399,
+        "quantidade": 1,
+        "preco": 597.13
+      },
+      {
+        "id": 68,
+        "quantidade": 5,
+        "preco": 197
+      },
+      {
+        "id": 6,
+        "quantidade": 1,
+        "preco": 878.66
+      },
+      {
+        "id": 921,
+        "quantidade": 2,
+        "preco": 317.18
+      },
+      {
+        "id": 36,
+        "quantidade": 1,
+        "preco": 928.47
+      }
+    ],
+    "total": 4023.62
+  },
+  {
+    "id": 311,
+    "clienteId": 21,
+    "produtos": [
+      {
+        "id": 902,
+        "quantidade": 2,
+        "preco": 148.09
+      },
+      {
+        "id": 640,
+        "quantidade": 2,
+        "preco": 800.86
+      },
+      {
+        "id": 458,
+        "quantidade": 3,
+        "preco": 518.87
+      },
+      {
+        "id": 563,
+        "quantidade": 3,
+        "preco": 204.87
+      },
+      {
+        "id": 744,
+        "quantidade": 5,
+        "preco": 955.77
+      }
+    ],
+    "total": 8847.97
+  },
+  {
+    "id": 312,
+    "clienteId": 137,
+    "produtos": [
+      {
+        "id": 102,
+        "quantidade": 1,
+        "preco": 977.63
+      },
+      {
+        "id": 405,
+        "quantidade": 4,
+        "preco": 401.02
+      },
+      {
+        "id": 846,
+        "quantidade": 3,
+        "preco": 527.04
+      }
+    ],
+    "total": 4162.83
+  },
+  {
+    "id": 313,
+    "clienteId": 283,
+    "produtos": [
+      {
+        "id": 443,
+        "quantidade": 4,
+        "preco": 291.79
+      },
+      {
+        "id": 971,
+        "quantidade": 4,
+        "preco": 411.25
+      }
+    ],
+    "total": 2812.16
+  },
+  {
+    "id": 314,
+    "clienteId": 399,
+    "produtos": [
+      {
+        "id": 437,
+        "quantidade": 2,
+        "preco": 513.84
+      }
+    ],
+    "total": 1027.68
+  },
+  {
+    "id": 315,
+    "clienteId": 202,
+    "produtos": [
+      {
+        "id": 248,
+        "quantidade": 2,
+        "preco": 250.68
+      },
+      {
+        "id": 185,
+        "quantidade": 5,
+        "preco": 442.78
+      },
+      {
+        "id": 254,
+        "quantidade": 4,
+        "preco": 536.7
+      }
+    ],
+    "total": 4862.06
+  },
+  {
+    "id": 316,
+    "clienteId": 229,
+    "produtos": [
+      {
+        "id": 576,
+        "quantidade": 5,
+        "preco": 475.93
+      }
+    ],
+    "total": 2379.65
+  },
+  {
+    "id": 317,
+    "clienteId": 433,
+    "produtos": [
+      {
+        "id": 746,
+        "quantidade": 1,
+        "preco": 14.31
+      },
+      {
+        "id": 595,
+        "quantidade": 5,
+        "preco": 892.61
+      },
+      {
+        "id": 347,
+        "quantidade": 1,
+        "preco": 221.99
+      },
+      {
+        "id": 339,
+        "quantidade": 2,
+        "preco": 252.04
+      }
+    ],
+    "total": 5203.43
+  },
+  {
+    "id": 318,
+    "clienteId": 367,
+    "produtos": [
+      {
+        "id": 295,
+        "quantidade": 1,
+        "preco": 625.38
+      },
+      {
+        "id": 703,
+        "quantidade": 5,
+        "preco": 284.54
+      },
+      {
+        "id": 735,
+        "quantidade": 2,
+        "preco": 475.91
+      },
+      {
+        "id": 427,
+        "quantidade": 4,
+        "preco": 451.73
+      },
+      {
+        "id": 574,
+        "quantidade": 2,
+        "preco": 722.62
+      }
+    ],
+    "total": 6252.06
+  },
+  {
+    "id": 319,
+    "clienteId": 151,
+    "produtos": [
+      {
+        "id": 777,
+        "quantidade": 4,
+        "preco": 300.83
+      },
+      {
+        "id": 223,
+        "quantidade": 1,
+        "preco": 824.3
+      },
+      {
+        "id": 749,
+        "quantidade": 2,
+        "preco": 459.06
+      },
+      {
+        "id": 758,
+        "quantidade": 3,
+        "preco": 45.37
+      }
+    ],
+    "total": 3081.85
+  },
+  {
+    "id": 320,
+    "clienteId": 197,
+    "produtos": [
+      {
+        "id": 221,
+        "quantidade": 2,
+        "preco": 127.23
+      },
+      {
+        "id": 47,
+        "quantidade": 4,
+        "preco": 41.87
+      },
+      {
+        "id": 642,
+        "quantidade": 4,
+        "preco": 157.54
+      },
+      {
+        "id": 25,
+        "quantidade": 5,
+        "preco": 510.73
+      },
+      {
+        "id": 838,
+        "quantidade": 1,
+        "preco": 145.73
+      }
+    ],
+    "total": 3751.48
+  },
+  {
+    "id": 321,
+    "clienteId": 171,
+    "produtos": [
+      {
+        "id": 588,
+        "quantidade": 4,
+        "preco": 127.53
+      },
+      {
+        "id": 756,
+        "quantidade": 4,
+        "preco": 535.38
+      },
+      {
+        "id": 996,
+        "quantidade": 3,
+        "preco": 473.91
+      },
+      {
+        "id": 562,
+        "quantidade": 2,
+        "preco": 965.65
+      }
+    ],
+    "total": 6004.67
+  },
+  {
+    "id": 322,
+    "clienteId": 398,
+    "produtos": [
+      {
+        "id": 158,
+        "quantidade": 4,
+        "preco": 776.14
+      },
+      {
+        "id": 242,
+        "quantidade": 4,
+        "preco": 313.77
+      },
+      {
+        "id": 357,
+        "quantidade": 3,
+        "preco": 973.37
+      }
+    ],
+    "total": 7279.75
+  },
+  {
+    "id": 323,
+    "clienteId": 217,
+    "produtos": [
+      {
+        "id": 591,
+        "quantidade": 2,
+        "preco": 228.21
+      },
+      {
+        "id": 269,
+        "quantidade": 4,
+        "preco": 240.87
+      }
+    ],
+    "total": 1419.9
+  },
+  {
+    "id": 324,
+    "clienteId": 294,
+    "produtos": [
+      {
+        "id": 951,
+        "quantidade": 3,
+        "preco": 70.93
+      },
+      {
+        "id": 323,
+        "quantidade": 1,
+        "preco": 211.4
+      },
+      {
+        "id": 976,
+        "quantidade": 2,
+        "preco": 298.97
+      },
+      {
+        "id": 300,
+        "quantidade": 3,
+        "preco": 130.95
+      },
+      {
+        "id": 393,
+        "quantidade": 2,
+        "preco": 952.59
+      }
+    ],
+    "total": 3320.16
+  },
+  {
+    "id": 325,
+    "clienteId": 19,
+    "produtos": [
+      {
+        "id": 91,
+        "quantidade": 2,
+        "preco": 66.8
+      },
+      {
+        "id": 792,
+        "quantidade": 5,
+        "preco": 501.62
+      }
+    ],
+    "total": 2641.7
+  },
+  {
+    "id": 326,
+    "clienteId": 474,
+    "produtos": [
+      {
+        "id": 588,
+        "quantidade": 4,
+        "preco": 721.31
+      },
+      {
+        "id": 847,
+        "quantidade": 3,
+        "preco": 995.81
+      },
+      {
+        "id": 604,
+        "quantidade": 2,
+        "preco": 127.33
+      },
+      {
+        "id": 563,
+        "quantidade": 5,
+        "preco": 792.34
+      }
+    ],
+    "total": 10089.03
+  },
+  {
+    "id": 327,
+    "clienteId": 472,
+    "produtos": [
+      {
+        "id": 412,
+        "quantidade": 4,
+        "preco": 323.78
+      },
+      {
+        "id": 827,
+        "quantidade": 2,
+        "preco": 959.99
+      },
+      {
+        "id": 260,
+        "quantidade": 2,
+        "preco": 522.97
+      },
+      {
+        "id": 511,
+        "quantidade": 1,
+        "preco": 56.24
+      },
+      {
+        "id": 595,
+        "quantidade": 5,
+        "preco": 800.89
+      }
+    ],
+    "total": 8321.73
+  },
+  {
+    "id": 328,
+    "clienteId": 307,
+    "produtos": [
+      {
+        "id": 605,
+        "quantidade": 4,
+        "preco": 105.26
+      }
+    ],
+    "total": 421.04
+  },
+  {
+    "id": 329,
+    "clienteId": 283,
+    "produtos": [
+      {
+        "id": 3,
+        "quantidade": 4,
+        "preco": 52.35
+      },
+      {
+        "id": 872,
+        "quantidade": 5,
+        "preco": 210.74
+      },
+      {
+        "id": 866,
+        "quantidade": 4,
+        "preco": 777.34
+      }
+    ],
+    "total": 4372.46
+  },
+  {
+    "id": 330,
+    "clienteId": 34,
+    "produtos": [
+      {
+        "id": 229,
+        "quantidade": 2,
+        "preco": 760.59
+      },
+      {
+        "id": 712,
+        "quantidade": 3,
+        "preco": 775
+      }
+    ],
+    "total": 3846.18
+  },
+  {
+    "id": 331,
+    "clienteId": 256,
+    "produtos": [
+      {
+        "id": 234,
+        "quantidade": 2,
+        "preco": 267.71
+      },
+      {
+        "id": 549,
+        "quantidade": 5,
+        "preco": 483.49
+      }
+    ],
+    "total": 2952.87
+  },
+  {
+    "id": 332,
+    "clienteId": 451,
+    "produtos": [
+      {
+        "id": 303,
+        "quantidade": 4,
+        "preco": 457.09
+      },
+      {
+        "id": 28,
+        "quantidade": 4,
+        "preco": 951.08
+      },
+      {
+        "id": 390,
+        "quantidade": 4,
+        "preco": 106.88
+      },
+      {
+        "id": 204,
+        "quantidade": 4,
+        "preco": 787.17
+      },
+      {
+        "id": 822,
+        "quantidade": 1,
+        "preco": 885.21
+      }
+    ],
+    "total": 10094.09
+  },
+  {
+    "id": 333,
+    "clienteId": 340,
+    "produtos": [
+      {
+        "id": 892,
+        "quantidade": 1,
+        "preco": 857.1
+      },
+      {
+        "id": 595,
+        "quantidade": 1,
+        "preco": 749.82
+      }
+    ],
+    "total": 1606.92
+  },
+  {
+    "id": 334,
+    "clienteId": 395,
+    "produtos": [
+      {
+        "id": 210,
+        "quantidade": 2,
+        "preco": 651.4
+      },
+      {
+        "id": 288,
+        "quantidade": 3,
+        "preco": 257.41
+      },
+      {
+        "id": 145,
+        "quantidade": 1,
+        "preco": 431.57
+      },
+      {
+        "id": 483,
+        "quantidade": 2,
+        "preco": 970.63
+      },
+      {
+        "id": 582,
+        "quantidade": 5,
+        "preco": 845.92
+      }
+    ],
+    "total": 8677.46
+  },
+  {
+    "id": 335,
+    "clienteId": 344,
+    "produtos": [
+      {
+        "id": 430,
+        "quantidade": 4,
+        "preco": 196.91
+      },
+      {
+        "id": 377,
+        "quantidade": 5,
+        "preco": 640.2
+      },
+      {
+        "id": 784,
+        "quantidade": 5,
+        "preco": 450.48
+      },
+      {
+        "id": 350,
+        "quantidade": 2,
+        "preco": 283.46
+      },
+      {
+        "id": 128,
+        "quantidade": 1,
+        "preco": 276.18
+      }
+    ],
+    "total": 7084.14
+  },
+  {
+    "id": 336,
+    "clienteId": 358,
+    "produtos": [
+      {
+        "id": 891,
+        "quantidade": 5,
+        "preco": 422.17
+      },
+      {
+        "id": 568,
+        "quantidade": 4,
+        "preco": 45.21
+      },
+      {
+        "id": 171,
+        "quantidade": 3,
+        "preco": 879.85
+      },
+      {
+        "id": 702,
+        "quantidade": 1,
+        "preco": 64.12
+      }
+    ],
+    "total": 4995.36
+  },
+  {
+    "id": 337,
+    "clienteId": 458,
+    "produtos": [
+      {
+        "id": 194,
+        "quantidade": 2,
+        "preco": 605.02
+      }
+    ],
+    "total": 1210.04
+  },
+  {
+    "id": 338,
+    "clienteId": 256,
+    "produtos": [
+      {
+        "id": 551,
+        "quantidade": 2,
+        "preco": 888.53
+      }
+    ],
+    "total": 1777.06
+  },
+  {
+    "id": 339,
+    "clienteId": 162,
+    "produtos": [
+      {
+        "id": 376,
+        "quantidade": 5,
+        "preco": 584.93
+      }
+    ],
+    "total": 2924.65
+  },
+  {
+    "id": 340,
+    "clienteId": 497,
+    "produtos": [
+      {
+        "id": 216,
+        "quantidade": 2,
+        "preco": 192.01
+      },
+      {
+        "id": 322,
+        "quantidade": 2,
+        "preco": 315.94
+      },
+      {
+        "id": 311,
+        "quantidade": 3,
+        "preco": 672.91
+      },
+      {
+        "id": 498,
+        "quantidade": 4,
+        "preco": 633.04
+      },
+      {
+        "id": 575,
+        "quantidade": 4,
+        "preco": 332.44
+      }
+    ],
+    "total": 6896.55
+  },
+  {
+    "id": 341,
+    "clienteId": 95,
+    "produtos": [
+      {
+        "id": 433,
+        "quantidade": 4,
+        "preco": 170.26
+      },
+      {
+        "id": 511,
+        "quantidade": 3,
+        "preco": 538.85
+      },
+      {
+        "id": 754,
+        "quantidade": 2,
+        "preco": 416.29
+      }
+    ],
+    "total": 3130.17
+  },
+  {
+    "id": 342,
+    "clienteId": 500,
+    "produtos": [
+      {
+        "id": 950,
+        "quantidade": 3,
+        "preco": 171.54
+      },
+      {
+        "id": 912,
+        "quantidade": 2,
+        "preco": 779.88
+      },
+      {
+        "id": 120,
+        "quantidade": 1,
+        "preco": 364
+      },
+      {
+        "id": 3,
+        "quantidade": 4,
+        "preco": 90.17
+      }
+    ],
+    "total": 2799.06
+  },
+  {
+    "id": 343,
+    "clienteId": 480,
+    "produtos": [
+      {
+        "id": 509,
+        "quantidade": 1,
+        "preco": 890.42
+      },
+      {
+        "id": 469,
+        "quantidade": 4,
+        "preco": 328.35
+      },
+      {
+        "id": 142,
+        "quantidade": 3,
+        "preco": 806.16
+      },
+      {
+        "id": 901,
+        "quantidade": 2,
+        "preco": 547.9
+      }
+    ],
+    "total": 5718.1
+  },
+  {
+    "id": 344,
+    "clienteId": 465,
+    "produtos": [
+      {
+        "id": 323,
+        "quantidade": 4,
+        "preco": 922.02
+      }
+    ],
+    "total": 3688.08
+  },
+  {
+    "id": 345,
+    "clienteId": 316,
+    "produtos": [
+      {
+        "id": 326,
+        "quantidade": 5,
+        "preco": 958.5
+      },
+      {
+        "id": 368,
+        "quantidade": 1,
+        "preco": 605.89
+      },
+      {
+        "id": 531,
+        "quantidade": 4,
+        "preco": 814.9
+      },
+      {
+        "id": 723,
+        "quantidade": 2,
+        "preco": 961.28
+      },
+      {
+        "id": 146,
+        "quantidade": 2,
+        "preco": 857.42
+      }
+    ],
+    "total": 12295.39
+  },
+  {
+    "id": 346,
+    "clienteId": 215,
+    "produtos": [
+      {
+        "id": 763,
+        "quantidade": 2,
+        "preco": 643.5
+      },
+      {
+        "id": 228,
+        "quantidade": 3,
+        "preco": 592.12
+      }
+    ],
+    "total": 3063.36
+  },
+  {
+    "id": 347,
+    "clienteId": 484,
+    "produtos": [
+      {
+        "id": 736,
+        "quantidade": 4,
+        "preco": 400.91
+      },
+      {
+        "id": 943,
+        "quantidade": 4,
+        "preco": 892.92
+      }
+    ],
+    "total": 5175.32
+  },
+  {
+    "id": 348,
+    "clienteId": 257,
+    "produtos": [
+      {
+        "id": 580,
+        "quantidade": 5,
+        "preco": 849.09
+      },
+      {
+        "id": 597,
+        "quantidade": 2,
+        "preco": 54.99
+      }
+    ],
+    "total": 4355.43
+  },
+  {
+    "id": 349,
+    "clienteId": 41,
+    "produtos": [
+      {
+        "id": 814,
+        "quantidade": 5,
+        "preco": 479.2
+      }
+    ],
+    "total": 2396
+  },
+  {
+    "id": 350,
+    "clienteId": 287,
+    "produtos": [
+      {
+        "id": 859,
+        "quantidade": 4,
+        "preco": 617.36
+      },
+      {
+        "id": 660,
+        "quantidade": 3,
+        "preco": 91.02
+      },
+      {
+        "id": 815,
+        "quantidade": 3,
+        "preco": 222.33
+      }
+    ],
+    "total": 3409.49
+  },
+  {
+    "id": 351,
+    "clienteId": 190,
+    "produtos": [
+      {
+        "id": 411,
+        "quantidade": 2,
+        "preco": 418.55
+      },
+      {
+        "id": 249,
+        "quantidade": 3,
+        "preco": 22.51
+      },
+      {
+        "id": 852,
+        "quantidade": 4,
+        "preco": 139.07
+      },
+      {
+        "id": 329,
+        "quantidade": 3,
+        "preco": 61.63
+      },
+      {
+        "id": 696,
+        "quantidade": 5,
+        "preco": 218.11
+      }
+    ],
+    "total": 2736.35
+  },
+  {
+    "id": 352,
+    "clienteId": 353,
+    "produtos": [
+      {
+        "id": 239,
+        "quantidade": 4,
+        "preco": 135.95
+      },
+      {
+        "id": 62,
+        "quantidade": 3,
+        "preco": 523.54
+      },
+      {
+        "id": 781,
+        "quantidade": 1,
+        "preco": 71.23
+      }
+    ],
+    "total": 2185.65
+  },
+  {
+    "id": 353,
+    "clienteId": 349,
+    "produtos": [
+      {
+        "id": 280,
+        "quantidade": 4,
+        "preco": 754.95
+      },
+      {
+        "id": 148,
+        "quantidade": 4,
+        "preco": 341.74
+      }
+    ],
+    "total": 4386.76
+  },
+  {
+    "id": 354,
+    "clienteId": 346,
+    "produtos": [
+      {
+        "id": 876,
+        "quantidade": 4,
+        "preco": 663.43
+      },
+      {
+        "id": 526,
+        "quantidade": 1,
+        "preco": 559.21
+      },
+      {
+        "id": 226,
+        "quantidade": 2,
+        "preco": 360.78
+      },
+      {
+        "id": 361,
+        "quantidade": 3,
+        "preco": 171.52
+      },
+      {
+        "id": 565,
+        "quantidade": 3,
+        "preco": 568.26
+      }
+    ],
+    "total": 6153.83
+  },
+  {
+    "id": 355,
+    "clienteId": 435,
+    "produtos": [
+      {
+        "id": 170,
+        "quantidade": 2,
+        "preco": 514.92
+      }
+    ],
+    "total": 1029.84
+  },
+  {
+    "id": 356,
+    "clienteId": 209,
+    "produtos": [
+      {
+        "id": 614,
+        "quantidade": 4,
+        "preco": 271.78
+      },
+      {
+        "id": 61,
+        "quantidade": 1,
+        "preco": 89.57
+      },
+      {
+        "id": 248,
+        "quantidade": 2,
+        "preco": 309.32
+      },
+      {
+        "id": 398,
+        "quantidade": 4,
+        "preco": 985.78
+      },
+      {
+        "id": 201,
+        "quantidade": 2,
+        "preco": 30.03
+      }
+    ],
+    "total": 5798.51
+  },
+  {
+    "id": 357,
+    "clienteId": 455,
+    "produtos": [
+      {
+        "id": 389,
+        "quantidade": 3,
+        "preco": 95.7
+      },
+      {
+        "id": 216,
+        "quantidade": 1,
+        "preco": 84.64
+      },
+      {
+        "id": 977,
+        "quantidade": 4,
+        "preco": 162.24
+      },
+      {
+        "id": 272,
+        "quantidade": 3,
+        "preco": 366.75
+      }
+    ],
+    "total": 2120.95
+  },
+  {
+    "id": 358,
+    "clienteId": 397,
+    "produtos": [
+      {
+        "id": 212,
+        "quantidade": 2,
+        "preco": 491.2
+      },
+      {
+        "id": 668,
+        "quantidade": 5,
+        "preco": 611.13
+      },
+      {
+        "id": 211,
+        "quantidade": 5,
+        "preco": 55.26
+      },
+      {
+        "id": 825,
+        "quantidade": 1,
+        "preco": 962.24
+      },
+      {
+        "id": 170,
+        "quantidade": 2,
+        "preco": 108.33
+      }
+    ],
+    "total": 5493.25
+  },
+  {
+    "id": 359,
+    "clienteId": 154,
+    "produtos": [
+      {
+        "id": 647,
+        "quantidade": 2,
+        "preco": 706.92
+      },
+      {
+        "id": 442,
+        "quantidade": 3,
+        "preco": 184.2
+      },
+      {
+        "id": 809,
+        "quantidade": 5,
+        "preco": 379.37
+      }
+    ],
+    "total": 3863.29
+  },
+  {
+    "id": 360,
+    "clienteId": 434,
+    "produtos": [
+      {
+        "id": 518,
+        "quantidade": 2,
+        "preco": 999.55
+      },
+      {
+        "id": 387,
+        "quantidade": 3,
+        "preco": 637.55
+      },
+      {
+        "id": 428,
+        "quantidade": 2,
+        "preco": 343.68
+      },
+      {
+        "id": 3,
+        "quantidade": 1,
+        "preco": 363.2
+      },
+      {
+        "id": 426,
+        "quantidade": 5,
+        "preco": 850.22
+      }
+    ],
+    "total": 9213.41
+  },
+  {
+    "id": 361,
+    "clienteId": 148,
+    "produtos": [
+      {
+        "id": 926,
+        "quantidade": 3,
+        "preco": 657.9
+      },
+      {
+        "id": 654,
+        "quantidade": 2,
+        "preco": 480.37
+      },
+      {
+        "id": 747,
+        "quantidade": 5,
+        "preco": 459.17
+      },
+      {
+        "id": 391,
+        "quantidade": 5,
+        "preco": 142.03
+      },
+      {
+        "id": 608,
+        "quantidade": 5,
+        "preco": 695.03
+      }
+    ],
+    "total": 9415.59
+  },
+  {
+    "id": 362,
+    "clienteId": 218,
+    "produtos": [
+      {
+        "id": 856,
+        "quantidade": 4,
+        "preco": 327.63
+      },
+      {
+        "id": 964,
+        "quantidade": 5,
+        "preco": 200.03
+      },
+      {
+        "id": 301,
+        "quantidade": 5,
+        "preco": 75.1
+      },
+      {
+        "id": 966,
+        "quantidade": 2,
+        "preco": 983.16
+      }
+    ],
+    "total": 4652.49
+  },
+  {
+    "id": 363,
+    "clienteId": 413,
+    "produtos": [
+      {
+        "id": 643,
+        "quantidade": 1,
+        "preco": 46.85
+      },
+      {
+        "id": 793,
+        "quantidade": 1,
+        "preco": 319.01
+      }
+    ],
+    "total": 365.86
+  },
+  {
+    "id": 364,
+    "clienteId": 153,
+    "produtos": [
+      {
+        "id": 392,
+        "quantidade": 1,
+        "preco": 899.01
+      },
+      {
+        "id": 642,
+        "quantidade": 5,
+        "preco": 629.7
+      },
+      {
+        "id": 881,
+        "quantidade": 4,
+        "preco": 622.26
+      }
+    ],
+    "total": 6536.55
+  },
+  {
+    "id": 365,
+    "clienteId": 397,
+    "produtos": [
+      {
+        "id": 202,
+        "quantidade": 4,
+        "preco": 887.97
+      },
+      {
+        "id": 874,
+        "quantidade": 5,
+        "preco": 335.91
+      },
+      {
+        "id": 293,
+        "quantidade": 2,
+        "preco": 944.82
+      },
+      {
+        "id": 924,
+        "quantidade": 2,
+        "preco": 433.71
+      },
+      {
+        "id": 560,
+        "quantidade": 5,
+        "preco": 387.87
+      }
+    ],
+    "total": 9927.84
+  },
+  {
+    "id": 366,
+    "clienteId": 113,
+    "produtos": [
+      {
+        "id": 897,
+        "quantidade": 4,
+        "preco": 28.55
+      }
+    ],
+    "total": 114.2
+  },
+  {
+    "id": 367,
+    "clienteId": 313,
+    "produtos": [
+      {
+        "id": 909,
+        "quantidade": 4,
+        "preco": 225.1
+      },
+      {
+        "id": 680,
+        "quantidade": 3,
+        "preco": 910.03
+      }
+    ],
+    "total": 3630.49
+  },
+  {
+    "id": 368,
+    "clienteId": 423,
+    "produtos": [
+      {
+        "id": 372,
+        "quantidade": 5,
+        "preco": 49.16
+      },
+      {
+        "id": 994,
+        "quantidade": 4,
+        "preco": 110.98
+      }
+    ],
+    "total": 689.72
+  },
+  {
+    "id": 369,
+    "clienteId": 170,
+    "produtos": [
+      {
+        "id": 327,
+        "quantidade": 5,
+        "preco": 822.83
+      },
+      {
+        "id": 878,
+        "quantidade": 1,
+        "preco": 895.12
+      },
+      {
+        "id": 351,
+        "quantidade": 5,
+        "preco": 92.79
+      }
+    ],
+    "total": 5473.22
+  },
+  {
+    "id": 370,
+    "clienteId": 385,
+    "produtos": [
+      {
+        "id": 141,
+        "quantidade": 1,
+        "preco": 713.47
+      },
+      {
+        "id": 332,
+        "quantidade": 3,
+        "preco": 974.7
+      },
+      {
+        "id": 85,
+        "quantidade": 5,
+        "preco": 121.82
+      },
+      {
+        "id": 433,
+        "quantidade": 4,
+        "preco": 483.71
+      },
+      {
+        "id": 810,
+        "quantidade": 1,
+        "preco": 104.33
+      }
+    ],
+    "total": 6285.84
+  },
+  {
+    "id": 371,
+    "clienteId": 170,
+    "produtos": [
+      {
+        "id": 1000,
+        "quantidade": 4,
+        "preco": 350.45
+      },
+      {
+        "id": 612,
+        "quantidade": 1,
+        "preco": 698.07
+      },
+      {
+        "id": 869,
+        "quantidade": 4,
+        "preco": 362.3
+      },
+      {
+        "id": 820,
+        "quantidade": 3,
+        "preco": 358.2
+      },
+      {
+        "id": 666,
+        "quantidade": 2,
+        "preco": 45.09
+      }
+    ],
+    "total": 4713.85
+  },
+  {
+    "id": 372,
+    "clienteId": 465,
+    "produtos": [
+      {
+        "id": 356,
+        "quantidade": 2,
+        "preco": 598.8
+      },
+      {
+        "id": 634,
+        "quantidade": 2,
+        "preco": 560.93
+      },
+      {
+        "id": 195,
+        "quantidade": 4,
+        "preco": 744.44
+      },
+      {
+        "id": 240,
+        "quantidade": 2,
+        "preco": 133.16
+      }
+    ],
+    "total": 5563.54
+  },
+  {
+    "id": 373,
+    "clienteId": 294,
+    "produtos": [
+      {
+        "id": 7,
+        "quantidade": 1,
+        "preco": 374.61
+      },
+      {
+        "id": 276,
+        "quantidade": 2,
+        "preco": 975.13
+      }
+    ],
+    "total": 2324.87
+  },
+  {
+    "id": 374,
+    "clienteId": 110,
+    "produtos": [
+      {
+        "id": 562,
+        "quantidade": 4,
+        "preco": 88.32
+      },
+      {
+        "id": 15,
+        "quantidade": 5,
+        "preco": 385.52
+      },
+      {
+        "id": 237,
+        "quantidade": 3,
+        "preco": 915.31
+      }
+    ],
+    "total": 5026.81
+  },
+  {
+    "id": 375,
+    "clienteId": 347,
+    "produtos": [
+      {
+        "id": 267,
+        "quantidade": 4,
+        "preco": 631.22
+      },
+      {
+        "id": 874,
+        "quantidade": 1,
+        "preco": 138.95
+      },
+      {
+        "id": 551,
+        "quantidade": 2,
+        "preco": 742.9
+      },
+      {
+        "id": 791,
+        "quantidade": 3,
+        "preco": 928.63
+      }
+    ],
+    "total": 6935.52
+  },
+  {
+    "id": 376,
+    "clienteId": 122,
+    "produtos": [
+      {
+        "id": 835,
+        "quantidade": 1,
+        "preco": 548.79
+      },
+      {
+        "id": 999,
+        "quantidade": 2,
+        "preco": 954.82
+      }
+    ],
+    "total": 2458.43
+  },
+  {
+    "id": 377,
+    "clienteId": 1,
+    "produtos": [
+      {
+        "id": 998,
+        "quantidade": 5,
+        "preco": 980.25
+      },
+      {
+        "id": 631,
+        "quantidade": 5,
+        "preco": 851.6
+      },
+      {
+        "id": 584,
+        "quantidade": 5,
+        "preco": 753.26
+      },
+      {
+        "id": 961,
+        "quantidade": 4,
+        "preco": 280.32
+      },
+      {
+        "id": 229,
+        "quantidade": 1,
+        "preco": 557.06
+      }
+    ],
+    "total": 14603.89
+  },
+  {
+    "id": 378,
+    "clienteId": 363,
+    "produtos": [
+      {
+        "id": 589,
+        "quantidade": 1,
+        "preco": 709.77
+      },
+      {
+        "id": 223,
+        "quantidade": 2,
+        "preco": 838.68
+      },
+      {
+        "id": 468,
+        "quantidade": 1,
+        "preco": 257.04
+      }
+    ],
+    "total": 2644.17
+  },
+  {
+    "id": 379,
+    "clienteId": 429,
+    "produtos": [
+      {
+        "id": 372,
+        "quantidade": 1,
+        "preco": 796.51
+      },
+      {
+        "id": 382,
+        "quantidade": 5,
+        "preco": 447.13
+      },
+      {
+        "id": 445,
+        "quantidade": 3,
+        "preco": 618.94
+      },
+      {
+        "id": 662,
+        "quantidade": 3,
+        "preco": 103.49
+      },
+      {
+        "id": 74,
+        "quantidade": 4,
+        "preco": 671.34
+      }
+    ],
+    "total": 7884.81
+  },
+  {
+    "id": 380,
+    "clienteId": 21,
+    "produtos": [
+      {
+        "id": 488,
+        "quantidade": 1,
+        "preco": 129.71
+      },
+      {
+        "id": 501,
+        "quantidade": 4,
+        "preco": 490.68
+      },
+      {
+        "id": 535,
+        "quantidade": 1,
+        "preco": 927.82
+      }
+    ],
+    "total": 3020.25
+  },
+  {
+    "id": 381,
+    "clienteId": 435,
+    "produtos": [
+      {
+        "id": 819,
+        "quantidade": 4,
+        "preco": 43.02
+      },
+      {
+        "id": 706,
+        "quantidade": 5,
+        "preco": 970.77
+      },
+      {
+        "id": 71,
+        "quantidade": 1,
+        "preco": 581.52
+      }
+    ],
+    "total": 5607.45
+  },
+  {
+    "id": 382,
+    "clienteId": 469,
+    "produtos": [
+      {
+        "id": 426,
+        "quantidade": 5,
+        "preco": 749.22
+      },
+      {
+        "id": 11,
+        "quantidade": 1,
+        "preco": 226.29
+      }
+    ],
+    "total": 3972.39
+  },
+  {
+    "id": 383,
+    "clienteId": 498,
+    "produtos": [
+      {
+        "id": 795,
+        "quantidade": 3,
+        "preco": 341.33
+      },
+      {
+        "id": 856,
+        "quantidade": 4,
+        "preco": 320.59
+      },
+      {
+        "id": 46,
+        "quantidade": 2,
+        "preco": 749.56
+      },
+      {
+        "id": 218,
+        "quantidade": 1,
+        "preco": 328.4
+      }
+    ],
+    "total": 4133.87
+  },
+  {
+    "id": 384,
+    "clienteId": 32,
+    "produtos": [
+      {
+        "id": 612,
+        "quantidade": 1,
+        "preco": 158.58
+      },
+      {
+        "id": 467,
+        "quantidade": 5,
+        "preco": 569.07
+      },
+      {
+        "id": 149,
+        "quantidade": 2,
+        "preco": 945.39
+      },
+      {
+        "id": 929,
+        "quantidade": 1,
+        "preco": 597.72
+      }
+    ],
+    "total": 5492.43
+  },
+  {
+    "id": 385,
+    "clienteId": 81,
+    "produtos": [
+      {
+        "id": 761,
+        "quantidade": 5,
+        "preco": 178.53
+      },
+      {
+        "id": 605,
+        "quantidade": 5,
+        "preco": 709.02
+      }
+    ],
+    "total": 4437.75
+  },
+  {
+    "id": 386,
+    "clienteId": 343,
+    "produtos": [
+      {
+        "id": 942,
+        "quantidade": 2,
+        "preco": 347.67
+      },
+      {
+        "id": 228,
+        "quantidade": 2,
+        "preco": 411.7
+      }
+    ],
+    "total": 1518.74
+  },
+  {
+    "id": 387,
+    "clienteId": 456,
+    "produtos": [
+      {
+        "id": 962,
+        "quantidade": 4,
+        "preco": 301.29
+      },
+      {
+        "id": 800,
+        "quantidade": 2,
+        "preco": 114.33
+      }
+    ],
+    "total": 1433.82
+  },
+  {
+    "id": 388,
+    "clienteId": 155,
+    "produtos": [
+      {
+        "id": 101,
+        "quantidade": 1,
+        "preco": 272.25
+      }
+    ],
+    "total": 272.25
+  },
+  {
+    "id": 389,
+    "clienteId": 317,
+    "produtos": [
+      {
+        "id": 949,
+        "quantidade": 5,
+        "preco": 194.65
+      },
+      {
+        "id": 385,
+        "quantidade": 4,
+        "preco": 818.76
+      },
+      {
+        "id": 31,
+        "quantidade": 1,
+        "preco": 373.45
+      }
+    ],
+    "total": 4621.74
+  },
+  {
+    "id": 390,
+    "clienteId": 335,
+    "produtos": [
+      {
+        "id": 531,
+        "quantidade": 5,
+        "preco": 216.52
+      },
+      {
+        "id": 38,
+        "quantidade": 2,
+        "preco": 936.45
+      },
+      {
+        "id": 518,
+        "quantidade": 2,
+        "preco": 247.56
+      }
+    ],
+    "total": 3450.62
+  },
+  {
+    "id": 391,
+    "clienteId": 7,
+    "produtos": [
+      {
+        "id": 158,
+        "quantidade": 3,
+        "preco": 374.59
+      },
+      {
+        "id": 887,
+        "quantidade": 3,
+        "preco": 221.28
+      }
+    ],
+    "total": 1787.61
+  },
+  {
+    "id": 392,
+    "clienteId": 427,
+    "produtos": [
+      {
+        "id": 926,
+        "quantidade": 1,
+        "preco": 293.27
+      },
+      {
+        "id": 434,
+        "quantidade": 2,
+        "preco": 18.49
+      },
+      {
+        "id": 928,
+        "quantidade": 2,
+        "preco": 183.61
+      }
+    ],
+    "total": 697.47
+  },
+  {
+    "id": 393,
+    "clienteId": 296,
+    "produtos": [
+      {
+        "id": 834,
+        "quantidade": 2,
+        "preco": 384.92
+      },
+      {
+        "id": 325,
+        "quantidade": 1,
+        "preco": 793.26
+      },
+      {
+        "id": 885,
+        "quantidade": 3,
+        "preco": 684.41
+      },
+      {
+        "id": 326,
+        "quantidade": 3,
+        "preco": 42.75
+      },
+      {
+        "id": 107,
+        "quantidade": 2,
+        "preco": 404.19
+      }
+    ],
+    "total": 4552.96
+  },
+  {
+    "id": 394,
+    "clienteId": 143,
+    "produtos": [
+      {
+        "id": 263,
+        "quantidade": 1,
+        "preco": 492.4
+      }
+    ],
+    "total": 492.4
+  },
+  {
+    "id": 395,
+    "clienteId": 145,
+    "produtos": [
+      {
+        "id": 25,
+        "quantidade": 4,
+        "preco": 287.11
+      },
+      {
+        "id": 565,
+        "quantidade": 2,
+        "preco": 931.33
+      },
+      {
+        "id": 56,
+        "quantidade": 1,
+        "preco": 686.89
+      },
+      {
+        "id": 808,
+        "quantidade": 1,
+        "preco": 25.83
+      }
+    ],
+    "total": 3723.82
+  },
+  {
+    "id": 396,
+    "clienteId": 473,
+    "produtos": [
+      {
+        "id": 166,
+        "quantidade": 3,
+        "preco": 823.44
+      },
+      {
+        "id": 332,
+        "quantidade": 3,
+        "preco": 702.04
+      },
+      {
+        "id": 15,
+        "quantidade": 4,
+        "preco": 638.18
+      },
+      {
+        "id": 504,
+        "quantidade": 5,
+        "preco": 501.85
+      },
+      {
+        "id": 286,
+        "quantidade": 5,
+        "preco": 97.43
+      }
+    ],
+    "total": 10125.56
+  },
+  {
+    "id": 397,
+    "clienteId": 421,
+    "produtos": [
+      {
+        "id": 456,
+        "quantidade": 2,
+        "preco": 739.7
+      },
+      {
+        "id": 868,
+        "quantidade": 1,
+        "preco": 825.79
+      },
+      {
+        "id": 204,
+        "quantidade": 3,
+        "preco": 879.81
+      }
+    ],
+    "total": 4944.62
+  },
+  {
+    "id": 398,
+    "clienteId": 454,
+    "produtos": [
+      {
+        "id": 371,
+        "quantidade": 1,
+        "preco": 221.94
+      },
+      {
+        "id": 529,
+        "quantidade": 5,
+        "preco": 844.95
+      }
+    ],
+    "total": 4446.69
+  },
+  {
+    "id": 399,
+    "clienteId": 113,
+    "produtos": [
+      {
+        "id": 559,
+        "quantidade": 4,
+        "preco": 576.52
+      },
+      {
+        "id": 608,
+        "quantidade": 5,
+        "preco": 489.38
+      },
+      {
+        "id": 958,
+        "quantidade": 3,
+        "preco": 877.67
+      },
+      {
+        "id": 363,
+        "quantidade": 3,
+        "preco": 180.43
+      }
+    ],
+    "total": 7927.28
+  },
+  {
+    "id": 400,
+    "clienteId": 460,
+    "produtos": [
+      {
+        "id": 344,
+        "quantidade": 5,
+        "preco": 841.89
+      },
+      {
+        "id": 717,
+        "quantidade": 4,
+        "preco": 255.7
+      },
+      {
+        "id": 857,
+        "quantidade": 4,
+        "preco": 237.88
+      },
+      {
+        "id": 338,
+        "quantidade": 3,
+        "preco": 238.84
+      }
+    ],
+    "total": 6900.29
+  },
+  {
+    "id": 401,
+    "clienteId": 500,
+    "produtos": [
+      {
+        "id": 518,
+        "quantidade": 2,
+        "preco": 347.7
+      },
+      {
+        "id": 168,
+        "quantidade": 3,
+        "preco": 764.58
+      }
+    ],
+    "total": 2989.14
+  },
+  {
+    "id": 402,
+    "clienteId": 368,
+    "produtos": [
+      {
+        "id": 184,
+        "quantidade": 4,
+        "preco": 229.35
+      }
+    ],
+    "total": 917.4
+  },
+  {
+    "id": 403,
+    "clienteId": 182,
+    "produtos": [
+      {
+        "id": 980,
+        "quantidade": 5,
+        "preco": 960.63
+      },
+      {
+        "id": 68,
+        "quantidade": 2,
+        "preco": 189.64
+      },
+      {
+        "id": 932,
+        "quantidade": 5,
+        "preco": 531.24
+      },
+      {
+        "id": 61,
+        "quantidade": 2,
+        "preco": 232.1
+      }
+    ],
+    "total": 8302.83
+  },
+  {
+    "id": 404,
+    "clienteId": 407,
+    "produtos": [
+      {
+        "id": 532,
+        "quantidade": 2,
+        "preco": 894.45
+      },
+      {
+        "id": 413,
+        "quantidade": 1,
+        "preco": 181.96
+      }
+    ],
+    "total": 1970.86
+  },
+  {
+    "id": 405,
+    "clienteId": 253,
+    "produtos": [
+      {
+        "id": 949,
+        "quantidade": 2,
+        "preco": 258.67
+      },
+      {
+        "id": 639,
+        "quantidade": 2,
+        "preco": 986.4
+      },
+      {
+        "id": 701,
+        "quantidade": 5,
+        "preco": 249.93
+      },
+      {
+        "id": 66,
+        "quantidade": 4,
+        "preco": 628.43
+      }
+    ],
+    "total": 6253.51
+  },
+  {
+    "id": 406,
+    "clienteId": 252,
+    "produtos": [
+      {
+        "id": 612,
+        "quantidade": 5,
+        "preco": 200.79
+      }
+    ],
+    "total": 1003.95
+  },
+  {
+    "id": 407,
+    "clienteId": 398,
+    "produtos": [
+      {
+        "id": 942,
+        "quantidade": 5,
+        "preco": 406.97
+      },
+      {
+        "id": 850,
+        "quantidade": 4,
+        "preco": 847.58
+      }
+    ],
+    "total": 5425.17
+  },
+  {
+    "id": 408,
+    "clienteId": 425,
+    "produtos": [
+      {
+        "id": 580,
+        "quantidade": 5,
+        "preco": 547.13
+      },
+      {
+        "id": 995,
+        "quantidade": 3,
+        "preco": 547.32
+      },
+      {
+        "id": 684,
+        "quantidade": 5,
+        "preco": 612.7
+      },
+      {
+        "id": 918,
+        "quantidade": 5,
+        "preco": 46.1
+      }
+    ],
+    "total": 7671.61
+  },
+  {
+    "id": 409,
+    "clienteId": 306,
+    "produtos": [
+      {
+        "id": 746,
+        "quantidade": 2,
+        "preco": 558.69
+      },
+      {
+        "id": 281,
+        "quantidade": 1,
+        "preco": 46.51
+      },
+      {
+        "id": 368,
+        "quantidade": 5,
+        "preco": 887.95
+      },
+      {
+        "id": 20,
+        "quantidade": 1,
+        "preco": 408.29
+      },
+      {
+        "id": 100,
+        "quantidade": 1,
+        "preco": 621.7
+      }
+    ],
+    "total": 6633.63
+  },
+  {
+    "id": 410,
+    "clienteId": 282,
+    "produtos": [
+      {
+        "id": 418,
+        "quantidade": 5,
+        "preco": 409.48
+      },
+      {
+        "id": 584,
+        "quantidade": 3,
+        "preco": 410.68
+      },
+      {
+        "id": 164,
+        "quantidade": 2,
+        "preco": 102.26
+      },
+      {
+        "id": 23,
+        "quantidade": 3,
+        "preco": 223.05
+      }
+    ],
+    "total": 4153.11
+  },
+  {
+    "id": 411,
+    "clienteId": 470,
+    "produtos": [
+      {
+        "id": 231,
+        "quantidade": 5,
+        "preco": 657.2
+      }
+    ],
+    "total": 3286
+  },
+  {
+    "id": 412,
+    "clienteId": 327,
+    "produtos": [
+      {
+        "id": 529,
+        "quantidade": 1,
+        "preco": 406.11
+      },
+      {
+        "id": 175,
+        "quantidade": 4,
+        "preco": 653.5
+      }
+    ],
+    "total": 3020.11
+  },
+  {
+    "id": 413,
+    "clienteId": 361,
+    "produtos": [
+      {
+        "id": 255,
+        "quantidade": 1,
+        "preco": 923
+      },
+      {
+        "id": 100,
+        "quantidade": 4,
+        "preco": 844.67
+      },
+      {
+        "id": 857,
+        "quantidade": 2,
+        "preco": 206.55
+      },
+      {
+        "id": 127,
+        "quantidade": 3,
+        "preco": 466.5
+      },
+      {
+        "id": 86,
+        "quantidade": 1,
+        "preco": 296.37
+      }
+    ],
+    "total": 6410.65
+  },
+  {
+    "id": 414,
+    "clienteId": 7,
+    "produtos": [
+      {
+        "id": 39,
+        "quantidade": 3,
+        "preco": 605.8
+      },
+      {
+        "id": 932,
+        "quantidade": 5,
+        "preco": 965.31
+      },
+      {
+        "id": 587,
+        "quantidade": 2,
+        "preco": 459.14
+      },
+      {
+        "id": 320,
+        "quantidade": 2,
+        "preco": 996.44
+      }
+    ],
+    "total": 9555.11
+  },
+  {
+    "id": 415,
+    "clienteId": 494,
+    "produtos": [
+      {
+        "id": 35,
+        "quantidade": 1,
+        "preco": 205.72
+      },
+      {
+        "id": 879,
+        "quantidade": 4,
+        "preco": 736.99
+      },
+      {
+        "id": 736,
+        "quantidade": 2,
+        "preco": 738.65
+      },
+      {
+        "id": 987,
+        "quantidade": 1,
+        "preco": 172.87
+      },
+      {
+        "id": 967,
+        "quantidade": 1,
+        "preco": 960.02
+      }
+    ],
+    "total": 5763.87
+  },
+  {
+    "id": 416,
+    "clienteId": 409,
+    "produtos": [
+      {
+        "id": 386,
+        "quantidade": 3,
+        "preco": 854.46
+      },
+      {
+        "id": 646,
+        "quantidade": 4,
+        "preco": 485.92
+      }
+    ],
+    "total": 4507.06
+  },
+  {
+    "id": 417,
+    "clienteId": 28,
+    "produtos": [
+      {
+        "id": 987,
+        "quantidade": 4,
+        "preco": 428.65
+      },
+      {
+        "id": 795,
+        "quantidade": 4,
+        "preco": 580.81
+      },
+      {
+        "id": 318,
+        "quantidade": 4,
+        "preco": 734.09
+      },
+      {
+        "id": 275,
+        "quantidade": 4,
+        "preco": 376.32
+      }
+    ],
+    "total": 8479.48
+  },
+  {
+    "id": 418,
+    "clienteId": 357,
+    "produtos": [
+      {
+        "id": 844,
+        "quantidade": 5,
+        "preco": 862.93
+      },
+      {
+        "id": 895,
+        "quantidade": 3,
+        "preco": 786.65
+      },
+      {
+        "id": 754,
+        "quantidade": 2,
+        "preco": 983.13
+      },
+      {
+        "id": 693,
+        "quantidade": 5,
+        "preco": 339.05
+      }
+    ],
+    "total": 10336.11
+  },
+  {
+    "id": 419,
+    "clienteId": 114,
+    "produtos": [
+      {
+        "id": 294,
+        "quantidade": 4,
+        "preco": 394.57
+      },
+      {
+        "id": 602,
+        "quantidade": 1,
+        "preco": 889.63
+      },
+      {
+        "id": 257,
+        "quantidade": 4,
+        "preco": 342.32
+      },
+      {
+        "id": 610,
+        "quantidade": 4,
+        "preco": 864.06
+      }
+    ],
+    "total": 7293.43
+  },
+  {
+    "id": 420,
+    "clienteId": 495,
+    "produtos": [
+      {
+        "id": 934,
+        "quantidade": 3,
+        "preco": 153.7
+      }
+    ],
+    "total": 461.1
+  },
+  {
+    "id": 421,
+    "clienteId": 29,
+    "produtos": [
+      {
+        "id": 616,
+        "quantidade": 4,
+        "preco": 193.58
+      },
+      {
+        "id": 951,
+        "quantidade": 5,
+        "preco": 459.97
+      },
+      {
+        "id": 308,
+        "quantidade": 1,
+        "preco": 550.98
+      }
+    ],
+    "total": 3625.15
+  },
+  {
+    "id": 422,
+    "clienteId": 293,
+    "produtos": [
+      {
+        "id": 856,
+        "quantidade": 1,
+        "preco": 229.99
+      },
+      {
+        "id": 850,
+        "quantidade": 3,
+        "preco": 938.36
+      },
+      {
+        "id": 843,
+        "quantidade": 3,
+        "preco": 987.44
+      },
+      {
+        "id": 768,
+        "quantidade": 3,
+        "preco": 704.59
+      }
+    ],
+    "total": 8121.16
+  },
+  {
+    "id": 423,
+    "clienteId": 391,
+    "produtos": [
+      {
+        "id": 266,
+        "quantidade": 1,
+        "preco": 908.96
+      },
+      {
+        "id": 420,
+        "quantidade": 3,
+        "preco": 653.33
+      },
+      {
+        "id": 404,
+        "quantidade": 5,
+        "preco": 878.94
+      },
+      {
+        "id": 813,
+        "quantidade": 3,
+        "preco": 515.15
+      }
+    ],
+    "total": 8809.1
+  },
+  {
+    "id": 424,
+    "clienteId": 126,
+    "produtos": [
+      {
+        "id": 735,
+        "quantidade": 1,
+        "preco": 194
+      }
+    ],
+    "total": 194
+  },
+  {
+    "id": 425,
+    "clienteId": 37,
+    "produtos": [
+      {
+        "id": 461,
+        "quantidade": 1,
+        "preco": 322.96
+      },
+      {
+        "id": 593,
+        "quantidade": 2,
+        "preco": 466.36
+      },
+      {
+        "id": 694,
+        "quantidade": 2,
+        "preco": 811.9
+      }
+    ],
+    "total": 2879.48
+  },
+  {
+    "id": 426,
+    "clienteId": 333,
+    "produtos": [
+      {
+        "id": 62,
+        "quantidade": 5,
+        "preco": 36.53
+      },
+      {
+        "id": 549,
+        "quantidade": 1,
+        "preco": 352.32
+      },
+      {
+        "id": 500,
+        "quantidade": 2,
+        "preco": 769.21
+      }
+    ],
+    "total": 2073.39
+  },
+  {
+    "id": 427,
+    "clienteId": 462,
+    "produtos": [
+      {
+        "id": 644,
+        "quantidade": 2,
+        "preco": 732.91
+      },
+      {
+        "id": 592,
+        "quantidade": 3,
+        "preco": 700.55
+      }
+    ],
+    "total": 3567.47
+  },
+  {
+    "id": 428,
+    "clienteId": 36,
+    "produtos": [
+      {
+        "id": 467,
+        "quantidade": 2,
+        "preco": 163.8
+      },
+      {
+        "id": 887,
+        "quantidade": 2,
+        "preco": 148.53
+      },
+      {
+        "id": 217,
+        "quantidade": 4,
+        "preco": 206.01
+      }
+    ],
+    "total": 1448.7
+  },
+  {
+    "id": 429,
+    "clienteId": 93,
+    "produtos": [
+      {
+        "id": 986,
+        "quantidade": 2,
+        "preco": 432.04
+      }
+    ],
+    "total": 864.08
+  },
+  {
+    "id": 430,
+    "clienteId": 461,
+    "produtos": [
+      {
+        "id": 970,
+        "quantidade": 3,
+        "preco": 90.61
+      }
+    ],
+    "total": 271.83
+  },
+  {
+    "id": 431,
+    "clienteId": 500,
+    "produtos": [
+      {
+        "id": 445,
+        "quantidade": 3,
+        "preco": 959.19
+      },
+      {
+        "id": 644,
+        "quantidade": 1,
+        "preco": 613.94
+      },
+      {
+        "id": 598,
+        "quantidade": 4,
+        "preco": 754.74
+      }
+    ],
+    "total": 6510.47
+  },
+  {
+    "id": 432,
+    "clienteId": 469,
+    "produtos": [
+      {
+        "id": 65,
+        "quantidade": 3,
+        "preco": 713.22
+      },
+      {
+        "id": 790,
+        "quantidade": 4,
+        "preco": 454.37
+      },
+      {
+        "id": 114,
+        "quantidade": 5,
+        "preco": 21.69
+      },
+      {
+        "id": 642,
+        "quantidade": 2,
+        "preco": 794.85
+      }
+    ],
+    "total": 5655.29
+  },
+  {
+    "id": 433,
+    "clienteId": 107,
+    "produtos": [
+      {
+        "id": 147,
+        "quantidade": 4,
+        "preco": 707.7
+      },
+      {
+        "id": 64,
+        "quantidade": 1,
+        "preco": 565.61
+      },
+      {
+        "id": 174,
+        "quantidade": 2,
+        "preco": 603.7
+      },
+      {
+        "id": 577,
+        "quantidade": 2,
+        "preco": 459.47
+      }
+    ],
+    "total": 5522.75
+  },
+  {
+    "id": 434,
+    "clienteId": 206,
+    "produtos": [
+      {
+        "id": 687,
+        "quantidade": 2,
+        "preco": 331.43
+      },
+      {
+        "id": 307,
+        "quantidade": 5,
+        "preco": 723.88
+      }
+    ],
+    "total": 4282.26
+  },
+  {
+    "id": 435,
+    "clienteId": 163,
+    "produtos": [
+      {
+        "id": 642,
+        "quantidade": 2,
+        "preco": 174.68
+      }
+    ],
+    "total": 349.36
+  },
+  {
+    "id": 436,
+    "clienteId": 108,
+    "produtos": [
+      {
+        "id": 250,
+        "quantidade": 1,
+        "preco": 373.61
+      },
+      {
+        "id": 281,
+        "quantidade": 5,
+        "preco": 175.97
+      },
+      {
+        "id": 235,
+        "quantidade": 4,
+        "preco": 310.02
+      }
+    ],
+    "total": 2493.54
+  },
+  {
+    "id": 437,
+    "clienteId": 150,
+    "produtos": [
+      {
+        "id": 215,
+        "quantidade": 5,
+        "preco": 559.47
+      },
+      {
+        "id": 463,
+        "quantidade": 1,
+        "preco": 611.9
+      }
+    ],
+    "total": 3409.25
+  },
+  {
+    "id": 438,
+    "clienteId": 41,
+    "produtos": [
+      {
+        "id": 408,
+        "quantidade": 3,
+        "preco": 146.96
+      }
+    ],
+    "total": 440.88
+  },
+  {
+    "id": 439,
+    "clienteId": 95,
+    "produtos": [
+      {
+        "id": 83,
+        "quantidade": 4,
+        "preco": 386.35
+      }
+    ],
+    "total": 1545.4
+  },
+  {
+    "id": 440,
+    "clienteId": 272,
+    "produtos": [
+      {
+        "id": 861,
+        "quantidade": 4,
+        "preco": 836.42
+      },
+      {
+        "id": 863,
+        "quantidade": 2,
+        "preco": 106.48
+      },
+      {
+        "id": 734,
+        "quantidade": 2,
+        "preco": 718.79
+      },
+      {
+        "id": 831,
+        "quantidade": 2,
+        "preco": 952.1
+      },
+      {
+        "id": 161,
+        "quantidade": 5,
+        "preco": 954.26
+      }
+    ],
+    "total": 11671.72
+  },
+  {
+    "id": 441,
+    "clienteId": 143,
+    "produtos": [
+      {
+        "id": 581,
+        "quantidade": 4,
+        "preco": 566.69
+      },
+      {
+        "id": 518,
+        "quantidade": 5,
+        "preco": 574.62
+      },
+      {
+        "id": 347,
+        "quantidade": 4,
+        "preco": 161.66
+      }
+    ],
+    "total": 5786.5
+  },
+  {
+    "id": 442,
+    "clienteId": 140,
+    "produtos": [
+      {
+        "id": 837,
+        "quantidade": 2,
+        "preco": 646.06
+      },
+      {
+        "id": 691,
+        "quantidade": 5,
+        "preco": 21.44
+      }
+    ],
+    "total": 1399.32
+  },
+  {
+    "id": 443,
+    "clienteId": 174,
+    "produtos": [
+      {
+        "id": 367,
+        "quantidade": 4,
+        "preco": 916.6
+      },
+      {
+        "id": 611,
+        "quantidade": 4,
+        "preco": 990.09
+      },
+      {
+        "id": 937,
+        "quantidade": 3,
+        "preco": 190.11
+      }
+    ],
+    "total": 8197.09
+  },
+  {
+    "id": 444,
+    "clienteId": 199,
+    "produtos": [
+      {
+        "id": 250,
+        "quantidade": 4,
+        "preco": 856
+      },
+      {
+        "id": 6,
+        "quantidade": 5,
+        "preco": 578.5
+      }
+    ],
+    "total": 6316.5
+  },
+  {
+    "id": 445,
+    "clienteId": 214,
+    "produtos": [
+      {
+        "id": 201,
+        "quantidade": 5,
+        "preco": 531.96
+      }
+    ],
+    "total": 2659.8
+  },
+  {
+    "id": 446,
+    "clienteId": 350,
+    "produtos": [
+      {
+        "id": 565,
+        "quantidade": 5,
+        "preco": 549.79
+      },
+      {
+        "id": 401,
+        "quantidade": 4,
+        "preco": 867.98
+      }
+    ],
+    "total": 6220.87
+  },
+  {
+    "id": 447,
+    "clienteId": 211,
+    "produtos": [
+      {
+        "id": 264,
+        "quantidade": 2,
+        "preco": 10.38
+      },
+      {
+        "id": 205,
+        "quantidade": 4,
+        "preco": 343.21
+      },
+      {
+        "id": 432,
+        "quantidade": 4,
+        "preco": 776.19
+      },
+      {
+        "id": 892,
+        "quantidade": 2,
+        "preco": 313.83
+      },
+      {
+        "id": 889,
+        "quantidade": 1,
+        "preco": 300.4
+      }
+    ],
+    "total": 5426.42
+  },
+  {
+    "id": 448,
+    "clienteId": 368,
+    "produtos": [
+      {
+        "id": 584,
+        "quantidade": 4,
+        "preco": 737.62
+      },
+      {
+        "id": 626,
+        "quantidade": 1,
+        "preco": 204.83
+      },
+      {
+        "id": 638,
+        "quantidade": 2,
+        "preco": 456.14
+      },
+      {
+        "id": 975,
+        "quantidade": 5,
+        "preco": 995.63
+      },
+      {
+        "id": 638,
+        "quantidade": 5,
+        "preco": 943.93
+      }
+    ],
+    "total": 13765.39
+  },
+  {
+    "id": 449,
+    "clienteId": 202,
+    "produtos": [
+      {
+        "id": 384,
+        "quantidade": 2,
+        "preco": 638.15
+      },
+      {
+        "id": 883,
+        "quantidade": 5,
+        "preco": 990.88
+      },
+      {
+        "id": 294,
+        "quantidade": 2,
+        "preco": 816.96
+      }
+    ],
+    "total": 7864.62
+  },
+  {
+    "id": 450,
+    "clienteId": 400,
+    "produtos": [
+      {
+        "id": 654,
+        "quantidade": 4,
+        "preco": 86.97
+      },
+      {
+        "id": 39,
+        "quantidade": 3,
+        "preco": 922.83
+      },
+      {
+        "id": 815,
+        "quantidade": 1,
+        "preco": 761.72
+      },
+      {
+        "id": 233,
+        "quantidade": 5,
+        "preco": 592.37
+      }
+    ],
+    "total": 6839.94
+  },
+  {
+    "id": 451,
+    "clienteId": 48,
+    "produtos": [
+      {
+        "id": 135,
+        "quantidade": 3,
+        "preco": 277.27
+      }
+    ],
+    "total": 831.81
+  },
+  {
+    "id": 452,
+    "clienteId": 407,
+    "produtos": [
+      {
+        "id": 943,
+        "quantidade": 2,
+        "preco": 113.85
+      },
+      {
+        "id": 298,
+        "quantidade": 2,
+        "preco": 100.98
+      },
+      {
+        "id": 929,
+        "quantidade": 1,
+        "preco": 420.72
+      },
+      {
+        "id": 564,
+        "quantidade": 4,
+        "preco": 202.68
+      }
+    ],
+    "total": 1661.1
+  },
+  {
+    "id": 453,
+    "clienteId": 78,
+    "produtos": [
+      {
+        "id": 988,
+        "quantidade": 1,
+        "preco": 342.77
+      },
+      {
+        "id": 656,
+        "quantidade": 5,
+        "preco": 402.8
+      },
+      {
+        "id": 346,
+        "quantidade": 3,
+        "preco": 141.71
+      },
+      {
+        "id": 394,
+        "quantidade": 1,
+        "preco": 51.29
+      },
+      {
+        "id": 605,
+        "quantidade": 5,
+        "preco": 580.51
+      }
+    ],
+    "total": 5735.74
+  },
+  {
+    "id": 454,
+    "clienteId": 419,
+    "produtos": [
+      {
+        "id": 912,
+        "quantidade": 2,
+        "preco": 590.12
+      },
+      {
+        "id": 136,
+        "quantidade": 2,
+        "preco": 196.72
+      },
+      {
+        "id": 930,
+        "quantidade": 5,
+        "preco": 901.78
+      }
+    ],
+    "total": 6082.58
+  },
+  {
+    "id": 455,
+    "clienteId": 382,
+    "produtos": [
+      {
+        "id": 820,
+        "quantidade": 2,
+        "preco": 969.37
+      },
+      {
+        "id": 688,
+        "quantidade": 4,
+        "preco": 365.01
+      },
+      {
+        "id": 426,
+        "quantidade": 1,
+        "preco": 424.35
+      },
+      {
+        "id": 731,
+        "quantidade": 2,
+        "preco": 540.16
+      },
+      {
+        "id": 967,
+        "quantidade": 1,
+        "preco": 238.77
+      }
+    ],
+    "total": 5142.22
+  },
+  {
+    "id": 456,
+    "clienteId": 158,
+    "produtos": [
+      {
+        "id": 626,
+        "quantidade": 4,
+        "preco": 804.96
+      },
+      {
+        "id": 618,
+        "quantidade": 4,
+        "preco": 57.51
+      },
+      {
+        "id": 788,
+        "quantidade": 1,
+        "preco": 696.55
+      },
+      {
+        "id": 431,
+        "quantidade": 5,
+        "preco": 90.02
+      }
+    ],
+    "total": 4596.53
+  },
+  {
+    "id": 457,
+    "clienteId": 123,
+    "produtos": [
+      {
+        "id": 303,
+        "quantidade": 3,
+        "preco": 988.17
+      },
+      {
+        "id": 622,
+        "quantidade": 3,
+        "preco": 869.4
+      },
+      {
+        "id": 933,
+        "quantidade": 4,
+        "preco": 136.64
+      }
+    ],
+    "total": 6119.27
+  },
+  {
+    "id": 458,
+    "clienteId": 357,
+    "produtos": [
+      {
+        "id": 154,
+        "quantidade": 4,
+        "preco": 840.03
+      },
+      {
+        "id": 934,
+        "quantidade": 1,
+        "preco": 686.45
+      },
+      {
+        "id": 751,
+        "quantidade": 5,
+        "preco": 568.6
+      }
+    ],
+    "total": 6889.57
+  },
+  {
+    "id": 459,
+    "clienteId": 378,
+    "produtos": [
+      {
+        "id": 509,
+        "quantidade": 1,
+        "preco": 464.97
+      },
+      {
+        "id": 860,
+        "quantidade": 5,
+        "preco": 354.17
+      },
+      {
+        "id": 709,
+        "quantidade": 2,
+        "preco": 966.16
+      },
+      {
+        "id": 128,
+        "quantidade": 4,
+        "preco": 418.28
+      },
+      {
+        "id": 509,
+        "quantidade": 1,
+        "preco": 498.34
+      }
+    ],
+    "total": 6339.6
+  },
+  {
+    "id": 460,
+    "clienteId": 263,
+    "produtos": [
+      {
+        "id": 17,
+        "quantidade": 1,
+        "preco": 458.61
+      },
+      {
+        "id": 646,
+        "quantidade": 5,
+        "preco": 749.31
+      },
+      {
+        "id": 13,
+        "quantidade": 2,
+        "preco": 136.11
+      },
+      {
+        "id": 697,
+        "quantidade": 1,
+        "preco": 686.68
+      }
+    ],
+    "total": 5164.06
+  },
+  {
+    "id": 461,
+    "clienteId": 10,
+    "produtos": [
+      {
+        "id": 64,
+        "quantidade": 5,
+        "preco": 682.9
+      },
+      {
+        "id": 619,
+        "quantidade": 1,
+        "preco": 473.02
+      }
+    ],
+    "total": 3887.52
+  },
+  {
+    "id": 462,
+    "clienteId": 448,
+    "produtos": [
+      {
+        "id": 555,
+        "quantidade": 3,
+        "preco": 927.96
+      }
+    ],
+    "total": 2783.88
+  },
+  {
+    "id": 463,
+    "clienteId": 276,
+    "produtos": [
+      {
+        "id": 445,
+        "quantidade": 4,
+        "preco": 514.21
+      }
+    ],
+    "total": 2056.84
+  },
+  {
+    "id": 464,
+    "clienteId": 266,
+    "produtos": [
+      {
+        "id": 111,
+        "quantidade": 4,
+        "preco": 398.44
+      },
+      {
+        "id": 497,
+        "quantidade": 3,
+        "preco": 588.06
+      },
+      {
+        "id": 273,
+        "quantidade": 2,
+        "preco": 186.49
+      }
+    ],
+    "total": 3730.92
+  },
+  {
+    "id": 465,
+    "clienteId": 83,
+    "produtos": [
+      {
+        "id": 572,
+        "quantidade": 1,
+        "preco": 492.85
+      },
+      {
+        "id": 834,
+        "quantidade": 5,
+        "preco": 592.53
+      },
+      {
+        "id": 506,
+        "quantidade": 1,
+        "preco": 713.66
+      }
+    ],
+    "total": 4169.16
+  },
+  {
+    "id": 466,
+    "clienteId": 42,
+    "produtos": [
+      {
+        "id": 283,
+        "quantidade": 1,
+        "preco": 631.59
+      },
+      {
+        "id": 619,
+        "quantidade": 3,
+        "preco": 379.18
+      },
+      {
+        "id": 477,
+        "quantidade": 1,
+        "preco": 531.38
+      }
+    ],
+    "total": 2300.51
+  },
+  {
+    "id": 467,
+    "clienteId": 388,
+    "produtos": [
+      {
+        "id": 543,
+        "quantidade": 4,
+        "preco": 555.21
+      },
+      {
+        "id": 348,
+        "quantidade": 3,
+        "preco": 469.47
+      },
+      {
+        "id": 299,
+        "quantidade": 2,
+        "preco": 295.83
+      }
+    ],
+    "total": 4220.91
+  },
+  {
+    "id": 468,
+    "clienteId": 247,
+    "produtos": [
+      {
+        "id": 872,
+        "quantidade": 3,
+        "preco": 255.29
+      },
+      {
+        "id": 79,
+        "quantidade": 1,
+        "preco": 550.13
+      },
+      {
+        "id": 194,
+        "quantidade": 4,
+        "preco": 894.84
+      },
+      {
+        "id": 98,
+        "quantidade": 4,
+        "preco": 962.35
+      }
+    ],
+    "total": 8744.76
+  },
+  {
+    "id": 469,
+    "clienteId": 454,
+    "produtos": [
+      {
+        "id": 548,
+        "quantidade": 5,
+        "preco": 842.63
+      }
+    ],
+    "total": 4213.15
+  },
+  {
+    "id": 470,
+    "clienteId": 174,
+    "produtos": [
+      {
+        "id": 230,
+        "quantidade": 2,
+        "preco": 911.53
+      },
+      {
+        "id": 504,
+        "quantidade": 2,
+        "preco": 980.38
+      },
+      {
+        "id": 653,
+        "quantidade": 4,
+        "preco": 676.05
+      }
+    ],
+    "total": 6488.02
+  },
+  {
+    "id": 471,
+    "clienteId": 48,
+    "produtos": [
+      {
+        "id": 268,
+        "quantidade": 2,
+        "preco": 196.66
+      },
+      {
+        "id": 930,
+        "quantidade": 3,
+        "preco": 541.59
+      }
+    ],
+    "total": 2018.09
+  },
+  {
+    "id": 472,
+    "clienteId": 425,
+    "produtos": [
+      {
+        "id": 2,
+        "quantidade": 5,
+        "preco": 30.73
+      },
+      {
+        "id": 961,
+        "quantidade": 5,
+        "preco": 559.08
+      }
+    ],
+    "total": 2949.05
+  },
+  {
+    "id": 473,
+    "clienteId": 426,
+    "produtos": [
+      {
+        "id": 145,
+        "quantidade": 5,
+        "preco": 934.54
+      }
+    ],
+    "total": 4672.7
+  },
+  {
+    "id": 474,
+    "clienteId": 436,
+    "produtos": [
+      {
+        "id": 802,
+        "quantidade": 5,
+        "preco": 527.88
+      }
+    ],
+    "total": 2639.4
+  },
+  {
+    "id": 475,
+    "clienteId": 475,
+    "produtos": [
+      {
+        "id": 471,
+        "quantidade": 5,
+        "preco": 213.07
+      },
+      {
+        "id": 688,
+        "quantidade": 3,
+        "preco": 472.87
+      },
+      {
+        "id": 381,
+        "quantidade": 5,
+        "preco": 190.86
+      },
+      {
+        "id": 432,
+        "quantidade": 5,
+        "preco": 182.93
+      },
+      {
+        "id": 583,
+        "quantidade": 3,
+        "preco": 351.41
+      }
+    ],
+    "total": 5407.14
+  },
+  {
+    "id": 476,
+    "clienteId": 43,
+    "produtos": [
+      {
+        "id": 509,
+        "quantidade": 3,
+        "preco": 443.28
+      },
+      {
+        "id": 644,
+        "quantidade": 5,
+        "preco": 292
+      }
+    ],
+    "total": 2789.84
+  },
+  {
+    "id": 477,
+    "clienteId": 432,
+    "produtos": [
+      {
+        "id": 558,
+        "quantidade": 5,
+        "preco": 673.25
+      },
+      {
+        "id": 511,
+        "quantidade": 1,
+        "preco": 167.57
+      },
+      {
+        "id": 63,
+        "quantidade": 2,
+        "preco": 530.05
+      }
+    ],
+    "total": 4593.92
+  },
+  {
+    "id": 478,
+    "clienteId": 283,
+    "produtos": [
+      {
+        "id": 140,
+        "quantidade": 3,
+        "preco": 474.09
+      },
+      {
+        "id": 435,
+        "quantidade": 3,
+        "preco": 661.55
+      },
+      {
+        "id": 648,
+        "quantidade": 3,
+        "preco": 876.42
+      },
+      {
+        "id": 940,
+        "quantidade": 4,
+        "preco": 183.47
+      }
+    ],
+    "total": 6770.06
+  },
+  {
+    "id": 479,
+    "clienteId": 212,
+    "produtos": [
+      {
+        "id": 478,
+        "quantidade": 4,
+        "preco": 885.52
+      }
+    ],
+    "total": 3542.08
+  },
+  {
+    "id": 480,
+    "clienteId": 443,
+    "produtos": [
+      {
+        "id": 33,
+        "quantidade": 1,
+        "preco": 559.96
+      },
+      {
+        "id": 953,
+        "quantidade": 4,
+        "preco": 171.6
+      },
+      {
+        "id": 327,
+        "quantidade": 3,
+        "preco": 186.99
+      },
+      {
+        "id": 544,
+        "quantidade": 2,
+        "preco": 581.63
+      },
+      {
+        "id": 389,
+        "quantidade": 2,
+        "preco": 590.21
+      }
+    ],
+    "total": 4151.01
+  },
+  {
+    "id": 481,
+    "clienteId": 355,
+    "produtos": [
+      {
+        "id": 594,
+        "quantidade": 4,
+        "preco": 508.36
+      },
+      {
+        "id": 696,
+        "quantidade": 4,
+        "preco": 256.34
+      },
+      {
+        "id": 897,
+        "quantidade": 1,
+        "preco": 655.56
+      }
+    ],
+    "total": 3714.36
+  },
+  {
+    "id": 482,
+    "clienteId": 222,
+    "produtos": [
+      {
+        "id": 852,
+        "quantidade": 5,
+        "preco": 531.15
+      },
+      {
+        "id": 762,
+        "quantidade": 2,
+        "preco": 623.16
+      },
+      {
+        "id": 796,
+        "quantidade": 2,
+        "preco": 752.06
+      }
+    ],
+    "total": 5406.19
+  },
+  {
+    "id": 483,
+    "clienteId": 250,
+    "produtos": [
+      {
+        "id": 975,
+        "quantidade": 5,
+        "preco": 50.23
+      },
+      {
+        "id": 947,
+        "quantidade": 2,
+        "preco": 185.53
+      }
+    ],
+    "total": 622.21
+  },
+  {
+    "id": 484,
+    "clienteId": 285,
+    "produtos": [
+      {
+        "id": 163,
+        "quantidade": 4,
+        "preco": 164.22
+      }
+    ],
+    "total": 656.88
+  },
+  {
+    "id": 485,
+    "clienteId": 324,
+    "produtos": [
+      {
+        "id": 900,
+        "quantidade": 4,
+        "preco": 991.96
+      }
+    ],
+    "total": 3967.84
+  },
+  {
+    "id": 486,
+    "clienteId": 274,
+    "produtos": [
+      {
+        "id": 968,
+        "quantidade": 1,
+        "preco": 998.55
+      }
+    ],
+    "total": 998.55
+  },
+  {
+    "id": 487,
+    "clienteId": 201,
+    "produtos": [
+      {
+        "id": 34,
+        "quantidade": 5,
+        "preco": 312.19
+      },
+      {
+        "id": 318,
+        "quantidade": 5,
+        "preco": 377.03
+      },
+      {
+        "id": 601,
+        "quantidade": 2,
+        "preco": 15.1
+      }
+    ],
+    "total": 3476.3
+  },
+  {
+    "id": 488,
+    "clienteId": 112,
+    "produtos": [
+      {
+        "id": 301,
+        "quantidade": 4,
+        "preco": 160.24
+      },
+      {
+        "id": 507,
+        "quantidade": 4,
+        "preco": 196.17
+      }
+    ],
+    "total": 1425.64
+  },
+  {
+    "id": 489,
+    "clienteId": 253,
+    "produtos": [
+      {
+        "id": 235,
+        "quantidade": 3,
+        "preco": 737.38
+      },
+      {
+        "id": 916,
+        "quantidade": 4,
+        "preco": 526.14
+      },
+      {
+        "id": 983,
+        "quantidade": 4,
+        "preco": 856.12
+      },
+      {
+        "id": 934,
+        "quantidade": 4,
+        "preco": 969.41
+      },
+      {
+        "id": 101,
+        "quantidade": 4,
+        "preco": 564.88
+      }
+    ],
+    "total": 13878.34
+  },
+  {
+    "id": 490,
+    "clienteId": 260,
+    "produtos": [
+      {
+        "id": 663,
+        "quantidade": 3,
+        "preco": 276.3
+      },
+      {
+        "id": 428,
+        "quantidade": 3,
+        "preco": 831.89
+      },
+      {
+        "id": 658,
+        "quantidade": 5,
+        "preco": 544.87
+      }
+    ],
+    "total": 6048.92
+  },
+  {
+    "id": 491,
+    "clienteId": 71,
+    "produtos": [
+      {
+        "id": 910,
+        "quantidade": 5,
+        "preco": 568.35
+      },
+      {
+        "id": 262,
+        "quantidade": 1,
+        "preco": 674.38
+      }
+    ],
+    "total": 3516.13
+  },
+  {
+    "id": 492,
+    "clienteId": 438,
+    "produtos": [
+      {
+        "id": 869,
+        "quantidade": 3,
+        "preco": 267.75
+      }
+    ],
+    "total": 803.25
+  },
+  {
+    "id": 493,
+    "clienteId": 70,
+    "produtos": [
+      {
+        "id": 237,
+        "quantidade": 4,
+        "preco": 924.57
+      },
+      {
+        "id": 345,
+        "quantidade": 1,
+        "preco": 482.03
+      },
+      {
+        "id": 511,
+        "quantidade": 5,
+        "preco": 104.77
+      }
+    ],
+    "total": 4704.16
+  },
+  {
+    "id": 494,
+    "clienteId": 403,
+    "produtos": [
+      {
+        "id": 266,
+        "quantidade": 3,
+        "preco": 283.31
+      }
+    ],
+    "total": 849.93
+  },
+  {
+    "id": 495,
+    "clienteId": 245,
+    "produtos": [
+      {
+        "id": 26,
+        "quantidade": 1,
+        "preco": 27.71
+      },
+      {
+        "id": 793,
+        "quantidade": 2,
+        "preco": 33.71
+      },
+      {
+        "id": 280,
+        "quantidade": 2,
+        "preco": 933.77
+      },
+      {
+        "id": 609,
+        "quantidade": 1,
+        "preco": 218.86
+      }
+    ],
+    "total": 2181.53
+  },
+  {
+    "id": 496,
+    "clienteId": 416,
+    "produtos": [
+      {
+        "id": 152,
+        "quantidade": 5,
+        "preco": 521.77
+      },
+      {
+        "id": 372,
+        "quantidade": 4,
+        "preco": 238.39
+      },
+      {
+        "id": 990,
+        "quantidade": 4,
+        "preco": 886.25
+      },
+      {
+        "id": 335,
+        "quantidade": 4,
+        "preco": 375.15
+      },
+      {
+        "id": 175,
+        "quantidade": 2,
+        "preco": 169.81
+      }
+    ],
+    "total": 8947.63
+  },
+  {
+    "id": 497,
+    "clienteId": 396,
+    "produtos": [
+      {
+        "id": 100,
+        "quantidade": 3,
+        "preco": 735.22
+      },
+      {
+        "id": 747,
+        "quantidade": 3,
+        "preco": 540.43
+      },
+      {
+        "id": 585,
+        "quantidade": 3,
+        "preco": 441.03
+      },
+      {
+        "id": 878,
+        "quantidade": 1,
+        "preco": 852.59
+      }
+    ],
+    "total": 6002.63
+  },
+  {
+    "id": 498,
+    "clienteId": 247,
+    "produtos": [
+      {
+        "id": 968,
+        "quantidade": 4,
+        "preco": 366.21
+      }
+    ],
+    "total": 1464.84
+  },
+  {
+    "id": 499,
+    "clienteId": 98,
+    "produtos": [
+      {
+        "id": 467,
+        "quantidade": 2,
+        "preco": 197.58
+      },
+      {
+        "id": 974,
+        "quantidade": 3,
+        "preco": 149.3
+      },
+      {
+        "id": 570,
+        "quantidade": 4,
+        "preco": 638.3
+      },
+      {
+        "id": 965,
+        "quantidade": 5,
+        "preco": 345.43
+      }
+    ],
+    "total": 5123.41
+  },
+  {
+    "id": 500,
+    "clienteId": 144,
+    "produtos": [
+      {
+        "id": 281,
+        "quantidade": 1,
+        "preco": 359.31
+      },
+      {
+        "id": 749,
+        "quantidade": 5,
+        "preco": 766.75
+      },
+      {
+        "id": 185,
+        "quantidade": 2,
+        "preco": 748.86
+      },
+      {
+        "id": 243,
+        "quantidade": 2,
+        "preco": 761.02
+      },
+      {
+        "id": 865,
+        "quantidade": 2,
+        "preco": 287.34
+      }
+    ],
+    "total": 7787.5
+  }
+]
