@@ -1,150 +1,143 @@
 'use client';
 
-import { useState } from 'react';
-import { AiFillTool } from 'react-icons/ai';
+import { useState, useEffect } from 'react';
+import { FaWrench, FaCode, FaServer, FaFileCode, FaExchangeAlt, FaShieldAlt } from 'react-icons/fa';
 import { FiChevronDown, FiChevronUp, FiMenu } from 'react-icons/fi';
-import { FaCode, FaWrench, FaLock, FaServer, FaFileCode } from 'react-icons/fa';
 import Link from 'next/link';
-import { PiThermometerDuotone } from "react-icons/pi";
+import { usePathname } from 'next/navigation';
 
-const tools = [
+const toolGroups = [
     {
         group: 'Geradores',
         icon: <FaWrench className="text-lg" />,
         tools: [
-            { name: 'Gerador de CPF', href: '/cpf-generator' },
-            { name: 'Gerador de CNPJ', href: '/cnpj-generator' },
-            { name: 'Gerador de CEP', href: '/cep-generator' },
-            { name: 'Gerador de Placa de Carro', href: '/license-plate-generator' },
-            { name: 'Gerador de Cartão de Crédito', href: '/credit-card-generator' },
-            { name: 'Gerador de Cartão de Débito', href: '/debit-card-generator' },
-            { name: 'Gerador de Senhas', href: '/password-generator' },
-            { name: 'Gerador de Lorem Ipsum', href: '/lorem-ipsum-generator' },
+            { name: 'CPF/CNPJ', href: '/generators/docs' },
+            { name: 'Senhas Seguras', href: '/generators/passwords' },
+            { name: 'UUID', href: '/generators/uuid' },
+            { name: 'Dados Fake', href: '/generators/mock-data' },
         ],
     },
     {
-        group: 'Codificadores',
+        group: 'Codificação',
         icon: <FaCode className="text-lg" />,
         tools: [
-            { name: 'Codificador Base64', href: '/base64-encoder' },
-            { name: 'Decodificador Base64', href: '/base64-decoder' },
+            { name: 'Base64 (Encode/Decode)', href: '/encoding/base64' },
+            { name: 'URL (Encode/Decode)', href: '/encoding/url' },
+            { name: 'JWT Debugger', href: '/encoding/jwt' },
         ],
     },
     {
-        group: 'Calculadoras de Hash',
-        icon: <FaLock className="text-lg" />,
+        group: 'Criptografia',
+        icon: <FaShieldAlt className="text-lg" />,
         tools: [
-            { name: 'Hash MD5', href: '/hash-md5' },
-            { name: 'Hash SHA1', href: '/hash-sha1' },
-            { name: 'Hash SHA256', href: '/hash-sha256' },
-            { name: 'Hash SHA512', href: '/hash-sha512' },
+            { name: 'Hash + Comparador', href: '/crypto/hash' },
+            { name: 'Cifras', href: '/crypto/ciphers' },
         ],
     },
     {
-        group: 'Simulador de APIs',
-        icon: <FaServer className="text-lg" />,
+        group: 'Conversores',
+        icon: <FaExchangeAlt className="text-lg" />,
         tools: [
-            { name: 'API Fake', href: '/api-fake' },
-
+            { name: 'Unidades/Temperatura', href: '/converters/units' },
+            { name: 'Bases Numéricas', href: '/converters/numeric' },
+            { name: 'Timestamp', href: '/converters/timestamp' },
         ],
     },
     {
-        group: 'Formatadores',
+        group: 'Debug',
         icon: <FaFileCode className="text-lg" />,
         tools: [
-            { name: 'Embelezador de Código', href: '/code-beautifier' },
+            { name: 'JSON Tools', href: '/debug/json' },
+            { name: 'Regex Tester', href: '/debug/regex' },
+            { name: 'HTTP Headers', href: '/debug/headers' },
         ],
     },
     {
-        group: 'Temperaturas',
-        icon: <PiThermometerDuotone className="text-lg" />,
+        group: 'API Tools',
+        icon: <FaServer className="text-lg" />,
         tools: [
-            { name: 'Converter Celsius para Fahrenheit', href: '/temperaturas?from=celsius&to=fahrenheit' },
-            { name: 'Converter Fahrenheit para Celsius', href: '/temperaturas?from=fahrenheit&to=celsius' },
-            { name: 'Converter Celsius para Kelvin', href: '/temperaturas?from=celsius&to=kelvin' },
-            { name: 'Converter Kelvin para Celsius', href: '/temperaturas?from=kelvin&to=celsius' },
-            { name: 'Converter Fahrenheit para Kelvin', href: '/temperaturas?from=fahrenheit&to=kelvin' },
-            { name: 'Converter Kelvin para Fahrenheit', href: '/temperaturas?from=kelvin&to=fahrenheit' },
+            { name: 'API Fake', href: '/api-tools/fake' },
+            { name: 'Webhook Tester', href: '/api-tools/webhook' },
         ],
-    },
+    }
 ];
 
 export default function Sidebar() {
+    const pathname = usePathname();
     const [openGroups, setOpenGroups] = useState<Record<string, boolean>>({});
     const [isSidebarOpen, setSidebarOpen] = useState(false);
 
+    useEffect(() => {
+        const initialOpenState: Record<string, boolean> = {};
+
+        const activeGroup = toolGroups.find(group =>
+            group.tools.some(tool => pathname.startsWith(tool.href))
+        );
+
+        if (activeGroup) {
+            initialOpenState[activeGroup.group] = true;
+        }
+
+        setOpenGroups(initialOpenState);
+    }, [pathname]);
+
     const toggleGroup = (group: string) => {
-        setOpenGroups((prev) => ({
-            ...prev,
-            [group]: !prev[group],
-        }));
+        setOpenGroups(prev => ({ ...prev, [group]: !prev[group] }));
     };
 
-    const handleLinkClick = () => {
-        if (window.innerWidth < 1024) {
-            setSidebarOpen(false);
-        }
+    const isActiveRoute = (href: string) => {
+        return pathname.startsWith(href);
     };
 
     return (
         <div className="lg:w-64">
-            <div className="flex items-center justify-between bg-white h-16 px-4 lg:hidden shadow-md">
+            <div className="lg:hidden flex items-center justify-between bg-white h-16 px-4 shadow-md">
                 <button
                     onClick={() => setSidebarOpen(!isSidebarOpen)}
                     className="text-gray-800 focus:outline-none"
                 >
                     <FiMenu className="text-2xl" />
                 </button>
-                {isSidebarOpen && (
-                    <div className="flex items-center text-gray-800">
-                        <AiFillTool className="mr-2 text-xl" />
-                        <span className="font-bold">DevTools</span>
-                    </div>
-                )}
             </div>
 
-            <div
-                className={`absolute top-0 left-0 z-40 h-full w-64 bg-white shadow-md transform transition-transform duration-300 lg:relative lg:translate-x-0 ${isSidebarOpen ? 'translate-x-0' : '-translate-x-full'
-                    }`}
-            >
+            <div className={`
+                fixed lg:static z-40 h-full w-64 bg-white shadow-lg lg:shadow-none
+                transform transition-transform duration-300 lg:translate-x-0
+                ${isSidebarOpen ? 'translate-x-0' : '-translate-x-full'}
+            `}>
                 <div className="flex items-center justify-center h-16 bg-gray-800 text-white">
-                    <AiFillTool className="mr-2 text-xl" />
-                    <span className="font-bold">
-                        <Link href="/" className="text-white">
-                            DevTools
-                        </Link>
-                    </span>
+                    <span className="font-bold text-xl">DevTools</span>
                 </div>
+
                 <nav className="p-4 overflow-y-auto h-[calc(100vh-4rem)]">
-                    <ul className="space-y-2">
-                        {tools.map((group) => (
+                    <ul className="space-y-1">
+                        {toolGroups.map((group) => (
                             <li key={group.group}>
-                                <div
+                                <button
                                     onClick={() => toggleGroup(group.group)}
-                                    className="flex items-center justify-between px-4 py-2 cursor-pointer text-gray-700 hover:bg-gray-100 rounded-lg"
+                                    className="w-full flex items-center justify-between px-3 py-2.5 text-gray-700 hover:bg-gray-100 rounded-lg transition-colors"
                                 >
                                     <div className="flex items-center space-x-3">
                                         {group.icon}
-                                        <span>{group.group}</span>
+                                        <span className="font-medium">{group.group}</span>
                                     </div>
                                     {openGroups[group.group] ? (
                                         <FiChevronUp className="text-sm" />
                                     ) : (
                                         <FiChevronDown className="text-sm" />
                                     )}
-                                </div>
-                                <ul
-                                    className={`pl-8 mt-2 space-y-1 overflow-hidden transition-[max-height] duration-300 ease-in-out ${openGroups[group.group]
-                                        ? 'max-h-[500px]'
-                                        : 'max-h-0'
-                                        }`}
-                                >
+                                </button>
+
+                                <ul className={`pl-9 mt-1 space-y-1 overflow-hidden transition-all ${openGroups[group.group] ? 'max-h-96' : 'max-h-0'}`}>
                                     {group.tools.map((tool) => (
                                         <li key={tool.name}>
                                             <Link
                                                 href={tool.href}
-                                                onClick={handleLinkClick}
-                                                className="block px-2 py-1 text-gray-600 hover:bg-gray-200 rounded-lg"
+                                                onClick={() => window.innerWidth < 1024 && setSidebarOpen(false)}
+                                                className={`block px-3 py-2 text-sm rounded-lg transition-colors
+                                                    ${isActiveRoute(tool.href)
+                                                        ? 'bg-blue-50 text-blue-600 font-medium'
+                                                        : 'text-gray-600 hover:bg-gray-100'}`}
                                             >
                                                 {tool.name}
                                             </Link>
@@ -161,7 +154,7 @@ export default function Sidebar() {
                 <div
                     className="fixed inset-0 z-30 bg-black bg-opacity-50 lg:hidden"
                     onClick={() => setSidebarOpen(false)}
-                ></div>
+                />
             )}
         </div>
     );
